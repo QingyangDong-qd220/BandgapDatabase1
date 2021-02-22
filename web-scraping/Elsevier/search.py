@@ -15,7 +15,7 @@ def get_response(url, Data, Headers):
 
 
 # keywords for searching
-api_key = '7489b6df4a5cddaedb7589081366dc53'
+api_key = ''
 base_url = 'https://api.elsevier.com/content/search/sciencedirect'
 query_text = 'band gap'
 Offset = 0
