@@ -7,7 +7,7 @@ import time
 import re
 
 
-api_key = '7489b6df4a5cddaedb7589081366dc53'
+api_key = ''
 journal_name = 'Title'
 
 
