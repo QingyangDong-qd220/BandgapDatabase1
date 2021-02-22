@@ -15,6 +15,9 @@ import json
 # suppress Pandas FutureWarning
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
+'''
+combine, normalize, and clean data records
+'''
 
 # define a nested model
 class Temperature(TemperatureModel):
