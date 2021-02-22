@@ -18,7 +18,7 @@ def scrap_spr_tdm(starting_number, year, num_articles, dump):
     output: response in JATS format (".sav", contains full text)
     '''
     
-    tdm_api_key = '9b88a95d3addb8f85a9177ac33b74ae4'
+    tdm_api_key = ''
     tdm_url = 'https://articles-api.springer.com/xmldata/jats'
     # year = 2020
     empty = '%22band%20gap%22%20AND%20year:{}'.format(year)
