@@ -1,0 +1,633 @@
+<(band gap,bandgap__specifier,53,55), (hematite,compound__names,58,59), (∼2.0,bandgap__raw_value,61,63), (eV,bandgap__raw_units,63,64)> Confidence:  1.0
+<(Vanadium oxides,compound__names,0,2), (band gap,bandgap__specifier,9,11), (2.6,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(sulfide kesterite,compound__names,2,4), (band gap,bandgap__specifier,11,13), (1.5,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(ZnO,compound__names,3,4), (band gap,bandgap__specifier,7,9), (3.37,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(TiO2,compound__names,2,3), (band gap,bandgap__specifier,6,8), (3.2,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(TiO2,compound__names,1,2), (band gap,bandgap__specifier,4,6), (∼3.2,bandgap__raw_value,7,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(NaInO2,compound__names,0,1), (band gap,bandgap__specifier,6,8), (3.9,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(band gap,bandgap__specifier,7,9), (NaIn0.9Fe0.1O2,compound__names,11,12), (2.8,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (NaIn0.9Fe0.1O2,compound__names,16,17), (2.8,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CoxCu1−xFe2O4,compound__names,6,7), (1.4,bandgap__raw_value,12,13), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CoxCu1−xFe2O4,compound__names,6,7), (1.44,bandgap__raw_value,14,15), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CoxCu1−xFe2O4,compound__names,6,7), (1.37,bandgap__raw_value,16,17), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CoxCu1−xFe2O4,compound__names,6,7), (1.29,bandgap__raw_value,18,19), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CoxCu1−xFe2O4,compound__names,6,7), (1.2,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(CoxCu1−xFe2O4,compound__names,6,7), (band gap,bandgap__specifier,9,11), (1.82,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (ferrite,compound__names,9,10), (1.76,bandgap__raw_value,27,28), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (ferrite,compound__names,9,10), (1.70,bandgap__raw_value,29,30), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (ferrite,compound__names,9,10), (1.42,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (ferrite,compound__names,9,10), (1.25,bandgap__raw_value,34,35), (eV,bandgap__raw_units,35,36)> Confidence:  1.0
+<(CuFe2O4,compound__names,0,1), (band gap,bandgap__specifier,3,5), (1.4,bandgap__raw_value,6,7), (eV,bandgap__raw_units,7,8)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (3.0,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9), (TiO2,compound__names,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (3.2,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14), (TiO2,compound__names,17,18)> Confidence:  1.0
+<(TiO2,compound__names,7,8), (band gap,bandgap__specifier,11,13), (3.0,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,7,9), (a-TiO2,compound__names,11,12), (3.04,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (a-TiO2,compound__names,7,8), (3.04,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (BTS,compound__names,4,5), (0.2,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (MgIn2S4,compound__names,4,5), (2.00,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(stanane,compound__names,6,7), (band gap,bandgap__specifier,12,14), (1.00,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(stanane,compound__names,4,5), (band gap,bandgap__specifier,10,12), (1.00,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(stanane,compound__names,8,9), (band gap,bandgap__specifier,14,16), (1.22,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,4,6), (3.37,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9)> Confidence:  1.0
+<(ZnO,compound__names,5,6), (band gap,bandgap__specifier,9,11), (3.37,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(SrHfO3,compound__names,6,7), (band gap,bandgap__specifier,13,15), (3.9,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(MoS2,compound__names,3,4), (band gap,bandgap__specifier,14,16), (∼1.29,bandgap__raw_value,17,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(MoS2,compound__names,3,4), (band gap,bandgap__specifier,27,29), (∼1.80,bandgap__raw_value,30,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (graphane,compound__names,11,12), (4.47,bandgap__raw_value,13,14), (eV),bandgap__raw_units,14,16)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (silicane,compound__names,17,18), (3.51,bandgap__raw_value,19,20), (eV),bandgap__raw_units,20,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (germanane,compound__names,24,25), (1.55,bandgap__raw_value,26,27), (eV),bandgap__raw_units,27,29)> Confidence:  1.0
+<(band gap,bandgap__specifier,23,25), (stanane,compound__names,26,27), (1.00,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (stanane,compound__names,4,5), (0.37,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (stanane,compound__names,4,5), (1.43,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(band gap,bandgap__specifier,35,37), (2.88,bandgap__raw_value,38,39), (eV,bandgap__raw_units,39,40), (CeO2,compound__names,47,48)> Confidence:  1.0
+<(band gap,bandgap__specifier,35,37), (3.01,bandgap__raw_value,43,44), (eV,bandgap__raw_units,44,45), (CeO2,compound__names,47,48)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (TiO2,compound__names,7,8), (3.2,bandgap__raw_value,9,10), (eV),bandgap__raw_units,10,12)> Confidence:  1.0
+<(band gap,bandgap__specifier,12,14), (TiO2,compound__names,15,16), (3.2,bandgap__raw_value,18,19), (eV),bandgap__raw_units,19,21)> Confidence:  1.0
+<(band gap,bandgap__specifier,13,15), (SnO2,compound__names,17,18), (3.6,bandgap__raw_value,19,20), (eV),bandgap__raw_units,20,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,35,37), (ZrO2,compound__names,38,39), (5.0–5.85,bandgap__raw_value,40,43), (eV),bandgap__raw_units,43,45)> Confidence:  1.0
+<(band gap,bandgap__specifier,27,29), (zirconium dioxide,compound__names,30,32), (5.0–5.85,bandgap__raw_value,33,36), (eV),bandgap__raw_units,36,38)> Confidence:  1.0
+<(band gap,bandgap__specifier,16,18), (TiO2,compound__names,19,20), (3.2,bandgap__raw_value,21,22), (eV),bandgap__raw_units,22,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,11,13), (ITO,compound__names,14,15), (3.65,bandgap__raw_value,16,17), (eV),bandgap__raw_units,17,19)> Confidence:  1.0
+<(band gap,bandgap__specifier,19,21), (Cr2CF2,compound__names,23,24), (1.105,bandgap__raw_value,25,26), (eV),bandgap__raw_units,26,28)> Confidence:  1.0
+<(band gap,bandgap__specifier,22,24), (CeO2,compound__names,26,27), (3.2,bandgap__raw_value,28,29), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CuO,compound__names,5,6), (1.2,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (α-Fe2O3,compound__names,3,4), (2.2,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (CsGeI3,compound__names,3,4), (1.63,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (CsGeI3,compound__names,3,4), (1.63,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (zinc alumina,compound__names,6,8), (3.8,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (K2Ti4O9,compound__names,6,7), (3.2–3.4,bandgap__raw_value,9,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (PbS,compound__names,4,5), (0.41,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9)> Confidence:  1.0
+<(bandgap,bandgap__specifier,2,3), (BWO,compound__names,4,5), (2.96,bandgap__raw_value,6,7), (eV,bandgap__raw_units,7,8)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (CdTe,compound__names,3,4), (1.5,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7)> Confidence:  1.0
+<(Eg,bandgap__specifier,2,3), (CIGS,compound__names,4,5), (1.25,bandgap__raw_value,6,7), (eV,bandgap__raw_units,7,8)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (SrTiO3,compound__names,5,6), (3.2,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9)> Confidence:  1.0
+<(Bandgap,bandgap__specifier,0,1), (SnO2,compound__names,3,4), (3.1,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (AgCl,compound__names,5,6), (3.1-3.3,bandgap__raw_value,8,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CuO,compound__names,11,12), (2.59,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CuO,compound__names,11,12), (2.71,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CuO,compound__names,11,12), (2.86,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CuO,compound__names,33,34), (1.2,bandgap__raw_value,35,36), (eV,bandgap__raw_units,36,37)> Confidence:  1.0
+<(PbI2,compound__names,7,8), (bandgap,bandgap__specifier,14,15), (2.28–2.5,bandgap__raw_value,16,19), (eV),bandgap__raw_units,19,21)> Confidence:  1.0
+<(PbI2,compound__names,40,41), (bandgap,bandgap__specifier,44,45), (3.72,bandgap__raw_value,46,47), (eV,bandgap__raw_units,47,48)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (4.9,bandgap__raw_value,4,5), (eV,bandgap__raw_units,5,6), (gallium oxide,compound__names,19,21)> Confidence:  1.0
+<(Cs2AgSbCl6,compound__names,4,5), (bandgap,bandgap__specifier,7,8), (2.54,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(bandgap,bandgap__specifier,2,3), (Cs2AgSb0.5In0.5Cl6,compound__names,4,5), (2.81,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CICS,compound__names,5,6), (at,temperature__specifier,12,13), (350,temperature__raw_value,13,14), (°C,temperature__raw_units,14,15), (0.8,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CICS,compound__names,5,6), (at,temperature__specifier,12,13), (350,temperature__raw_value,13,14), (°C,temperature__raw_units,14,15), (2,bandgap__raw_value,35,36), (eV,bandgap__raw_units,36,37)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (CuIn0.9Ce0.1S2,compound__names,13,14), (1.26,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(K11RbB28O48,compound__names,4,5), (band gap,bandgap__specifier,21,23), (4.41,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(Zinc oxide,compound__names,0,2), (bandgap,bandgap__specifier,30,31), (3.37,temperature__raw_value,32,33), (eV),bandgap__raw_units,33,35), (at,temperature__specifier,39,40), (300,bandgap__raw_value,40,41), (K,temperature__raw_units,41,42)> Confidence:  1.0
+<(diamond,compound__names,7,8), (bandgap,bandgap__specifier,10,11), (5.47,bandgap__raw_value,11,12), (eV),bandgap__raw_units,12,14)> Confidence:  1.0
+<(Eg,bandgap__specifier,1,2), (3.20,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9), (ZnO,compound__names,13,14)> Confidence:  1.0
+<(Eg,bandgap__specifier,1,2), (3.23,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12), (ZnO,compound__names,13,14)> Confidence:  1.0
+<(Eg,bandgap__specifier,1,2), (WO3,compound__names,4,5), (∼1.31,bandgap__raw_value,9,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(Eg,bandgap__specifier,1,2), (WO3,compound__names,4,5), (∼2.69,bandgap__raw_value,24,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(CsPb2Br5,compound__names,2,3), (bandgap,bandgap__specifier,5,6), (2.98,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9)> Confidence:  1.0
+<(Ag2CO3,compound__names,7,8), (band gap,bandgap__specifier,12,14), (2.3,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(MoS2,compound__names,1,2), (band gap,bandgap__specifier,5,7), (1.8,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(Bi2Se3,compound__names,10,11), (band gap,bandgap__specifier,14,16), (0.3,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(TiO2,compound__names,3,4), (band gap,bandgap__specifier,6,8), (3.2,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(ZnO,compound__names,3,4), (band gap,bandgap__specifier,7,9), (3.37,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(TiO2,compound__names,2,3), (band gap,bandgap__specifier,6,8), (3.2,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(GeC,compound__names,1,2), (band gap,bandgap__specifier,5,7), (2.11,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(GeC,compound__names,3,4), (band gap,bandgap__specifier,7,9), (2.19,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(TiO2,compound__names,1,2), (band gap,bandgap__specifier,4,6), (∼3.2,bandgap__raw_value,7,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(Cs4PbBr6,compound__names,10,11), (band gap,bandgap__specifier,32,34), (>3.4,bandgap__raw_value,35,37), (eV),bandgap__raw_units,37,39)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (MAPbCl3,compound__names,4,5), (2.91,bandgap__raw_value,11,12), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (MAPbBr3,compound__names,6,7), (2.25,bandgap__raw_value,13,14), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (MAPbI3,compound__names,8,9), (1.53,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(Cs3Sb2Br9,compound__names,6,7), (band gap,bandgap__specifier,14,16), (2.36,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,4,6), (3.37,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9)> Confidence:  1.0
+<(ZnO,compound__names,5,6), (band gap,bandgap__specifier,9,11), (3.37,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(SrHfO3,compound__names,6,7), (band gap,bandgap__specifier,13,15), (3.9,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(germanane,compound__names,15,16), (band gap,bandgap__specifier,22,24), (1.55,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(C68,compound__names,7,8), (band gap,bandgap__specifier,16,18), (1.0,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21), (at,temperature__specifier,50,51), (300,temperature__raw_value,51,52), (K,temperature__raw_units,52,53)> Confidence:  1.0
+<(GDY,compound__names,9,10), (band gaps,bandgap__specifier,14,16), (0.52,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,5,7), (∼3.96,bandgap__raw_value,11,13), (eV),bandgap__raw_units,13,15), (Cs4PbBr6,compound__names,21,22)> Confidence:  1.0
+<(bandgap,bandgap__specifier,16,17), (∼3.96,bandgap__raw_value,18,20), (eV),bandgap__raw_units,20,22), (Cs4PbBr6,compound__names,23,24)> Confidence:  1.0
+<(bandgap,bandgap__specifier,12,13), (2.75,bandgap__raw_value,14,15), (eV),bandgap__raw_units,15,17), (Cs2ReBr6,compound__names,18,19)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (0.389,bandgap__raw_value,7,8), (eV,bandgap__raw_units,16,17), (Ca2AuAs,compound__names,18,19)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (0.313,bandgap__raw_value,9,10), (eV,bandgap__raw_units,16,17), (Ca2AuSb,compound__names,20,21)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (0.160,bandgap__raw_value,11,12), (eV,bandgap__raw_units,16,17), (Ca2AuBi,compound__names,22,23)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (0.00,bandgap__raw_value,13,14), (eV,bandgap__raw_units,16,17), (Ca2HgSn,compound__names,24,25)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (0.00,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17), (Ca2HgPb,compound__names,26,27)> Confidence:  1.0
+<(band gaps,bandgap__specifier,38,40), (g-C3N4,compound__names,42,43), (2.92,bandgap__raw_value,49,50), (eV,bandgap__raw_units,50,51)> Confidence:  1.0
+<(band gaps,bandgap__specifier,38,40), (CuI,compound__names,44,45), (2.86,bandgap__raw_value,52,53), (eV,bandgap__raw_units,53,54)> Confidence:  1.0
+<(α-Bi2Sn2O7,compound__names,5,6), (band gap,bandgap__specifier,13,15), (3.47,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(α-Bi2Sn2O7,compound__names,5,6), (band gap,bandgap__specifier,13,15), (3.51,bandgap__raw_value,23,24), (eV,bandgap__raw_units,24,25)> Confidence:  1.0
+<(YMO,compound__names,0,1), (band gap,bandgap__specifier,9,11), (1.5,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(band gap,bandgap__specifier,29,31), (AgCrSe2,compound__names,32,33), (∼0.49,bandgap__raw_value,33,35), (eV,bandgap__raw_units,35,36), (at,temperature__specifier,36,37), (300,temperature__raw_value,37,38), (K,temperature__raw_units,38,39)> Confidence:  1.0
+<(CdSe,compound__names,9,10), (band gap,bandgap__specifier,13,15), (1.72,bandgap__raw_value,23,24), (eV,bandgap__raw_units,24,25)> Confidence:  1.0
+<(tungsten trioxide,compound__names,6,8), (band gap,bandgap__specifier,18,20), (2.7,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(WO3,compound__names,9,10), (band gap,bandgap__specifier,18,20), (2.7,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(Ag / AgCl,compound__names,10,13), (band gaps,bandgap__specifier,15,17), (2.7,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(Li3Sb,compound__names,42,43), (band gap,bandgap__specifier,48,50), (∼1.34,bandgap__raw_value,51,53), (eV,bandgap__raw_units,53,54)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (FH2O2,compound__names,17,18), (4.20,bandgap__raw_value,19,20), (eV),bandgap__raw_units,20,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,16,18), (1.7,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23), (Fe3O4-HCNPs,compound__names,26,27)> Confidence:  1.0
+<(g-C3N4,compound__names,4,5), (band gap,bandgap__specifier,17,19), (2.7,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(MoSe2,compound__names,5,6), (bandgap,bandgap__specifier,18,19), (1.54,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(MoS2,compound__names,4,5), (bandgap,bandgap__specifier,12,13), (1.2,bandgap__raw_value,14,15), (eV),bandgap__raw_units,18,20)> Confidence:  1.0
+<(MoS2,compound__names,4,5), (bandgap,bandgap__specifier,23,24), (1.9,bandgap__raw_value,25,26), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(MoSe2,compound__names,6,7), (bandgap,bandgap__specifier,12,13), (1.1,bandgap__raw_value,17,18), (eV),bandgap__raw_units,18,20)> Confidence:  1.0
+<(MoSe2,compound__names,6,7), (bandgap,bandgap__specifier,23,24), (1.54,bandgap__raw_value,28,29), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(bandgap,bandgap__specifier,2,3), (1.54,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9), (MoSe2,compound__names,19,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (Azo-Por-Bpy-POP,compound__names,5,6), (2.33,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(CuCrO2,compound__names,13,14), (bandgap,bandgap__specifier,18,19), (2.95–3.30,bandgap__raw_value,20,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(CuScO2,compound__names,4,5), (bandgap,bandgap__specifier,22,23), (3.3–3.7,bandgap__raw_value,25,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,4,6), (∼3.2,bandgap__raw_value,7,9), (eV),bandgap__raw_units,9,11)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (n-ZnO,compound__names,5,6), (3.29,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(zinc oxide,compound__names,4,6), (band gap,bandgap__specifier,27,29), (~3.3,bandgap__raw_value,31,33), (eV),bandgap__raw_units,33,35)> Confidence:  1.0
+<(ZnO,compound__names,7,8), (band gap,bandgap__specifier,27,29), (~3.3,bandgap__raw_value,31,33), (eV),bandgap__raw_units,33,35)> Confidence:  1.0
+<(CdSe,compound__names,10,11), (band gap,bandgap__specifier,23,25), (1.74,bandgap__raw_value,26,27), (eV,bandgap__raw_units,27,28)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (3.27,bandgap__raw_value,6,7), (eV,bandgap__raw_units,15,16), (CdSe,compound__names,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (3.04,bandgap__raw_value,8,9), (eV,bandgap__raw_units,15,16), (CdSe,compound__names,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (2.90,bandgap__raw_value,10,11), (eV,bandgap__raw_units,15,16), (CdSe,compound__names,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (2.82,bandgap__raw_value,12,13), (eV,bandgap__raw_units,15,16), (CdSe,compound__names,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (2.79,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16), (CdSe,compound__names,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,8,10), (1.74,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12), (CdSe,compound__names,33,34)> Confidence:  1.0
+<(Zinc oxide,compound__names,0,2), (band gap,bandgap__specifier,13,15), (3.37,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18), (at,temperature__specifier,18,19), (300,temperature__raw_value,19,20), (K,temperature__raw_units,20,21)> Confidence:  1.0
+<(ZnO,compound__names,3,4), (band gap,bandgap__specifier,13,15), (3.37,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18), (at,temperature__specifier,18,19), (300,temperature__raw_value,19,20), (K,temperature__raw_units,20,21)> Confidence:  1.0
+<(TiO2,compound__names,2,3), (band gap,bandgap__specifier,28,30), (3.2,bandgap__raw_value,31,32), (eV),bandgap__raw_units,32,34)> Confidence:  1.0
+<(band gap,bandgap__specifier,6,8), (AgBr,compound__names,11,12), (2.64,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(band gap,bandgap__specifier,6,8), (AgBr,compound__names,15,16), (2.2,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(ZnO,compound__names,15,16), (band gap,bandgap__specifier,19,21), (3.27–3.30,bandgap__raw_value,25,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(TiO2,compound__names,5,6), (band gap,bandgap__specifier,26,28), (3.2,bandgap__raw_value,30,31), (eV,bandgap__raw_units,31,32)> Confidence:  1.0
+<(band gap,bandgap__specifier,6,8), (Al-TiO2,compound__names,10,13), (3.20 to 2.07,bandgap__raw_value,17,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(Eg,bandgap__specifier,28,29), (Ge,compound__names,36,37), (0.66,bandgap__raw_value,38,39), (eV),bandgap__raw_units,39,41)> Confidence:  1.0
+<(band gap,bandgap__specifier,32,34), (Ge,compound__names,36,37), (0.66,bandgap__raw_value,38,39), (eV),bandgap__raw_units,39,41)> Confidence:  1.0
+<(band gap,bandgap__specifier,17,19), (0.66,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21), (Ge,compound__names,23,24)> Confidence:  1.0
+<(Se,compound__names,26,27), (band gap,bandgap__specifier,29,31), (2.0,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(Tellurium,compound__names,0,1), (band gap,bandgap__specifier,12,14), (0.32,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (wurtzite-CuInxGa1−xS2,compound__names,4,7), (1.49,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (wurtzite-CuInxGa1−xS2,compound__names,4,7), (2.0,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (CIGS,compound__names,4,5), (1.49,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (CIGS,compound__names,4,5), (2.0,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(CIGS,compound__names,1,2), (bandgap,bandgap__specifier,12,13), (~1.04,bandgap__raw_value,14,16), (eV,bandgap__raw_units,16,17), (x = 0,compound__labels,20,23)> Confidence:  1.0
+<(- CuInxGa1−xS2,compound__names,5,7), (x = 0,compound__labels,8,11), (bandgap,bandgap__specifier,16,17), (1.53,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(- CuInxGa1−xS2,compound__names,5,7), (x = 0,compound__labels,8,11), (bandgap,bandgap__specifier,16,17), (2.48,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (GaN,compound__names,6,7), (3.419,bandgap__raw_value,23,24), (eV,bandgap__raw_units,24,25)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (GaN,compound__names,4,5), (3.419,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (GaN,compound__names,8,9), (3.419,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(CdSe,compound__names,1,2), (band gap,bandgap__specifier,6,8), (1.75,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(Zinc oxide,compound__names,0,2), (band gap,bandgap__specifier,29,31), (3.37,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34)> Confidence:  1.0
+<(ZnO,compound__names,3,4), (band gap,bandgap__specifier,29,31), (3.37,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,13,15), (3.37,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(Zinc oxide,compound__names,0,2), (band gap,bandgap__specifier,13,15), (3.37,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(CZTS,compound__names,7,8), (band gap,bandgap__specifier,28,30), (1.53,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(band gap,bandgap__specifier,7,9), (1.53,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12), (CZTS,compound__names,13,14)> Confidence:  1.0
+<(Eg,bandgap__specifier,2,3), (2.37,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7), (Cu2O,compound__names,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,16,18), (ZnS,compound__names,20,21), (3.69–3.36,bandgap__raw_value,24,27), (eV,bandgap__raw_units,27,28)> Confidence:  1.0
+<(Zinc oxide,compound__names,0,2), (band gap,bandgap__specifier,13,15), (3.3,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(ZnO,compound__names,3,4), (band gap,bandgap__specifier,13,15), (3.3,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(BiOI,compound__names,3,4), (band gap,bandgap__specifier,7,9), (1.85,bandgap__raw_value,10,11), (eV),bandgap__raw_units,11,13)> Confidence:  1.0
+<(band gaps,bandgap__specifier,10,12), (g-C3N4,compound__names,13,14), (2.74,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(band gaps,bandgap__specifier,10,12), (BiOI,compound__names,15,16), (1.94,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,8,10), (BiOI,compound__names,11,12), (1.94,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (g-C3N4,compound__names,3,4), (2.74,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7)> Confidence:  1.0
+<(band gaps,bandgap__specifier,4,6), (ITO,compound__names,7,8), (3.77 to 3.88,bandgap__raw_value,11,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (3.23,bandgap__raw_value,6,7), (eV,bandgap__raw_units,7,8), (MgO,compound__names,11,12)> Confidence:  1.0
+<(cadmiumsulfide,compound__names,5,6), (band gap,bandgap__specifier,19,21), (2.42,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(CdS,compound__names,7,8), (band gap,bandgap__specifier,19,21), (2.42,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (CdS,compound__names,7,8), (2.15,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (CdS,compound__names,22,23), (2.16,bandgap__raw_value,24,25), (eV),bandgap__raw_units,25,27)> Confidence:  1.0
+<(WO3,compound__names,0,1), (band gap,bandgap__specifier,4,6), (2.7–2.8,bandgap__raw_value,7,10), (eV),bandgap__raw_units,10,12)> Confidence:  1.0
+<(α-Fe2O3,compound__names,1,2), (band gap,bandgap__specifier,4,6), (2.2,bandgap__raw_value,7,8), (eV),bandgap__raw_units,8,10)> Confidence:  1.0
+<(zinc chloride,compound__names,6,8), (band gap,bandgap__specifier,23,25), (3.15,bandgap__raw_value,26,27), (eV,bandgap__raw_units,27,28)> Confidence:  1.0
+<(Cu2ZnSnS4,compound__names,0,1), (bandgap,bandgap__specifier,32,33), (∼1.5,bandgap__raw_value,34,36), (eV,bandgap__raw_units,36,37)> Confidence:  1.0
+<(CZTS,compound__names,2,3), (bandgap,bandgap__specifier,32,33), (∼1.5,bandgap__raw_value,34,36), (eV,bandgap__raw_units,36,37)> Confidence:  1.0
+<(band gap,bandgap__specifier,11,13), (1.59,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16), (perovskite,compound__names,23,24)> Confidence:  1.0
+<(perovskite,compound__names,3,4), (1.55,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16), (band gap,bandgap__specifier,16,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (ZnO,compound__names,13,14), (3.15 ± 0.03,bandgap__raw_value,15,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (3.18 ± 0.02,bandgap__raw_value,20,23), (eV,bandgap__raw_units,23,24), (ZnO(h),compound__names,25,26)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (ZnO,compound__names,9,10), (3.16 ± 0.02,bandgap__raw_value,18,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (ZnO(h),compound__names,13,14), (3.20 ± 0.02,bandgap__raw_value,23,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (TiO2,compound__names,11,12), (2.89,bandgap__raw_value,59,60), (eV,bandgap__raw_units,74,75)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (TiO2,compound__names,11,12), (2.88,bandgap__raw_value,61,62), (eV,bandgap__raw_units,74,75)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (TiO2,compound__names,11,12), (2.00,bandgap__raw_value,63,64), (eV,bandgap__raw_units,74,75)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (TiO2,compound__names,11,12), (2.94,bandgap__raw_value,66,67), (eV,bandgap__raw_units,74,75)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (TiO2,compound__names,11,12), (2.87,bandgap__raw_value,69,70), (eV,bandgap__raw_units,74,75)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (TiO2,compound__names,11,12), (2.64,bandgap__raw_value,73,74), (eV,bandgap__raw_units,74,75)> Confidence:  1.0
+<(PbSe / PbS,compound__names,0,3), (Eg,bandgap__specifier,15,16), (∼1.29,bandgap__raw_value,16,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(Sb2S3,compound__names,1,2), (band gap,bandgap__specifier,13,15), (∼1.65,bandgap__raw_value,16,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(Eg,bandgap__specifier,22,23), (<1.3,bandgap__raw_value,23,25), (eV,bandgap__raw_units,25,26), (Sb2Se3,compound__names,29,30)> Confidence:  1.0
+<(Al2O3,compound__names,2,3), (band gap,bandgap__specifier,6,8), (7–9,bandgap__raw_value,10,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(ZnO,compound__names,3,4), (band gap,bandgap__specifier,7,9), (3.37,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(TiO2,compound__names,2,3), (band gap,bandgap__specifier,6,8), (3.2,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(TiO2,compound__names,1,2), (band gap,bandgap__specifier,4,6), (∼3.2,bandgap__raw_value,7,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(phosphorene,compound__names,13,14), (band gap,bandgap__specifier,17,19), (1,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(Eg,bandgap__specifier,3,4), (Li2CaSiO4:0.03Eu2+ / Eu3+,compound__names,7,10), (4.54,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(Eg,bandgap__specifier,4,5), (tin oxide,compound__names,7,9), (~2.7,bandgap__raw_value,17,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(Eg,bandgap__specifier,5,6), (tin oxide,compound__names,8,10), (~3.2,bandgap__raw_value,18,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(band gap,bandgap__specifier,28,30), (~3.6,bandgap__raw_value,31,33), (eV),bandgap__raw_units,33,35), (tin dioxide,compound__names,36,38)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,12,14), (3.37,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17), (at,temperature__specifier,26,27), (300,temperature__raw_value,27,28), (K,temperature__raw_units,28,29)> Confidence:  1.0
+<(Sr2SnFeO6 perovskite,compound__names,22,24), (band gap,bandgap__specifier,34,36), (∼0.7,bandgap__raw_value,37,39), (eV),bandgap__raw_units,39,41)> Confidence:  1.0
+<(InGaAs,compound__names,27,28), (bandgap,bandgap__specifier,28,29), (~0.803,bandgap__raw_value,30,32), (eV,bandgap__raw_units,32,33), (at,temperature__specifier,34,35), (10,temperature__raw_value,35,36), (K,temperature__raw_units,36,37)> Confidence:  1.0
+<(ZnAlLa-500CLDH,compound__names,19,20), (Eg,bandgap__specifier,25,26), (3.37,bandgap__raw_value,28,29), (eV,bandgap__raw_units,29,30)> Confidence:  1.0
+<(ZnTe,compound__names,0,1), (bandgap,bandgap__specifier,17,18), (2.26,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(ZnTe,compound__names,10,11), (1.328,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20), (bandgap,bandgap__specifier,20,21)> Confidence:  1.0
+<(bandgap,bandgap__specifier,5,6), (1.368,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9), (ZnTe,compound__names,19,20)> Confidence:  1.0
+<(PEDOT,compound__names,4,5), (band gap,bandgap__specifier,28,30), (1.6–1.7,bandgap__raw_value,32,35), (eV),bandgap__raw_units,35,37)> Confidence:  1.0
+<(La2O3,compound__names,0,1), (band gap,bandgap__specifier,13,15), (5.6,bandgap__raw_value,18,19), (eV),bandgap__raw_units,19,21)> Confidence:  1.0
+<(La2O3,compound__names,0,1), (Eg,bandgap__specifier,16,17), (5.6,bandgap__raw_value,18,19), (eV),bandgap__raw_units,19,21)> Confidence:  1.0
+<(Indium oxide,compound__names,0,2), (band gap,bandgap__specifier,12,14), (3.55–3.75,bandgap__raw_value,15,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(PbS,compound__names,0,1), (band gap,bandgap__specifier,9,11), (0.41,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(SnO2,compound__names,13,14), (band gap,bandgap__specifier,19,21), (1.26,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(PbS,compound__names,21,22), (band gap,bandgap__specifier,34,36), (2.0 ± 0.1,bandgap__raw_value,37,40), (eV,bandgap__raw_units,40,41)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Ru–TiO2,compound__names,10,13), (3.10,bandgap__raw_value,17,18), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Ru–TiO2,compound__names,10,13), (3.04,bandgap__raw_value,19,20), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Ru–TiO2,compound__names,10,13), (2.96,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(TiO2,compound__names,12,13), (band gap,bandgap__specifier,16,18), (3.2,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (PVP,compound__names,7,8), (4.90,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(PVP,compound__names,7,8), (Eg,bandgap__specifier,10,11), (4.90,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(band gap,bandgap__specifier,10,12), (PVP,compound__names,14,15), (4.5–4.3,bandgap__raw_value,19,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CIGS,compound__names,4,5), (1.02 to 1.68,bandgap__raw_value,11,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (1.61,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Cu2O,compound__names,6,7), (1.5 and 2.08,bandgap__raw_value,16,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gaps,bandgap__specifier,1,3), (Cu2O,compound__names,5,6), (1.5 and 2.08,bandgap__raw_value,14,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(Cuprous oxide,compound__names,0,2), (band gap,bandgap__specifier,11,13), (2.0–2.2,bandgap__raw_value,15,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(Cu2O,compound__names,2,3), (band gap,bandgap__specifier,11,13), (2.0–2.2,bandgap__raw_value,15,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Cu2O,compound__names,6,7), (1.99,bandgap__raw_value,23,24), (eV,bandgap__raw_units,35,36)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Cu2O,compound__names,6,7), (2.02,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Cu2O,compound__names,6,7), (1.70,bandgap__raw_value,28,29), (eV,bandgap__raw_units,29,30)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Cu2O,compound__names,6,7), (1.59,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Cu2O,compound__names,6,7), (1.70,bandgap__raw_value,34,35), (eV,bandgap__raw_units,35,36)> Confidence:  1.0
+<(methylammonium tin iodide,compound__names,5,8), (bandgap,bandgap__specifier,31,32), (1.3,bandgap__raw_value,33,34), (eV,bandgap__raw_units,34,35)> Confidence:  1.0
+<(bandgap,bandgap__specifier,31,32), (1.55,bandgap__raw_value,37,38), (eV,bandgap__raw_units,38,39), (CH3NH3PbI3,compound__names,41,42)> Confidence:  1.0
+<(formamidinium tin iodide,compound__names,9,12), (bandgap,bandgap__specifier,21,22), (1.41,bandgap__raw_value,23,24), (eV,bandgap__raw_units,24,25), (at,temperature__specifier,25,26), (200,temperature__raw_value,32,33), (°C,temperature__raw_units,33,34)> Confidence:  1.0
+<(FASnI3,compound__names,13,14), (bandgap,bandgap__specifier,21,22), (1.41,bandgap__raw_value,23,24), (eV,bandgap__raw_units,24,25), (at,temperature__specifier,25,26), (200,temperature__raw_value,32,33), (°C,temperature__raw_units,33,34)> Confidence:  1.0
+<(formamidinium tin iodide,compound__names,4,7), (bandgap,bandgap__specifier,10,11), (1.41,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (perovskite,compound__names,12,13), (1.5,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (formamidinium lead iodide,compound__names,15,18), (1.47,bandgap__raw_value,27,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (FAPbI3,compound__names,19,20), (1.47,bandgap__raw_value,27,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(CsInSbCl6,compound__names,5,6), (Eg,bandgap__specifier,9,10), (1.0,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(Cs2InBiCl6,compound__names,7,8), (Eg,bandgap__specifier,9,10), (1.0,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(BiI3,compound__names,0,1), (bandgap,bandgap__specifier,16,17), (1.8,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(CdO,compound__names,0,1), (band gap,bandgap__specifier,13,15), (2.5,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(K2Ti4O9,compound__names,4,5), (band gap,bandgap__specifier,15,17), (3.54,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,5,7), (PbS,compound__names,8,9), (0.41,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(K2Ti4O9,compound__names,1,2), (band gap,bandgap__specifier,12,14), (3.54,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(TiO2,compound__names,2,3), (band gap,bandgap__specifier,5,7), (3.05,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(TiO2,compound__names,14,15), (band gap,bandgap__specifier,24,26), (3.02,bandgap__raw_value,27,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(Pt–TiO2,compound__names,0,3), (band gap,bandgap__specifier,7,9), (2.57,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (2.88,bandgap__raw_value,13,14), (eV,bandgap__raw_units,21,22), (TiO2,compound__names,39,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (2.68,bandgap__raw_value,15,16), (eV,bandgap__raw_units,21,22), (TiO2,compound__names,39,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (2.98,bandgap__raw_value,17,18), (eV,bandgap__raw_units,21,22), (TiO2,compound__names,39,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (2.58,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22), (TiO2,compound__names,39,40)> Confidence:  1.0
+<(TiO2,compound__names,3,4), (band gaps,bandgap__specifier,16,18), (3.0–3.5,bandgap__raw_value,19,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(MTiO3,compound__names,6,7), (band gaps,bandgap__specifier,16,18), (3.0–3.5,bandgap__raw_value,19,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(Tin dioxide,compound__names,0,2), (band gap,bandgap__specifier,15,17), (3.6,bandgap__raw_value,18,19), (eV),bandgap__raw_units,19,21)> Confidence:  1.0
+<(bandgap,bandgap__specifier,3,4), (Bi2WO6,compound__names,6,7), (2.61,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (Bi2WO6,compound__names,11,12), (2.61,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(Eg,bandgap__specifier,7,8), (Bi2WO6,compound__names,11,12), (2.61,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(band gap,bandgap__specifier,11,13), (TiO2,compound__names,14,15), (3.2 to 2.8,bandgap__raw_value,17,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(ZnO,compound__names,6,7), (band gap,bandgap__specifier,9,11), (3.37,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(AgCl,compound__names,15,16), (band gap,bandgap__specifier,18,20), (3.25,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (TiO2,compound__names,7,8), (3.2,bandgap__raw_value,41,42), (eV,bandgap__raw_units,42,43)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (TiO2 @ PDA,compound__names,9,12), (3.07,bandgap__raw_value,44,45), (eV,bandgap__raw_units,45,46)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (TiO2 @ PDA,compound__names,15,18), (3.0,bandgap__raw_value,47,48), (eV,bandgap__raw_units,48,49)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (TiO2,compound__names,7,8), (3.15,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (TiO2,compound__names,9,10), (3.07,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (TiO2−x,compound__names,13,14), (3.00,bandgap__raw_value,28,29), (eV,bandgap__raw_units,29,30)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (TiO2−x,compound__names,15,16), (2.86,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(TiO2,compound__names,5,6), (band gap,bandgap__specifier,19,21), (3.2,bandgap__raw_value,22,23), (eV),bandgap__raw_units,23,25)> Confidence:  1.0
+<(Bi2WO6,compound__names,13,14), (band gap,bandgap__specifier,21,23), (2.8,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27), (O2,compound__labels,44,45)> Confidence:  1.0
+<(BWO,compound__names,15,16), (band gap,bandgap__specifier,21,23), (2.8,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27), (O2,compound__labels,44,45)> Confidence:  1.0
+<(BWO,compound__names,7,8), (band gap,bandgap__specifier,25,27), (2.96,bandgap__raw_value,30,31), (eV,bandgap__raw_units,31,32)> Confidence:  1.0
+<(TiO2,compound__names,1,2), (band gap,bandgap__specifier,11,13), (3.2,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(bismuth vanadate,compound__names,9,11), (band gap,bandgap__specifier,16,18), (2.4–2.5,bandgap__raw_value,19,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(BiVO4,compound__names,12,13), (band gap,bandgap__specifier,16,18), (2.4–2.5,bandgap__raw_value,19,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (BiVO4,compound__names,4,5), (2.39,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(Bi2MoO6,compound__names,3,4), (Eg,bandgap__specifier,25,26), (~2.7,bandgap__raw_value,27,29), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(Sn,compound__names,4,5), (band gap,bandgap__specifier,14,16), (1.2-1.4,bandgap__raw_value,17,20), (eV),bandgap__raw_units,20,22)> Confidence:  1.0
+<(bandgap,bandgap__specifier,5,6), (perovskite,compound__names,11,12), (1.30,bandgap__raw_value,17,18), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(bandgap,bandgap__specifier,5,6), (perovskite,compound__names,11,12), (1.39,bandgap__raw_value,19,20), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(bandgap,bandgap__specifier,5,6), (perovskite,compound__names,11,12), (1.44,bandgap__raw_value,21,22), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(bandgap,bandgap__specifier,5,6), (perovskite,compound__names,11,12), (1.53,bandgap__raw_value,23,24), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(bandgap,bandgap__specifier,5,6), (perovskite,compound__names,11,12), (1.68,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (3.25,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7), (brookite,compound__names,11,12)> Confidence:  1.0
+<(brookite,compound__names,4,5), (band gap,bandgap__specifier,8,10), (3.51,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(band gaps,bandgap__specifier,3,5), (brookite,compound__names,9,10), (3.32,bandgap__raw_value,11,12), (eV),bandgap__raw_units,12,14)> Confidence:  1.0
+<(SrTiO3,compound__names,0,1), (band gap,bandgap__specifier,14,16), (3.2,bandgap__raw_value,17,18), (eV),bandgap__raw_units,18,20)> Confidence:  1.0
+<(ST,compound__names,2,3), (band gap,bandgap__specifier,14,16), (3.2,bandgap__raw_value,17,18), (eV),bandgap__raw_units,18,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Ga doped SrTi0.7Fe0.3O3,compound__names,5,8), (x = 0.01,compound__labels,9,12), (1.53,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(Ga2O3,compound__names,4,5), (band gap,bandgap__specifier,8,10), (1.88,bandgap__raw_value,13,14), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(Ga2O3,compound__names,4,5), (band gap,bandgap__specifier,8,10), (2.22,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (SrTiO3,compound__names,14,15), (3.2,bandgap__raw_value,16,17), (eV),bandgap__raw_units,17,19)> Confidence:  1.0
+<(SrTi0.7Fe0.3O3,compound__names,0,1), (band gap,bandgap__specifier,3,5), (2.38,bandgap__raw_value,7,8), (eV),bandgap__raw_units,8,10)> Confidence:  1.0
+<(SrTi0.7Fe0.3O3,compound__names,2,3), (band gap,bandgap__specifier,10,12), (1.53,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (TiO2,compound__names,7,8), (3.1,bandgap__raw_value,30,31), (eV,bandgap__raw_units,39,40)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,9,11), (3.37,bandgap__raw_value,12,13), (eV),bandgap__raw_units,13,15), (at,temperature__specifier,25,26), (300,temperature__raw_value,26,27), (K,temperature__raw_units,27,28)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,10,12), (3.37,bandgap__raw_value,13,14), (eV),bandgap__raw_units,14,16), (at,temperature__specifier,25,26), (300,temperature__raw_value,26,27), (K,temperature__raw_units,27,28)> Confidence:  1.0
+<(ZnO,compound__names,8,9), (at,temperature__specifier,11,12), (400,temperature__raw_value,12,13), (°C,temperature__raw_units,13,14), (band gap,bandgap__specifier,24,26), (3.42,bandgap__raw_value,27,28), (eV),bandgap__raw_units,28,30)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (perovskites,compound__names,8,9), (2–4.5,bandgap__raw_value,11,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CLTO,compound__names,10,11), (2.84,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (ZnO,compound__names,8,9), (3.33,bandgap__raw_value,13,14), (eV),bandgap__raw_units,14,16)> Confidence:  1.0
+<(ZnO,compound__names,8,9), (Eg,bandgap__specifier,11,12), (3.33,bandgap__raw_value,13,14), (eV),bandgap__raw_units,14,16)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (ZnO,compound__names,5,6), (3.33,bandgap__raw_value,8,9), (eV),bandgap__raw_units,9,11)> Confidence:  1.0
+<(SrTiO3,compound__names,7,8), (band gap,bandgap__specifier,16,18), (3.2,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(Ti90,compound__names,3,4), (band gap,bandgap__specifier,21,23), (2.75,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(TiO2,compound__names,6,7), (band gap,bandgap__specifier,12,14), (3.2,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (bandgap,bandgap__specifier,16,17), (3.3,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(bandgap,bandgap__specifier,4,5), (ZnO,compound__names,6,7), (3.13,bandgap__raw_value,9,10), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(bandgap,bandgap__specifier,4,5), (ZnO,compound__names,6,7), (3.14,bandgap__raw_value,11,12), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(bandgap,bandgap__specifier,4,5), (ZnO,compound__names,6,7), (3.15,bandgap__raw_value,13,14), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(bandgap,bandgap__specifier,4,5), (ZnO,compound__names,6,7), (3.21,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(TiO2,compound__names,2,3), (band gap,bandgap__specifier,5,7), (3.2,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(TiO2,compound__names,2,3), (band gap,bandgap__specifier,5,7), (3.0,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(band gap,bandgap__specifier,27,29), (3.00,bandgap__raw_value,31,32), (eV,bandgap__raw_units,36,37), (TiO2,compound__names,38,39)> Confidence:  1.0
+<(band gap,bandgap__specifier,27,29), (2.69,bandgap__raw_value,33,34), (eV,bandgap__raw_units,36,37), (TiO2,compound__names,42,43)> Confidence:  1.0
+<(ZnO[18],compound__names,26,27), (band gap,bandgap__specifier,28,30), (3.37,bandgap__raw_value,34,35), (eV,bandgap__raw_units,35,36)> Confidence:  1.0
+<(zinc oxide,compound__names,10,12), (band gap,bandgap__specifier,23,25), (3.37,bandgap__raw_value,26,27), (eV),bandgap__raw_units,27,29)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (iron oxide,compound__names,4,6), (2.72,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (iron oxide,compound__names,4,6), (2.72,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (2.5,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12), (hematite,compound__names,13,14)> Confidence:  1.0
+<(ZnO,compound__names,10,11), (band gap,bandgap__specifier,26,28), (3.37,bandgap__raw_value,29,30), (eV),bandgap__raw_units,30,32)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (ZnO,compound__names,5,6), (3.24,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(CoFe2O4,compound__names,0,1), (bandgap,bandgap__specifier,22,23), (1.92,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(ZnO,compound__names,4,5), (band gap,bandgap__specifier,18,20), (3.37,bandgap__raw_value,21,22), (eV),bandgap__raw_units,22,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (NiWO4,compound__names,7,8), (3.10,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (NiWO4-NRGO,compound__names,9,12), (2.42,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (NiWO4-ZnO- NRGO,compound__names,13,15), (2.27,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(TiO2,compound__names,4,5), (band gap,bandgap__specifier,10,12), (3.2,bandgap__raw_value,13,14), (eV),bandgap__raw_units,14,16)> Confidence:  1.0
+<(ZnO,compound__names,2,3), (band gap,bandgap__specifier,15,17), (~3.37,bandgap__raw_value,18,20), (eV),bandgap__raw_units,20,22)> Confidence:  1.0
+<(ZnO,compound__names,2,3), (band gap,bandgap__specifier,3,5), (~3.2,bandgap__raw_value,6,8), (eV),bandgap__raw_units,8,10)> Confidence:  1.0
+<(KNN,compound__names,4,5), (band gap,bandgap__specifier,19,21), (~3.75,bandgap__raw_value,24,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(Tin Selenide,compound__names,0,2), (bandgap,bandgap__specifier,19,20), (0.9,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(copper oxide ( Cu2O ),compound__names,5,10), (band gap,bandgap__specifier,36,38), (2,bandgap__raw_value,40,41), (eV,bandgap__raw_units,41,42)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (Ag-Cu2O,compound__names,9,10), (2.26,bandgap__raw_value,15,16), (eV),bandgap__raw_units,16,18)> Confidence:  1.0
+<(band gaps,bandgap__specifier,2,4), (La2O3 / SiO2,compound__names,6,9), (2.2,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(Eg,bandgap__specifier,4,5), (La2O3 / SiO2,compound__names,6,9), (2.2,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(band gap,bandgap__specifier,24,26), (La2O3,compound__names,28,29), (5.8,bandgap__raw_value,30,31), (eV),bandgap__raw_units,31,33)> Confidence:  1.0
+<(WO3,compound__names,6,7), (band gap,bandgap__specifier,14,16), (2.5–2.8,bandgap__raw_value,23,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(WO3,compound__names,6,7), (Eg,bandgap__specifier,17,18), (2.5–2.8,bandgap__raw_value,23,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(Bandgap,bandgap__specifier,0,1), (1.5,bandgap__raw_value,2,3), (eV,bandgap__raw_units,3,4), (CH3NH3PbI3,compound__names,13,14)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (3.59,bandgap__raw_value,26,27), (eV,bandgap__raw_units,27,28), (ITO,compound__names,29,30)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (3.79,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34), (Quartz,compound__names,35,36)> Confidence:  1.0
+<(CuO,compound__names,0,1), (band gap,bandgap__specifier,9,11), (1.2,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(SnO2,compound__names,13,14), (band gap,bandgap__specifier,19,21), (1.26,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(CaIn2O4,compound__names,0,1), (band gap,bandgap__specifier,6,8), (3.9,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(Eg,bandgap__specifier,2,3), (3.35,bandgap__raw_value,4,5), (eV,bandgap__raw_units,5,6), (ZnO,compound__names,8,9)> Confidence:  1.0
+<(Eg,bandgap__specifier,34,35), (1.63,bandgap__raw_value,36,37), (eV,bandgap__raw_units,37,38), (Sb2S3,compound__names,40,41)> Confidence:  1.0
+<(3.5,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11), (band gap,bandgap__specifier,16,18), (ITO,compound__names,19,20)> Confidence:  1.0
+<(Eg,bandgap__specifier,18,19), (4.5,bandgap__raw_value,21,22), (eV),bandgap__raw_units,22,24), (SrAl2O4,compound__names,27,28)> Confidence:  1.0
+<(Manganese sulfide,compound__names,0,2), (band gap,bandgap__specifier,14,16), (3.1,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(MnS,compound__names,3,4), (band gap,bandgap__specifier,14,16), (3.1,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(manganese selenide,compound__names,5,7), (band gap,bandgap__specifier,18,20), (2.65,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(CdS,compound__names,4,5), (Eg,bandgap__specifier,25,26), (2.4,bandgap__raw_value,27,28), (eV),bandgap__raw_units,28,30)> Confidence:  1.0
+<(Cu2SnSe3,compound__names,2,3), (band gap,bandgap__specifier,31,33), (0.74–1.5,bandgap__raw_value,37,40), (eV,bandgap__raw_units,40,41)> Confidence:  1.0
+<(Cu2ZnSnSe4,compound__names,7,8), (band gap,bandgap__specifier,31,33), (0.74–1.5,bandgap__raw_value,37,40), (eV,bandgap__raw_units,40,41)> Confidence:  1.0
+<(Cu2SnSe3,compound__names,4,5), (Eg,bandgap__specifier,6,7), (0.94,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(Cu2SnSe3,compound__names,5,6), (band gap,bandgap__specifier,17,19), (0.94,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,25,27), (NaGd(WO4)2,compound__names,29,30), (4.13,bandgap__raw_value,34,35), (eV,bandgap__raw_units,35,36)> Confidence:  1.0
+<(band gap,bandgap__specifier,25,27), (3.9,bandgap__raw_value,41,42), (eV,bandgap__raw_units,42,43), (Pr3+-doped NaGdTiO4,compound__names,45,49)> Confidence:  1.0
+<(GaAs,compound__names,14,15), (band gap,bandgap__specifier,15,17), (1.42,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(ZnO,compound__names,30,31), (band gap,bandgap__specifier,31,33), (3.25,bandgap__raw_value,35,36), (eV,bandgap__raw_units,36,37)> Confidence:  1.0
+<(CdS,compound__names,3,4), (band gap,bandgap__specifier,6,8), (2.42,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(CdS,compound__names,21,22), (Eg,bandgap__specifier,26,27), (2.42,bandgap__raw_value,28,29), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (3.28,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10), (ZnO / SiO2,compound__names,12,15)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (2.25,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19), (ZnO / SiO2,compound__names,23,26)> Confidence:  1.0
+<(NiO / ZnO / SiO2,compound__names,6,11), (band gap,bandgap__specifier,16,18), (2.50,bandgap__raw_value,20,21), (eV),bandgap__raw_units,21,23)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (ZrO2,compound__names,7,8), (4.23,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,28,30), (ZnS0.3Se0.7,compound__names,31,32), (3.35,bandgap__raw_value,33,34), (eV),bandgap__raw_units,34,36)> Confidence:  1.0
+<(band gap,bandgap__specifier,28,30), (ZnS0.7Se0.3,compound__names,39,40), (3.51,bandgap__raw_value,41,42), (eV),bandgap__raw_units,42,44)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (NdF3-doped TeO2-WO3-GeO2-NdF3,compound__names,8,12), (∼3.66,bandgap__raw_value,14,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (SnO2,compound__names,10,11), (4.15 and 3.95,bandgap__raw_value,16,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (SnO2,compound__names,10,11), (4.15 and 3.95,bandgap__raw_value,16,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(1.482,bandgap__raw_value,39,40), (eV,bandgap__raw_units,40,41), (GaAs1−yNy,compound__names,49,50), (band gap,bandgap__specifier,50,52)> Confidence:  1.0
+<(Ge,compound__names,4,5), (band gap,bandgap__specifier,11,13), (0.08,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(ZnO / PMMA,compound__names,14,17), (band gap,bandgap__specifier,33,35), (3.6,bandgap__raw_value,36,37), (eV,bandgap__raw_units,37,38)> Confidence:  1.0
+<(KTaO3,compound__names,15,16), (band gap,bandgap__specifier,19,21), (3.8,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(ZnO,compound__names,10,11), (band gap,bandgap__specifier,44,46), (3.37,bandgap__raw_value,47,48), (eV,bandgap__raw_units,48,49)> Confidence:  1.0
+<(band gap,bandgap__specifier,7,9), (ZnO,compound__names,18,19), (3.37,bandgap__raw_value,21,22), (eV),bandgap__raw_units,22,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,20,22), (ZnO,compound__names,25,26), (3.37,bandgap__raw_value,28,29), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (3.6,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9), (SnO2,compound__names,15,16), (at,temperature__specifier,29,30), (300,temperature__raw_value,30,31), (K,temperature__raw_units,31,32)> Confidence:  1.0
+<(CdS,compound__names,1,2), (band gap,bandgap__specifier,18,20), (2.4,bandgap__raw_value,22,23), (eV),bandgap__raw_units,23,25)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (MgO,compound__names,5,6), (3.92,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (3.84,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19), (MgO,compound__names,24,25)> Confidence:  1.0
+<(ZnO,compound__names,5,6), (band gap,bandgap__specifier,23,25), (3.37,bandgap__raw_value,26,27), (eV,bandgap__raw_units,27,28)> Confidence:  1.0
+<(band gap,bandgap__specifier,7,9), (ZnO,compound__names,10,11), (∼3.666,bandgap__raw_value,24,26), (eV,bandgap__raw_units,28,29), (at,temperature__specifier,33,34), (250,temperature__raw_value,34,35), (°C,temperature__raw_units,37,38)> Confidence:  1.0
+<(band gap,bandgap__specifier,7,9), (ZnO,compound__names,10,11), (3.708,bandgap__raw_value,27,28), (eV,bandgap__raw_units,28,29), (at,temperature__specifier,33,34), (300,temperature__raw_value,36,37), (°C,temperature__raw_units,37,38)> Confidence:  1.0
+<(ZnSe,compound__names,1,2), (bandgap,bandgap__specifier,39,40), (2.67,bandgap__raw_value,41,42), (eV),bandgap__raw_units,42,44)> Confidence:  1.0
+<(ZnSe,compound__names,4,5), (bandgap,bandgap__specifier,9,10), (4.24,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14), (at,temperature__specifier,14,15), (450,temperature__raw_value,15,16), (°C,temperature__raw_units,16,17)> Confidence:  1.0
+<(ZnSe,compound__names,4,5), (bandgap,bandgap__specifier,9,10), (3.95,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20), (at,temperature__specifier,20,21), (700,temperature__raw_value,21,22), (°C,temperature__raw_units,22,23)> Confidence:  1.0
+<(Copper indium sulfide,compound__names,0,3), (band gap,bandgap__specifier,21,23), (1.55,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(CuInS2,compound__names,4,5), (band gap,bandgap__specifier,21,23), (1.55,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (1.5,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9), (In2S3,compound__names,10,11)> Confidence:  1.0
+<(Cadmium oxide,compound__names,0,2), (band gap,bandgap__specifier,6,8), (∼2.3,bandgap__raw_value,10,12), (eV),bandgap__raw_units,12,14)> Confidence:  1.0
+<(CdO,compound__names,3,4), (band gap,bandgap__specifier,6,8), (∼2.3,bandgap__raw_value,10,12), (eV),bandgap__raw_units,12,14)> Confidence:  1.0
+<(Zinc oxide,compound__names,3,5), (band gap,bandgap__specifier,9,11), (∼3.36,bandgap__raw_value,13,15), (eV),bandgap__raw_units,15,17)> Confidence:  1.0
+<(ZnO,compound__names,6,7), (band gap,bandgap__specifier,9,11), (∼3.36,bandgap__raw_value,13,15), (eV),bandgap__raw_units,15,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,15,17), (TiO2,compound__names,19,20), (2.90,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(band gap,bandgap__specifier,15,17), (TiO2,compound__names,31,32), (3.06,bandgap__raw_value,33,34), (eV,bandgap__raw_units,34,35)> Confidence:  1.0
+<(band gap,bandgap__specifier,7,9), (ZnS,compound__names,10,11), (3.72,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(CdS,compound__names,14,15), (2.34,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21), (band gap,bandgap__specifier,21,23)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (CIGS,compound__names,7,8), (1.26,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(synthesis of,compound__roles,9,11), (CuO,compound__names,13,14), (band gap,bandgap__specifier,27,29), (3.63 to 3.13,bandgap__raw_value,31,34), (eV,bandgap__raw_units,34,35)> Confidence:  1.0
+<(CuO,compound__names,11,12), (band gap,bandgap__specifier,24,26), (3.21 to 3.10,bandgap__raw_value,29,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CuO,compound__names,7,8), (1.34,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(NaAlP2O7,compound__names,3,4), (band gap,bandgap__specifier,16,18), (5.28,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(band gap,bandgap__specifier,32,34), (5.28,bandgap__raw_value,34,35), (eV,bandgap__raw_units,35,36), (NaAlP2O7,compound__names,38,39)> Confidence:  1.0
+<(Eg,bandgap__specifier,6,7), (2.50,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9), (TiO2,compound__names,12,13)> Confidence:  1.0
+<(Eg,bandgap__specifier,7,8), (2.35,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10), (NiFe2O4,compound__names,13,14)> Confidence:  1.0
+<(GeC,compound__names,3,4), (band gap,bandgap__specifier,7,9), (2.11,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(CaMgSi,compound__names,6,7), (band gap,bandgap__specifier,9,11), (0.26,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(2D-GeC,compound__names,11,12), (band gap,bandgap__specifier,21,23), (2.09,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(α-TeO2,compound__names,6,7), (band gap,bandgap__specifier,17,19), (2.89,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(α-TeO2,compound__names,6,7), (band gap,bandgap__specifier,17,19), (2.78,bandgap__raw_value,38,39), (eV,bandgap__raw_units,39,40)> Confidence:  1.0
+<(α-TeO2,compound__names,6,7), (band gap,bandgap__specifier,17,19), (3.50,bandgap__raw_value,56,57), (eV),bandgap__raw_units,57,59)> Confidence:  1.0
+<(β-TeO2,compound__names,4,5), (band gap,bandgap__specifier,17,19), (2.2,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(TeO2,compound__names,9,10), (band gap,bandgap__specifier,18,20), (3.08,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(CsPbBr3,compound__names,20,21), (bandgap,bandgap__specifier,25,26), (1.75,bandgap__raw_value,36,37), (eV,bandgap__raw_units,37,38)> Confidence:  1.0
+<(CsPbBr3,compound__names,5,6), (bandgap,bandgap__specifier,13,14), (1.75,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(CsPbBr3,compound__names,5,6), (bandgap,bandgap__specifier,13,14), (1.63,bandgap__raw_value,27,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(2.25,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10), (bandgap,bandgap__specifier,12,13), (CsPbBr3,compound__names,15,16)> Confidence:  1.0
+<(bandgap,bandgap__specifier,12,13), (CsPbBr3,compound__names,15,16), (2.32,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CuSe,compound__names,6,7), (1.80,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CuSe,compound__names,6,7), (2.10,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CuSe,compound__names,6,7), (2.07,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (CdTe,compound__names,12,13), (1.54,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (CdTe,compound__names,12,13), (∼1.6,bandgap__raw_value,23,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(band gap,bandgap__specifier,13,15), (CdTe,compound__names,18,19), (∼1.54,bandgap__raw_value,20,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(band gap,bandgap__specifier,13,15), (CdTe,compound__names,28,29), (∼1.6,bandgap__raw_value,30,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(band gap,bandgap__specifier,6,8), (CdTe,compound__names,10,11), (1.5,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15), (at,temperature__specifier,15,16), (300,temperature__raw_value,16,17), (K,temperature__raw_units,17,18)> Confidence:  1.0
+<(STO,compound__names,1,2), (band gap,bandgap__specifier,13,15), (3.2,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(bandgap,bandgap__specifier,1,2), (Cd2SnO4,compound__names,3,4), (2.97,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(CuInS2,compound__names,4,5), (band gap,bandgap__specifier,24,26), (1.5,bandgap__raw_value,27,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(∼3.2,bandgap__raw_value,12,14), (eV,bandgap__raw_units,14,15), (band gap,bandgap__specifier,20,22), (ZnO,compound__names,23,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,5,7), (at,temperature__specifier,14,15), (523,temperature__raw_value,15,16), (K,temperature__raw_units,16,17), (1.080,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20), (CuInSe2,compound__names,50,51)> Confidence:  1.0
+<(band gap,bandgap__specifier,5,7), (at,temperature__specifier,14,15), (523,bandgap__raw_value,15,16), (K,temperature__raw_units,16,17), (1.080,temperature__raw_value,18,19), (eV,bandgap__raw_units,19,20), (CuInSe2,compound__names,50,51)> Confidence:  1.0
+<(band gap,bandgap__specifier,5,7), (at,temperature__specifier,25,26), (573,temperature__raw_value,26,27), (K,temperature__raw_units,27,28), (1.025,bandgap__raw_value,33,34), (eV,bandgap__raw_units,34,35), (CuInSe2,compound__names,50,51)> Confidence:  1.0
+<(CuInSe2,compound__names,6,7), (at,temperature__specifier,9,10), (523,temperature__raw_value,10,11), (K,temperature__raw_units,11,12), (band gap,bandgap__specifier,27,29), (1.080,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(Zr2ON2,compound__names,5,6), (band gap,bandgap__specifier,9,11), (1.96–2.26,bandgap__raw_value,12,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(Eg,bandgap__specifier,1,2), (1.96 to 2.26,bandgap__raw_value,6,9), (eV,bandgap__raw_units,9,10), (Zr2ON2,compound__names,15,16)> Confidence:  1.0
+<(Eg,bandgap__specifier,1,2), (2.32,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20), (m-ZrO2(N),compound__names,24,25)> Confidence:  1.0
+<(ZrO2,compound__names,13,14), (Eg,bandgap__specifier,15,16), (5.0,bandgap__raw_value,17,18), (eV),bandgap__raw_units,18,20)> Confidence:  1.0
+<(Zr2ON2,compound__names,21,22), (Eg,bandgap__specifier,23,24), (2.6,bandgap__raw_value,25,26), (eV),bandgap__raw_units,26,28)> Confidence:  1.0
+<(band gaps,bandgap__specifier,2,4), (Zr2ON2,compound__names,9,10), (1.96–2.26,bandgap__raw_value,16,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gaps,bandgap__specifier,2,4), (m-ZrO2(N),compound__names,24,25), (2.32,bandgap__raw_value,27,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (2.44,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7), (CdS,compound__names,14,15)> Confidence:  1.0
+<(2.41,bandgap__raw_value,29,30), (eV),bandgap__raw_units,30,32), (bandgap,bandgap__specifier,37,38), (CdS,compound__names,39,40)> Confidence:  1.0
+<(La2O3,compound__names,4,5), (band gap,bandgap__specifier,24,26), (5–6,bandgap__raw_value,27,30), (eV),bandgap__raw_units,30,32)> Confidence:  1.0
+<(CuGaSe2,compound__names,15,16), (Eg,bandgap__specifier,29,30), (1.68,bandgap__raw_value,34,35), (eV,bandgap__raw_units,35,36)> Confidence:  1.0
+<(CuGaSe2,compound__names,15,16), (Eg,bandgap__specifier,37,38), (1.75,bandgap__raw_value,42,43), (eV,bandgap__raw_units,43,44)> Confidence:  1.0
+<(CuGaSe2,compound__names,15,16), (Eg,bandgap__specifier,45,46), (1.96,bandgap__raw_value,50,51), (eV,bandgap__raw_units,51,52)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (CuGaSe2,compound__names,8,9), (1.68,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(silver–copper-oxides,compound__names,4,9), (band gap,bandgap__specifier,11,13), (0.3,bandgap__raw_value,14,15), (eV),bandgap__raw_units,15,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,15,17), (2.5,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21), (Cu4O3,compound__names,28,29)> Confidence:  1.0
+<(GaAs,compound__names,0,1), (band gap,bandgap__specifier,9,11), (0.93,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(ZnO,compound__names,5,6), (band gap,bandgap__specifier,10,12), (3.28–3.30,bandgap__raw_value,13,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(CuS,compound__names,0,1), (band gap,bandgap__specifier,9,11), (0.6 to 2.35,bandgap__raw_value,14,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(Cr2CF(OH),compound__names,5,6), (band gap,bandgap__specifier,29,31), (0.383,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34)> Confidence:  1.0
+<(Cr2CF(OH),compound__names,5,6), (band gap,bandgap__specifier,30,32), (0.520,bandgap__raw_value,34,35), (eV,bandgap__raw_units,37,38)> Confidence:  1.0
+<(Cr2CF(OH),compound__names,5,6), (band gap,bandgap__specifier,30,32), (0.383,bandgap__raw_value,36,37), (eV,bandgap__raw_units,37,38)> Confidence:  1.0
+<(band gap,bandgap__specifier,29,31), (Cr2C(OH)2,compound__names,32,33), (0.396,bandgap__raw_value,34,35), (eV),bandgap__raw_units,35,37)> Confidence:  1.0
+<(band gap,bandgap__specifier,29,31), (Cr2CF(OH),compound__names,47,48), (0.383,bandgap__raw_value,49,50), (eV),bandgap__raw_units,50,52)> Confidence:  1.0
+<(Cr2CF(OH),compound__names,1,2), (band gap,bandgap__specifier,14,16), (0.383,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(Aluminum nitride,compound__names,0,2), (band gap,bandgap__specifier,13,15), (6.2,bandgap__raw_value,16,17), (eV),bandgap__raw_units,17,19)> Confidence:  1.0
+<(GaN,compound__names,1,2), (band gaps,bandgap__specifier,41,43), (2.58,bandgap__raw_value,44,45), (eV,bandgap__raw_units,48,49)> Confidence:  1.0
+<(Sb2C,compound__names,10,11), (band gap,bandgap__specifier,19,21), (0.90,bandgap__raw_value,22,23), (eV),bandgap__raw_units,26,28)> Confidence:  1.0
+<(Sb2C,compound__names,10,11), (band gap,bandgap__specifier,19,21), (1.45,bandgap__raw_value,25,26), (eV),bandgap__raw_units,26,28)> Confidence:  1.0
+<(ZnO,compound__names,1,2), (band gap,bandgap__specifier,18,20), (3.3,bandgap__raw_value,22,23), (eV),bandgap__raw_units,23,25)> Confidence:  1.0
+<(ZnO,compound__names,6,7), (band gap,bandgap__specifier,28,30), (3.75,bandgap__raw_value,33,34), (eV,bandgap__raw_units,34,35)> Confidence:  1.0
+<(MGZO,compound__names,8,9), (band gap,bandgap__specifier,28,30), (3.75,bandgap__raw_value,33,34), (eV,bandgap__raw_units,34,35)> Confidence:  1.0
+<(band gap,bandgap__specifier,14,16), (3.91,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20), (ZnO,compound__names,25,26)> Confidence:  1.0
+<(Zinc oxide,compound__names,0,2), (band gap,bandgap__specifier,25,27), (3.37,bandgap__raw_value,28,29), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(ZnO,compound__names,3,4), (band gap,bandgap__specifier,25,27), (3.37,bandgap__raw_value,28,29), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (3.18 to 3.31,bandgap__raw_value,6,9), (eV,bandgap__raw_units,9,10), (ZnO,compound__names,15,16)> Confidence:  1.0
+<(In2O3,compound__names,0,1), (band gap,bandgap__specifier,11,13), (3.5–3.7,bandgap__raw_value,16,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(In2O3,compound__names,0,1), (Eg,bandgap__specifier,13,14), (3.5–3.7,bandgap__raw_value,16,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (In2O3,compound__names,12,13), (2.75 to 3.91,bandgap__raw_value,16,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(Na2C,compound__names,0,1), (band gap,bandgap__specifier,10,12), (0.7,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(Na2C,compound__names,4,5), (band gap,bandgap__specifier,16,18), (0.7,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(Na2C,compound__names,3,4), (band gap,bandgap__specifier,9,11), (0.7,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(Y2O3,compound__names,4,5), (band gap,bandgap__specifier,16,18), (5.6 and 7.0,bandgap__raw_value,19,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(ZrO2,compound__names,6,7), (band gap,bandgap__specifier,16,18), (5.6 and 7.0,bandgap__raw_value,19,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(Yttrium oxide Y2O3,compound__names,0,3), (band gaps,bandgap__specifier,13,15), (5–7,bandgap__raw_value,17,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(zirconium oxide ZrO2,compound__names,5,8), (band gaps,bandgap__specifier,13,15), (5–7,bandgap__raw_value,17,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(CdS,compound__names,1,2), (band gap,bandgap__specifier,15,17), (2.42,bandgap__raw_value,24,25), (eV),bandgap__raw_units,25,27)> Confidence:  1.0
+<(band gaps,bandgap__specifier,3,5), (~3.91,bandgap__raw_value,6,8), (eV,bandgap__raw_units,8,9), (PbWO4,compound__names,13,14)> Confidence:  1.0
+<(band gaps,bandgap__specifier,3,5), (3.64,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12), (PbWO4,compound__names,15,16)> Confidence:  1.0
+<(band gaps,bandgap__specifier,2,4), (Tb3 + doped PbWO4,compound__names,14,18), (3.78,bandgap__raw_value,29,30), (eV,bandgap__raw_units,30,31)> Confidence:  1.0
+<(band gaps,bandgap__specifier,2,4), (Tb3 + doped PbWO4,compound__names,14,18), (3.64,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34)> Confidence:  1.0
+<(band gaps,bandgap__specifier,2,4), (Tb3 + doped PbWO4,compound__names,14,18), (3.52,bandgap__raw_value,35,36), (eV,bandgap__raw_units,36,37)> Confidence:  1.0
+<(band gaps,bandgap__specifier,2,4), (Tb3 + doped PbWO4,compound__names,14,18), (3.66,bandgap__raw_value,38,39), (eV,bandgap__raw_units,39,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (PbWO4,compound__names,9,10), (3.77,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(Zinc oxide,compound__names,0,2), (band gap,bandgap__specifier,15,17), (3.2 and 3.4,bandgap__raw_value,22,25), (eV,bandgap__raw_units,25,26), (at,temperature__specifier,26,27), (300,temperature__raw_value,27,28), (K,temperature__raw_units,28,29)> Confidence:  1.0
+<(∼3.3,bandgap__raw_value,9,11), (eV),bandgap__raw_units,11,13), (ZnO,compound__names,17,18), (band gap,bandgap__specifier,18,20)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,4,6), (3.37,bandgap__raw_value,11,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(Eg,bandgap__specifier,16,17), (∼3.3,bandgap__raw_value,17,19), (eV,bandgap__raw_units,21,22), (ZnO,compound__names,23,24)> Confidence:  1.0
+<(Eg,bandgap__specifier,25,26), (∼3.4,bandgap__raw_value,26,28), (eV,bandgap__raw_units,30,31), (ZnS,compound__names,32,33)> Confidence:  1.0
+<(EgZnO,compound__names,3,4), (band gap,bandgap__specifier,5,7), (3.30,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(Bandgap,bandgap__specifier,0,1), (ZnHgSSe,compound__names,3,4), (1.6 to 2.8,bandgap__raw_value,9,12), (eV,bandgap__raw_units,12,13)> Confidence:  1.0
+<(NiO,compound__names,1,2), (Eg,bandgap__specifier,10,11), (3.7,bandgap__raw_value,12,13), (eV),bandgap__raw_units,13,15)> Confidence:  1.0
+<(Eg,bandgap__specifier,1,2), (1.37,bandgap__raw_value,6,7), (eV,bandgap__raw_units,7,8), (Cu2ZnSnSe4,compound__names,31,32)> Confidence:  1.0
+<(band gap,bandgap__specifier,8,10), (Cu2ZnSnSe4nanosheets,compound__names,13,14), (1.37,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(CdS,compound__names,6,7), (band gap,bandgap__specifier,10,12), (2.4,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(ZnS,compound__names,0,1), (band gap,bandgap__specifier,4,6), (3.5,bandgap__raw_value,7,8), (eV),bandgap__raw_units,8,10)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (Zn–Cd sulfide,compound__names,7,11), (2.43–2.49,bandgap__raw_value,26,29), (eV,bandgap__raw_units,29,30)> Confidence:  1.0
+<(ZnS,compound__names,8,9), (Eg,bandgap__specifier,22,23), (3.39,bandgap__raw_value,24,25), (eV),bandgap__raw_units,25,27)> Confidence:  1.0
+<(PBDFNTDO,compound__names,0,1), (bandgap,bandgap__specifier,14,15), (1.65,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(PBDFNTDO,compound__names,0,1), (Eg,bandgap__specifier,17,18), (1.65,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (PBDFNTDO,compound__names,9,10), (1.65,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(Eg,bandgap__specifier,5,6), (PBDFNTDO,compound__names,9,10), (1.65,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(TiO2-NS,compound__names,0,1), (band gap,bandgap__specifier,24,26), (3.2,bandgap__raw_value,27,28), (eV,bandgap__raw_units,28,29)> Confidence:  1.0
+<(Cu2O,compound__names,1,2), (band gap,bandgap__specifier,8,10), (∼2.0,bandgap__raw_value,11,13), (eV),bandgap__raw_units,13,15)> Confidence:  1.0
+<(TiO2,compound__names,5,6), (band gap,bandgap__specifier,13,15), (3.2,bandgap__raw_value,16,17), (eV),bandgap__raw_units,17,19)> Confidence:  1.0
+<(Cu2O,compound__names,21,22), (band gap,bandgap__specifier,29,31), (2.0,bandgap__raw_value,32,33), (eV),bandgap__raw_units,33,35)> Confidence:  1.0
+<(CuO,compound__names,1,2), (band gap,bandgap__specifier,5,7), (2.7,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(band gap,bandgap__specifier,34,36), (CuO,compound__names,39,40), (1.2,bandgap__raw_value,41,42), (eV),bandgap__raw_units,42,44)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (1.68,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19), (CuO,compound__names,22,23)> Confidence:  1.0
+<(Zn(1,3-DAP)[B4O7],compound__names,19,20), (band gap,bandgap__specifier,27,29), (4.92,bandgap__raw_value,30,31), (eV),bandgap__raw_units,31,33)> Confidence:  1.0
+<(Ba-TaON,compound__names,7,10), (band gap,bandgap__specifier,14,16), (2.4,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (3.19,bandgap__raw_value,5,6), (eV,bandgap__raw_units,6,7), (SrTiO3,compound__names,9,10)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (SrTiO3,compound__names,9,10), (3.2,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34)> Confidence:  1.0
+<(SrTiO3,compound__names,12,13), (band gap,bandgap__specifier,25,27), (2.66,bandgap__raw_value,28,29), (eV,bandgap__raw_units,29,30)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (2.31,bandgap__raw_value,21,22), (eV,bandgap__raw_units,22,23), (N-doped SrTiO3,compound__names,33,37)> Confidence:  1.0
+<(Fe3O4,compound__names,1,2), (band gap,bandgap__specifier,22,24), (1.4,bandgap__raw_value,26,27), (eV),bandgap__raw_units,27,29)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (1.4,bandgap__raw_value,6,7), (eV),bandgap__raw_units,7,9), (Fe3O4,compound__names,12,13)> Confidence:  1.0
+<(bandgap,bandgap__specifier,14,15), (∼1.89,bandgap__raw_value,17,19), (eV,bandgap__raw_units,19,20), (CuNb1−xTaxO3,compound__names,25,26)> Confidence:  1.0
+<(bandgap,bandgap__specifier,14,15), (∼1.97,bandgap__raw_value,21,23), (eV,bandgap__raw_units,23,24), (CuNb1−xTaxO3,compound__names,25,26)> Confidence:  1.0
+<(band gap,bandgap__specifier,21,23), (∼1.95,bandgap__raw_value,24,26), (eV,bandgap__raw_units,26,27), (CuNbO3,compound__names,34,35)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CuNbO3,compound__names,4,5), (∼1.7,bandgap__raw_value,14,16), (eV,bandgap__raw_units,18,19)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (CuNbO3,compound__names,6,7), (∼1.95,bandgap__raw_value,13,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(Eg,bandgap__specifier,2,3), (KNNMx,compound__names,5,6), (4.41,bandgap__raw_value,8,9), (eV,bandgap__raw_units,9,10)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (∼4.5,bandgap__raw_value,17,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(Cd0.8Zn0.2S,compound__names,6,7), (band gap,bandgap__specifier,22,24), (2.26,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(Tantalum nitride,compound__names,0,2), (band gap,bandgap__specifier,12,14), (2.1,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,27,29), (Ta3N5,compound__names,30,31), (2.1,bandgap__raw_value,33,34), (eV,bandgap__raw_units,34,35)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (TiO2,compound__names,7,8), (3.2,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11)> Confidence:  1.0
+<(band gap,bandgap__specifier,9,11), (Ta3N5,compound__names,13,14), (2.2,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,24,26), (Ta3N5,compound__names,27,28), (2.1,bandgap__raw_value,30,31), (eV),bandgap__raw_units,31,33)> Confidence:  1.0
+<(CFO,compound__names,7,8), (band gap,bandgap__specifier,10,12), (0.603,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(0.603,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18), (band gap,bandgap__specifier,25,27), (CFO,compound__names,28,29)> Confidence:  1.0
+<(band gap,bandgap__specifier,31,33), (CuO,compound__names,34,35), (1.7,bandgap__raw_value,40,41), (eV,bandgap__raw_units,41,42)> Confidence:  1.0
+<(tin(II) sulfide,compound__names,14,16), (band gap,bandgap__specifier,18,20), (1.3,bandgap__raw_value,21,22), (eV),bandgap__raw_units,22,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,18,20), (silicon,compound__names,27,28), (1.12,bandgap__raw_value,29,30), (eV),bandgap__raw_units,30,32)> Confidence:  1.0
+<(band gap,bandgap__specifier,18,20), (gallium arsenide,compound__names,33,35), (1.43,bandgap__raw_value,36,37), (eV),bandgap__raw_units,37,39)> Confidence:  1.0
+<(ZnO,compound__names,0,1), (band gap,bandgap__specifier,6,8), (3.37,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(CdTe,compound__names,0,1), (band gap,bandgap__specifier,4,6), (1.44,bandgap__raw_value,7,8), (eV,bandgap__raw_units,8,9), (at,temperature__specifier,14,15), (300,temperature__raw_value,15,16), (K,temperature__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (DCA3T(T-BDT),compound__names,9,10), (1.80,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(α-Fe2O3,compound__names,5,6), (band gap,bandgap__specifier,15,17), (∼2.1,bandgap__raw_value,19,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(Hematite,compound__names,0,1), (bandgap,bandgap__specifier,20,21), (2.1,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(α-Fe2O3,compound__names,2,3), (bandgap,bandgap__specifier,20,21), (2.1,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(CuO,compound__names,1,2), (Eg,bandgap__specifier,20,21), (∼1.85,bandgap__raw_value,21,23), (eV),bandgap__raw_units,23,25)> Confidence:  1.0
+<(tenorite,compound__names,3,4), (Eg,bandgap__specifier,20,21), (∼1.85,bandgap__raw_value,21,23), (eV),bandgap__raw_units,23,25)> Confidence:  1.0
+<(band gap,bandgap__specifier,6,8), (DKDP,compound__names,11,12), (7.6,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17), (at,temperature__specifier,20,21), (300,temperature__raw_value,21,22), (K,temperature__raw_units,22,23)> Confidence:  1.0
+<(Eg,bandgap__specifier,8,9), (DKDP,compound__names,11,12), (9.0,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20), (at,temperature__specifier,20,21), (300,temperature__raw_value,21,22), (K,temperature__raw_units,22,23)> Confidence:  1.0
+<(Cu2O,compound__names,0,1), (band gap,bandgap__specifier,17,19), (2.0–2.2,bandgap__raw_value,20,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(band gap,bandgap__specifier,2,4), (TFAP,compound__names,8,9), (2.36,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(Eg,bandgap__specifier,5,6), (TFAP,compound__names,8,9), (2.36,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(Nickel oxide,compound__names,0,2), (band gap,bandgap__specifier,17,19), (∼3.6,bandgap__raw_value,20,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(NiO,compound__names,3,4), (band gap,bandgap__specifier,17,19), (∼3.6,bandgap__raw_value,20,22), (eV,bandgap__raw_units,22,23)> Confidence:  1.0
+<(bandgap,bandgap__specifier,7,8), (Cu2O,compound__names,10,11), (2.2,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(HPB-CN,compound__names,8,9), (band gap,bandgap__specifier,25,27), (2.690,bandgap__raw_value,28,29), (eV,bandgap__raw_units,29,30)> Confidence:  1.0
+<(HPB-CN,compound__names,8,9), (band gap,bandgap__specifier,25,27), (2.775,bandgap__raw_value,32,33), (eV,bandgap__raw_units,33,34)> Confidence:  1.0
+<(FTO,compound__names,4,5), (band gaps,bandgap__specifier,7,9), (3.70,bandgap__raw_value,14,15), (eV,bandgap__raw_units,15,16)> Confidence:  1.0
+<(Fe2MnAl,compound__names,4,5), (band gap,bandgap__specifier,21,23), (0.4,bandgap__raw_value,24,25), (eV,bandgap__raw_units,25,26)> Confidence:  1.0
+<(FeCoMnAl,compound__names,4,5), (band gap,bandgap__specifier,23,25), (0.6,bandgap__raw_value,26,27), (eV,bandgap__raw_units,27,28)> Confidence:  1.0
+<(CdS,compound__names,0,1), (band gap,bandgap__specifier,13,15), (2.42,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18), (at,temperature__specifier,18,19), (300,temperature__raw_value,19,20), (K,temperature__raw_units,20,21)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (3.93,bandgap__raw_value,11,12), (eV,bandgap__raw_units,18,19), (CdS,compound__names,39,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (3.89,bandgap__raw_value,13,14), (eV,bandgap__raw_units,18,19), (CdS,compound__names,39,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (3.84,bandgap__raw_value,15,16), (eV,bandgap__raw_units,18,19), (CdS,compound__names,39,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (3.76,bandgap__raw_value,17,18), (eV,bandgap__raw_units,18,19), (CdS,compound__names,39,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (CdS,compound__names,17,18), (2.42,bandgap__raw_value,19,20), (eV),bandgap__raw_units,20,22)> Confidence:  1.0
+<(CeO2,compound__names,2,3), (band gap,bandgap__specifier,12,14), (3.2,bandgap__raw_value,15,16), (eV),bandgap__raw_units,16,18)> Confidence:  1.0
+<(band gap,bandgap__specifier,3,5), (Cu,compound__names,7,8), (1.83,bandgap__raw_value,10,11), (eV),bandgap__raw_units,11,13)> Confidence:  1.0
+<(band gap,bandgap__specifier,7,9), (3.37,bandgap__raw_value,10,11), (eV),bandgap__raw_units,11,13), (Zinc oxide,compound__names,23,25)> Confidence:  1.0
+<(perovskite oxides,compound__names,6,8), (Eg,bandgap__specifier,9,10), (3,bandgap__raw_value,12,13), (eV,bandgap__raw_units,13,14)> Confidence:  1.0
+<(NBT,compound__names,14,15), (band gap,bandgap__specifier,21,23), (2.99 to 2.84,bandgap__raw_value,26,29), (eV),bandgap__raw_units,29,31)> Confidence:  1.0
+<(band gap,bandgap__specifier,6,8), (~3.4,bandgap__raw_value,10,12), (eV),bandgap__raw_units,12,14), (NBT,compound__names,27,28)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (3.35 to 2.53,bandgap__raw_value,9,12), (eV),bandgap__raw_units,12,14), (NBT,compound__names,22,23)> Confidence:  1.0
+<(ZnS,compound__names,8,9), (bandgap,bandgap__specifier,13,14), (3.66,bandgap__raw_value,15,16), (eV),bandgap__raw_units,16,18)> Confidence:  1.0
+<(CuS,compound__names,3,4), (band gap,bandgap__specifier,23,25), (1.2–2.0,bandgap__raw_value,26,29), (eV,bandgap__raw_units,29,30)> Confidence:  1.0
+<(SnO2,compound__names,0,1), (bandgap,bandgap__specifier,7,8), (3.6,bandgap__raw_value,9,10), (eV),bandgap__raw_units,10,12)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (3.1,bandgap__raw_value,5,6), (eV,bandgap__raw_units,10,11), (SnO2,compound__names,13,14)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (3.08,bandgap__raw_value,7,8), (eV,bandgap__raw_units,10,11), (SnO2,compound__names,22,23)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (3.0,bandgap__raw_value,9,10), (eV,bandgap__raw_units,10,11), (SnO2,compound__names,22,23)> Confidence:  1.0
+<(CdS,compound__names,3,4), (band gap,bandgap__specifier,11,13), (2.5,bandgap__raw_value,15,16), (eV,bandgap__raw_units,16,17)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (Fe / Zeolite,compound__names,8,11), (1.65,bandgap__raw_value,18,19), (eV,bandgap__raw_units,19,20)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (polypyrrole,compound__names,10,11), (1.35,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(transition metal oxides,compound__names,4,7), (band gap,bandgap__specifier,28,30), (2.2,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(MFe2O4,compound__names,9,10), (band gap,bandgap__specifier,21,23), (2.0,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (TiO2,compound__names,6,7), (3.2,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(2-0.6ZnO,compound__names,9,10), (band gap,bandgap__specifier,16,18), (3.74,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21), (at,temperature__specifier,33,34), (300,temperature__raw_value,34,35), (K,temperature__raw_units,35,36)> Confidence:  1.0
+<(Zinc oxide,compound__names,0,2), (bandgap,bandgap__specifier,35,36), (3.4,bandgap__raw_value,37,38), (eV),bandgap__raw_units,38,40)> Confidence:  1.0
+<(ZnO,compound__names,3,4), (bandgap,bandgap__specifier,35,36), (3.4,bandgap__raw_value,37,38), (eV),bandgap__raw_units,38,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,4,6), (>3.0,bandgap__raw_value,7,9), (eV),bandgap__raw_units,9,11), (ZnO,compound__names,25,26)> Confidence:  1.0
+<(bandgap,bandgap__specifier,7,8), (CuO,compound__names,10,11), (~1.7,bandgap__raw_value,15,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(bandgap,bandgap__specifier,7,8), (TiO2,compound__names,13,14), (~3.2,bandgap__raw_value,19,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(band gap,bandgap__specifier,11,13), (3.21 to 2.41,bandgap__raw_value,16,19), (eV,bandgap__raw_units,19,20), (ZnO,compound__names,21,22)> Confidence:  1.0
+<(molybdenum disulphide,compound__names,1,3), (band gap,bandgap__specifier,17,19), (1.3,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(molybdenum disulphide,compound__names,1,3), (band gap,bandgap__specifier,28,30), (1.8,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(MoS2,compound__names,4,5), (band gap,bandgap__specifier,17,19), (1.3,bandgap__raw_value,20,21), (eV,bandgap__raw_units,21,22)> Confidence:  1.0
+<(MoS2,compound__names,4,5), (band gap,bandgap__specifier,28,30), (1.8,bandgap__raw_value,31,32), (eV,bandgap__raw_units,32,33)> Confidence:  1.0
+<(GaInAsP,compound__names,23,24), (bandgap,bandgap__specifier,33,34), (1.2,bandgap__raw_value,37,38), (eV),bandgap__raw_units,38,40)> Confidence:  1.0
+<(band gap,bandgap__specifier,1,3), (TiO2(101),compound__names,7,8), (2.082,bandgap__raw_value,10,11), (eV,bandgap__raw_units,11,12)> Confidence:  1.0
+<(silicane,compound__names,6,7), (band gap,bandgap__specifier,10,12), (2.935,bandgap__raw_value,13,14), (eV,bandgap__raw_units,14,15)> Confidence:  1.0
+<(germanane,compound__names,18,19), (band gap,bandgap__specifier,22,24), (1.638,bandgap__raw_value,25,26), (eV,bandgap__raw_units,26,27)> Confidence:  1.0
+<(TiO2,compound__names,31,32), (band gap,bandgap__specifier,35,37), (3.26,bandgap__raw_value,38,39), (eV,bandgap__raw_units,39,40)> Confidence:  1.0
+<(germanane,compound__names,1,2), (band gaps,bandgap__specifier,9,11), (1.59,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(TiO2,compound__names,4,5), (band gaps,bandgap__specifier,9,11), (3.2,bandgap__raw_value,22,23), (eV,bandgap__raw_units,23,24)> Confidence:  1.0
+<(band gaps,bandgap__specifier,8,10), (silicane,compound__names,11,12), (2.082,bandgap__raw_value,16,17), (eV,bandgap__raw_units,17,18)> Confidence:  1.0
+<(band gaps,bandgap__specifier,8,10), (germanane,compound__names,13,14), (1.154,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
+<(Cadmium oxide, CdO,compound__names,0,4), (band gap,bandgap__specifier,15,17), (2.5,bandgap__raw_value,19,20), (eV,bandgap__raw_units,20,21)> Confidence:  1.0
