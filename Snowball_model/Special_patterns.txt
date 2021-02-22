@@ -1,0 +1,350 @@
+The (bandgap__specifier) energy is shifted by (bandgap__raw_value) <Blank> (bandgap__raw_units) in the case of (compound__names) doping with confidence score 1.0
+
+by (compound__names) , (compound__names) , and (compound__names) photocatalysts which have a (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+
+the (bandgap__specifier) energy of the monoclinic phase (compound__names) is below (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+the (bandgap__specifier) energy of M-ZnS @ (compound__names) / (compound__names) was reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) distinctly with confidence score 1.0
+
+of (compound__names) has wide (bandgap__specifier) over (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+The (bandgap__specifier) of (compound__names) and its analogues usually lies below (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+the (bandgap__specifier) of carbon-incorporated (compound__names) was reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) below with confidence score 1.0
+
+a (bandgap__specifier) reduction of (bandgap__raw_value) <Blank> (bandgap__raw_units) through the hybridization of (compound__names) and (compound__names) 2p with confidence score 1.0
+
+of (bandgap__raw_value) <Blank> (bandgap__raw_units) in the VB edge position of (compound__names) , which ultimately resulted in decreased (bandgap__specifier) having with confidence score 1.0
+
+the (bandgap__specifier) energy of CdS nanocrystalline is increased by (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+the (compound__names) bulk crystal ( (bandgap__specifier) = 2.50 eV ) indicates a blue - shift of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+that (compound__names) and BNNTs have an identical (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+the (bandgap__specifier) of (compound__names) crystals is 3.52 eV , which is underestimated by (bandgap__raw_value) <Blank> (bandgap__raw_units) compared with confidence score 1.0
+
+optical (bandgap__specifier) energy of CaYb2Ge3O10 is equal to 5.5 eV , for the (compound__names) compound this value is more than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+optical (bandgap__specifier) is found to be decreased by (bandgap__raw_value) <Blank> (bandgap__raw_units) when 6 % Bi is introduced in (compound__names) compound with confidence score 1.0
+
+The (bandgap__specifier) is increased by (bandgap__raw_value) <Blank> (bandgap__raw_units) with laser irradiation of (compound__names) film with confidence score 1.0
+
+optical (bandgap__specifier) is found to be decreased by (bandgap__raw_value) <Blank> (bandgap__raw_units) when 10 % Te is introduced in (compound__names) compound with confidence score 1.0
+
+calculated (bandgap__specifier) for three (compound__names) phosphors are larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) with with confidence score 1.0
+
+<Blank> (compound__names) has been chosen as a host material since it has a reasonably larger (bandgap__specifier) of over (bandgap__raw_value) <Blank> (bandgap__raw_units) , and a high thermal stability up to (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+
+including (compound__names) , the (bandgap__specifier) is decreased by (bandgap__raw_value) <Blank> (bandgap__raw_units) as compared to the (compound__names) analog with confidence score 1.0
+
+the (bandgap__specifier) of pure (compound__names) is 2.18 eV , which is underestimated by (bandgap__raw_value) <Blank> (bandgap__raw_units) compared with confidence score 1.0
+
+as (compound__names) and (compound__names) , whose (bandgap__specifier) are larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+of (bandgap__raw_value) <Blank> (bandgap__raw_units) in the (bandgap__specifier) values of (compound__names) has with confidence score 1.0
+
+The (bandgap__specifier) energy of poly-crystalline (compound__names) is , therefore , larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+The (compound__names) codoping reduces the (bandgap__specifier) value ( below (bandgap__raw_value) <Blank> (bandgap__raw_units) of with confidence score 1.0
+
+deposited (compound__names) films have (bandgap__specifier) values below (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+the (compound__names) is included , the (bandgap__specifier) is reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+based (bandgap__specifier) for (compound__names) is in excellent agreement with one of the reported experimental band gap data [] , though our one is marginally underestimated by (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+The (bandgap__specifier) were reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) and with confidence score 1.0
+
+of (compound__names) has its (bandgap__specifier) reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+of (compound__names) or (compound__names) since their (bandgap__specifier) values are much larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+The (bandgap__specifier) of the developed organic heterojunction is decreased by (bandgap__raw_value) <Blank> (bandgap__raw_units) when the state of polarization of the ferroelectric (compound__names) is with confidence score 1.0
+
+with (compound__names) compounds of (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+of (bandgap__raw_value) <Blank> (bandgap__raw_units) in the (bandgap__specifier) of (compound__names) . with confidence score 1.0
+
+effective (bandgap__specifier) , that is the separation between the quantum confined ground states in conduction band and that in valence band , of a 10 nm InAs dots can be extrapolated to be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) based on the large collection of InAs SAQD on (compound__names) ( (compound__labels) ) with confidence score 1.0
+
+<Blank> (compound__names) films with wider energy (bandgap__specifier) more than (bandgap__raw_value) <Blank> (bandgap__raw_units) seem with confidence score 1.0
+
+the (bandgap__specifier) of ZnO films ( 3.22 eV in our work ) , the largest red - shift of ( Mn , (compound__names) films is over (bandgap__raw_value) <Blank> (bandgap__raw_units) in with confidence score 1.0
+
+with (compound__names) ( 0.565325 nm ) , having an energy (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+<Blank> (compound__names) has an electronic (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+grown (compound__names) is a transparent dielectric with the bulk (bandgap__specifier) of over (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+<Blank> (compound__names) is an insulator with a (bandgap__specifier) of more than (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+
+forbidden (bandgap__specifier) ( over (bandgap__raw_value) <Blank> (bandgap__raw_units) of (compound__names) results with confidence score 1.0
+
+exhibit (bandgap__specifier) of 3 eV ( BaCuTeF ) , 2.9 eV ( BaCuSeF ) , and over (bandgap__raw_value) <Blank> (bandgap__raw_units) in (compound__names) . with confidence score 1.0
+
+% (compound__names) doping , the (bandgap__specifier) has increased by (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+The (bandgap__specifier) of the film sputtered at 80 W , 120 W , and 156 W was more than 3.2 eV , while that of the (compound__names) films sputtered at 182 W and 220 W was both below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+of (compound__names) as 3.3 eV , the (bandgap__specifier) shift of (bandgap__raw_value) meV for a carrier concentration of 1.4 × 1020 / cm3 , calculated from the above model is found to be in good agreement with the experimental shift of 150 (bandgap__raw_units) observed with confidence score 1.0
+
+The (compound__names) thin films that were prepared by pulsed laser ablation technique with Mg doping concentrations higher than 50 mol % showed a cubic crystal structure with an optical (bandgap__specifier) energy larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+large (bandgap__specifier) of more than (bandgap__raw_value) <Blank> (bandgap__raw_units) , comparable to (compound__names) . with confidence score 1.0
+
+the (compound__names) phase in these films is photo - inactive , even though it had very low (bandgap__specifier) of below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+<Blank> (compound__names) , is an n - type indirect semiconductor material with electronic (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) which with confidence score 1.0
+
+optical (bandgap__specifier) of the epitaxial cor - (compound__names) films ( FilmLN05 , FilmLN10 and FilmLN50 ) were over (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+
+these (bandgap__specifier) are roughly aligned , the (compound__names) Valence Band lays more than (bandgap__raw_value) <Blank> (bandgap__raw_units) below with confidence score 1.0
+
+of (compound__names) and (compound__names) , in which the (bandgap__specifier) can be changed with more than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+<Blank> (compound__names) is famous for its diverse functionalities and wider (bandgap__specifier) energy of more than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+in (compound__names) , the (bandgap__specifier) can be redshifted by (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+<Blank> (compound__names) <Blank> (bandgap__specifier) can be shifted by (bandgap__raw_value) <Blank> (bandgap__raw_units) with annealing temperature (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+
+second (compound__names) pulse ( at 30 s ) a (bandgap__specifier) is formed below (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+
+conducting (compound__names) with more than (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (bandgap__specifier) . with confidence score 1.0
+
+The (bandgap__specifier) energy of the undoped (compound__names) film is found to be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+The (bandgap__specifier) energy for the undoped (compound__names) film is found to be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+direct (bandgap__specifier) emission of unstrained and undoped (compound__names) , we observe here a redshift of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+of (compound__names) window layer in amorphous Si solar cells are summarized as follows : A wide optical (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+<Blank> (compound__names) - NTs are all semiconducting materials with (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+wide (bandgap__specifier) energy over (bandgap__raw_value) <Blank> (bandgap__raw_units) and low resistivity below 10− 3 Ω cm of (compound__names) layer with confidence score 1.0
+
+to (compound__names) which have (bandgap__specifier) of over (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+optical (bandgap__specifier) of over (bandgap__raw_value) <Blank> (bandgap__raw_units) could be obtained with high (compound__names) / with confidence score 1.0
+
+including (compound__names) suffer from instability against visible light illumination although their (bandgap__specifier) ( (bandgap__specifier) ) are typically larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+: (compound__names) with optical (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+and (compound__names) based (compound__names) films have gained extensive consideration because of their higher energy (bandgap__specifier) ( more than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+Using (compound__names) or CIGS cells as the bottom cell , absorber materials with a (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) are with confidence score 1.0
+
+The (compound__names) films for CZTS solar cell that would be developed at low temperature should be crystalline with low resistivity and high transparency in the 300 – 900 nm wavelength range which is the absorption spectrum range of CZTS solar cells with (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+a (bandgap__specifier) shift of (bandgap__raw_value) <Blank> (bandgap__raw_units) which proves a significant change in the (compound__names) order with confidence score 1.0
+
+of (compound__names) , it was reported that (bandgap__specifier) energy decreases by (bandgap__raw_value) <Blank> (bandgap__raw_units) when temperature was increased from (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+
+- (bandgap__specifier) ( Tauc gap below (bandgap__raw_value) <Blank> (bandgap__raw_units) amorphous - (compound__names) germanium alloys ( (compound__names) : with confidence score 1.0
+
+- (bandgap__specifier) <Blank> (compound__names) : H alloys with bandgaps below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+: (compound__names) having the optical (bandgap__specifier) more than (bandgap__raw_value) <Blank> (bandgap__raw_units) by with confidence score 1.0
+
+binary (compound__names) analog where (bandgap__specifier) decreases by (bandgap__raw_value) <Blank> (bandgap__raw_units) as with confidence score 1.0
+
+<Blank> (compound__names) and N,F - (compound__names) shows a (bandgap__specifier) reduction by (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) respectively with confidence score 0.5
+
+For (compound__names) terminated nanowires the (bandgap__specifier) reduces by (bandgap__raw_value) <Blank> (bandgap__raw_units) as with confidence score 1.0
+
+– (compound__names) surface termination strongly reduces the magnitude of the (bandgap__specifier) , with a reduction of (bandgap__raw_value) <Blank> (bandgap__raw_units) over with confidence score 1.0
+
+a (bandgap__specifier) of more than (bandgap__raw_value) <Blank> (bandgap__raw_units) and an in-gap state in heavily (compound__names) - with confidence score 1.0
+
+the (bandgap__specifier) energy variance of (compound__names) and (compound__names) is (bandgap__raw_value) / (bandgap__raw_value) <Blank> (bandgap__raw_units) far with confidence score 1.0
+
+actual (bandgap__specifier) of λ phase (compound__names) is likely to be slightly larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+The (bandgap__specifier) is reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) relative to pure anatase (compound__names) , with confidence score 1.0
+
+The (bandgap__specifier) is reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) , as compared to the case of pure (compound__names) . with confidence score 1.0
+
+of (compound__names) is a crucial task because the (bandgap__specifier) of photocatalyst candidates need to be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) to overcome the endothermic character of water - splitting and smaller than (bandgap__raw_value) <Blank> (bandgap__raw_units) to with confidence score 0.5
+
+the (bandgap__specifier) of BP is decreased by more than (bandgap__raw_value) <Blank> (bandgap__raw_units) by an added (compound__names) concentration with confidence score 1.0
+
+( (compound__names) ) thin films that maintain a low electrical resistivity of below 10 − 4 Ω cm and a wide (bandgap__specifier) energy of over (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+the (bandgap__specifier) of Mo mono-doped and N – Mo co-doped (compound__names) are both more than (bandgap__raw_value) <Blank> (bandgap__raw_units) being with confidence score 1.0
+
+The (bandgap__specifier) is reduced by (bandgap__raw_value) eV ( 3.64 – 2.87 (bandgap__raw_units) with the increase in (compound__names) concentration with confidence score 1.0
+
+( (compound__names) ) thin films that maintain a low electrical resistivity of less than 10 − 4 Ω cm and wide (bandgap__specifier) energy of over (bandgap__raw_value) <Blank> (bandgap__raw_units) were with confidence score 1.0
+
+phase (compound__names) with a (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+like (compound__names) ( with a (bandgap__specifier) of more than (bandgap__raw_value) <Blank> (bandgap__raw_units) has with confidence score 1.0
+
+, (compound__names) shows the highest (bandgap__specifier) reduction of (bandgap__raw_value) <Blank> (bandgap__raw_units) with respect to (compound__names) . with confidence score 1.0
+
+codoped (compound__names) has a large (bandgap__specifier) reduction of (bandgap__raw_value) <Blank> (bandgap__raw_units) , two times larger than that in Cu - doped (compound__names) . with confidence score 0.5
+
+doped (compound__names) with (compound__labels) a (bandgap__specifier) reduction of (bandgap__raw_value) <Blank> (bandgap__raw_units) is with confidence score 1.0
+
+codoped (compound__names) , a (bandgap__specifier) reduction of (bandgap__raw_value) eV ( structures a1 and c1 ) , and of 0.15 ± 0.01 (bandgap__raw_units) are with confidence score 1.0
+
+: (compound__names) thin films with (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) are with confidence score 1.0
+
+the (bandgap__specifier) energy of (compound__names) is still larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) when with confidence score 1.0
+
+obtained (compound__names) have electrochemical (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+( (bandgap__specifier) ) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , the photoactivity of (compound__names) is with confidence score 1.0
+
+bulk (compound__names) , showing a blue shift of (bandgap__raw_value) <Blank> (bandgap__raw_units) in (bandgap__specifier) . with confidence score 1.0
+
+of (bandgap__raw_value) <Blank> (bandgap__raw_units) of the (compound__names) <Blank> (bandgap__specifier) near with confidence score 1.0
+
+doped (compound__names) powder samples and ceramic pellets with large (bandgap__specifier) over (bandgap__raw_value) <Blank> (bandgap__raw_units) have with confidence score 1.0
+
+the (bandgap__specifier) was found to be 1.1 eV for the copolymer based on di-thiophene and benzothiadiazole and below (bandgap__raw_value) <Blank> (bandgap__raw_units) for the copolymer based on (compound__names) and with confidence score 1.0
+
+doped (compound__names) samples with (bandgap__specifier) over (bandgap__raw_value) <Blank> (bandgap__raw_units) have with confidence score 1.0
+
+<Blank> (compound__names) ( pC6TP ) is one of simplest and lowest (bandgap__specifier) materials so far reported with binary pC6TP : PCBM devices demonstrating photocurrent responses at photon energies below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+the (bandgap__specifier) is reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) as compared to pure (compound__names) . with confidence score 1.0
+
+of (bandgap__raw_value) <Blank> (bandgap__raw_units) is attributed to the (bandgap__specifier) narrowing by (compound__names) dopant with confidence score 1.0
+
+the (bandgap__specifier) can be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) in stepped (compound__names) , with confidence score 1.0
+
+The (bandgap__specifier) can be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) in stepped (compound__names) . with confidence score 1.0
+
+nonzero (bandgap__specifier) can be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , it is much smaller than the reported bandgap in narrow (compound__names) ribbons with confidence score 1.0
+
+of (bandgap__raw_value) <Blank> (bandgap__raw_units) from the (bandgap__specifier) of (compound__names) . with confidence score 1.0
+
+of (compound__names) is plagued by a wide miscibility gap which limits stable alloys to (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+any (compound__names) that the (bandgap__specifier) can vary by more than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+of (compound__names) : H films deposited by P-CVD always show drastic degradation for (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) due with confidence score 1.0
+
+high (compound__names) content , a decrease in optical (bandgap__specifier) is observed , which indicates the difficulty of obtaining optical gap over (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+the (compound__names) experimental (bandgap__specifier) to be significantly larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+for (compound__names) and (compound__names) , their white color indicates a (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+of (bandgap__specifier) with composition shows that for the same value of the lattice constant one can obtain band gaps differing by more than (bandgap__raw_value) <Blank> (bandgap__raw_units) , even if the (compound__names) concentration with confidence score 1.0
+
+The (bandgap__specifier) of P3HS was estimated at 1.6 eV by the onset of the optical absorption at 760 nm , a reduction of (bandgap__raw_value) <Blank> (bandgap__raw_units) compared to (compound__names) . with confidence score 1.0
+
+The (bandgap__specifier) ( Eg ) of (compound__names) determined from its absorption edge is 1.86 eV which is reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) in with confidence score 1.0
+
+<Blank> (compound__names) and (compound__names) have large (bandgap__specifier) energies over (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+both (compound__names) and (compound__names) are wide gap semiconductors with (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+<Blank> (compound__names) , (compound__names) and amorphous (compound__names) powders were chosen as supports because of their (bandgap__specifier) ( above (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+<Blank> (compound__names) nanomaterials normally have electronic (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+
+the (bandgap__specifier) of (compound__names) will be close to or larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+
+, (compound__names) ( PPV ) and (compound__names) ( P3HT ) have (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+the (bandgap__specifier) or the absorption edge could be efficiently reduced by more than (bandgap__raw_value) <Blank> (bandgap__raw_units) by changing the aromatic unit from (compound__names) to with confidence score 1.0
+
+of (compound__names) in the structure clearly decreases the (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+optical (bandgap__specifier) for the (compound__names) : In films developed in this work is larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) reported with confidence score 1.0
+
+The (bandgap__specifier) of (compound__names) nanotubes and nanosheets are considerable larger than bulk TiO2 ( more than (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+
+’ (bandgap__specifier) for a perfect (compound__names) monolayer is speculated to be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+The (bandgap__specifier) of W - doped (compound__names) ( cf.Fig. 3(b) ) is also slightly reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) vis-à-vis with confidence score 1.0
+
+about (bandgap__raw_value) <Blank> (bandgap__raw_units) with respect to the pure (compound__names) computed optical direct (bandgap__specifier) ( with confidence score 1.0
+
+, (compound__names) ) with (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) cover with confidence score 1.0
+
+optical (bandgap__specifier) of DPPVAnt calculated from the onset wavelength of UV - vis absorption was more than (bandgap__raw_value) <Blank> (bandgap__raw_units) wider than that of (compound__names) . with confidence score 1.0
+
+the (bandgap__specifier) of (compound__names) and thus facilitate the sub-bandgap absorption of photons with energy below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+optical (bandgap__specifier) of the (compound__names) is estimated to be 2.49 eV with a decrease of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+, (compound__names) sheets were found to be insulated with (bandgap__specifier) larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+Anatase (compound__names) shows no absorption below (bandgap__raw_value) <Blank> (bandgap__raw_units) due to its wide (bandgap__specifier) . with confidence score 1.0
+
+organic (compound__names) has an optical band gap of 2.07 eV while for higher acene derivatives the (bandgap__specifier) is close to or well below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+trilayer (compound__names) have produced a (bandgap__specifier) of more than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+the (bandgap__specifier) of (compound__names) is larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+The (bandgap__specifier) of (compound__names) and (compound__names) are more than (bandgap__raw_value) <Blank> (bandgap__raw_units) larger with confidence score 1.0
+
+the (bandgap__specifier) of the heavily doped (compound__names) is probably below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+the (bandgap__specifier) of (compound__names) extends to be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) ( with confidence score 1.0
+
+of (compound__names) , Fig. 2c shows that the (bandgap__specifier) was 3.30 eV , slightly decreased by (bandgap__raw_value) <Blank> (bandgap__raw_units) relative with confidence score 1.0
+
+a (bandgap__specifier) energy of about 4.2 eV , which is increased by (bandgap__raw_value) <Blank> (bandgap__raw_units) in comparison with the bulk (compound__names) material with confidence score 1.0
+
+bare (compound__names) and hydrogenated (compound__names) ( m , n ≥ 3 ) nanosheets have (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) with with confidence score 1.0
+
+bare (compound__names) have (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+
+these (compound__names) heterostructured nanosheets with appropriate thickness ( m , n ≥ 3 , and m ≠ n ) should still have (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+
+than (bandgap__raw_value) <Blank> (bandgap__raw_units) is very significant , and such a large (bandgap__specifier) shift has never been reported for the (compound__names) - with confidence score 1.0
+
+of (bandgap__specifier) should be larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) to meet the thermodynamic requirement for splitting (compound__names) into with confidence score 1.0
+
+of (bandgap__raw_value) <Blank> (bandgap__raw_units) compared to original (compound__names) <Blank> (bandgap__specifier) , with confidence score 1.0
+
+over (compound__names) nanosheets due to their high specific surface area , improved electron transport ability and longer lifetime of charge carriers , though their (bandgap__specifier) increased by (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+and (compound__names) - terminated armchair BNRs and find that its (bandgap__specifier) can still be sharply reduced by (bandgap__raw_value) <Blank> (bandgap__raw_units) from with confidence score 1.0
+
+the (compound__names) group of I provokes a reduction of (bandgap__raw_value) <Blank> (bandgap__raw_units) in the π – π* lowest transition energy ( (bandgap__specifier) ) with confidence score 1.0
+
+the (bandgap__specifier) decreases by (bandgap__raw_value) <Blank> (bandgap__raw_units) when the (compound__names) chain with confidence score 1.0
+
+, (compound__names) is an insulator at ambient pressure because its (bandgap__specifier) is more than (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+overall (bandgap__specifier) has also decreased to just below (bandgap__raw_value) <Blank> (bandgap__raw_units) , which is a reduction of (bandgap__raw_value) <Blank> (bandgap__raw_units) from pristine (compound__names) . with confidence score 0.5
+
+pure (compound__names) is not a good candidate , owing to its electrical insulation at stoichiometric composition and large (bandgap__specifier) ( over (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+of (compound__names) ( 3.3 eV ) , the (bandgap__specifier) is significantly blue - shifted by (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+The (bandgap__specifier) was increased by (bandgap__raw_value) <Blank> (bandgap__raw_units) with 1 / 4 (compound__names) substituted with confidence score 1.0
+
+in (compound__names) , narrowing its (bandgap__specifier) below (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+the (bandgap__specifier) of WO6 - (compound__names) decreases by (bandgap__raw_value) <Blank> (bandgap__raw_units) with with confidence score 1.0
+
+- (compound__names) structure , the (bandgap__specifier) decreased by (bandgap__raw_value) <Blank> (bandgap__raw_units) with with confidence score 1.0
+
+than (bandgap__raw_value) <Blank> (bandgap__raw_units) for the indirect (bandgap__specifier) of cubic (compound__names) NWs with confidence score 1.0
+
+the (bandgap__specifier) of (compound__names) increases by (bandgap__raw_value) <Blank> (bandgap__raw_units) after with confidence score 1.0
+
+the (bandgap__specifier) of (compound__names) increases with increasing the biaxial tensile strain to its maximum at 6 % strain with an increase of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+of (compound__names) , the optical (bandgap__specifier) could be continuously tuned by over (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+of (compound__names) , the blue phosphorus , has a fundamental large (bandgap__specifier) of over (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+
+direct (compound__roles) MoS2(1−x)Se2x atomic mono- and bilayers with tunable compositions through CVD controlled selenium doping , the band structure of (compound__names) could be modified and the optical (bandgap__specifier) could be continuously tuned by over (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+
+both (compound__names) and (compound__names) have a large (bandgap__specifier) over (bandgap__raw_value) <Blank> (bandgap__raw_units) ; with confidence score 1.0
+
+optical (bandgap__specifier) of (compound__names) is around 3.2 – 3.4 eV , and is found to decrease by (bandgap__raw_value) <Blank> (bandgap__raw_units) upon with confidence score 0.0
+
