@@ -1,0 +1,1272 @@
+Cluster set contains 403 clusters.
+Cluster 0 contains 1 phrases
+	 As shown in Fig. 4a for samples S0 , S2 and S3 , the indirect fit plot yields band gap values of 2.6 eV , 1.8 eV and 1.8 eV , respectively , which does not seem realistic because ( i ) silica does not absorb visible radiation and ( ii ) the band gap energy for bulk hematite is reportedly ∼ 2.0 eV .
+The cluster centroid pattern is: the (bandgap__specifier) energy for bulk (compound__names) is reportedly (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 1 contains 1 phrases
+	 Vanadium oxides are extensively used as catalysts with a band gap of approximately 2.6 eV .
+The cluster centroid pattern is: <Blank> (compound__names) are extensively used as catalysts with a (bandgap__specifier) of approximately (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 2 contains 4 phrases
+	 The pure sulfide kesterite , CZTS , has a relatively wide band gap of 1.5 eV and a large absorption coefficient of 105 cm−1 .
+	 In addition , ZnO has a wide band gap of 3.37 eV , which inevitably restricts its practical application in visible light or sunlight , attributed to the fact that visible light accounts for 45 % of solar energy , whereas only around 5 % of it comprises UV light .
+	 However , TiO2 has a wide band gap of 3.2 eV which limits its application under visible light .
+	 Pure TiO2 has a band gap of ∼ 3.2 eV and on loading CoOx , the band gap shifted to the visible region , as shown in Table 1 .
+The cluster centroid pattern is: , (compound__names) has a wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 3 contains 1 phrases
+	 NaInO2 was found to have a band gap of 3.9 eV .
+The cluster centroid pattern is: <Blank> (compound__names) was found to have a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 4 contains 1 phrases
+	 Fe substitution was found to reduce the band gap energy in NaIn0.9Fe0.1O2 to 2.8 eV , a change of over 1 eV .
+The cluster centroid pattern is: the (bandgap__specifier) energy in (compound__names) to (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 5 contains 1 phrases
+	 Based on band gap energies , this result is expected as the measured band gap for NaIn0.9Fe0.1O2 is 2.8 eV compared to > 3.2 eV for P25 .
+The cluster centroid pattern is: on (bandgap__specifier) energies , this result is expected as the measured band gap for (compound__names) is (bandgap__raw_value) <Blank> (bandgap__raw_units) compared with confidence score 1.0
+Cluster 6 contains 1 phrases
+	 The estimated band gap values for CoxCu1−xFe2O4 nanoparticles were found to be 1.4 , 1.44 , 1.37 , 1.29 and 1.2 eV for x = 0.0 , 0.2 , 0.6 , 0.8 and 1.0 respectively .
+The cluster centroid pattern is: estimated (bandgap__specifier) values for (compound__names) nanoparticles were found to be (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 7 contains 1 phrases
+	 Similarly , nanocomposites of CNTs with CoxCu1−xFe2O4 nanoparticles had band gap value of around 1.82 eV for the copper ferrite – CNTs nanocomposite and this value decreased with increase in the cobalt ion doping in the material .
+The cluster centroid pattern is: with (compound__names) nanoparticles had (bandgap__specifier) value of around (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 8 contains 1 phrases
+	 Values of the band gap for cobalt doped copper ferrite – CNTs with x = 0.2 , 0.6 , 0.8 and 1.0 were estimated to be around 1.76 , 1.70 , 1.42 eV and 1.25 eV respectively .
+The cluster centroid pattern is: the (bandgap__specifier) for cobalt doped copper (compound__names) – CNTs with x = 0.2 , 0.6 , 0.8 and 1.0 were estimated to be around (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) respectively with confidence score 1.0
+Cluster 9 contains 1 phrases
+	 CuFe2O4 nanoparticles having band gap of 1.4 eV and electrons from the valence band of the copper ferrite excited to conduction band .
+The cluster centroid pattern is: <Blank> (compound__names) nanoparticles having (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 10 contains 1 phrases
+	 Due to the wide band gap ( 3.0 eV for rutile and 3.2 eV for anatase ) TiO2 absorbs only a small portion of the solar spectrum in the ultraviolet region .
+The cluster centroid pattern is: wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) for rutile and (bandgap__raw_value) <Blank> (bandgap__raw_units) for anatase ) (compound__names) absorbs with confidence score 1.0
+Cluster 11 contains 1 phrases
+	 Optical absorption measurements have revealed that rutile TiO2 has a direct band gap with a gap energy of 3.0 eV .
+The cluster centroid pattern is: rutile (compound__names) has a direct (bandgap__specifier) with a gap energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 12 contains 1 phrases
+	 By Tauc plotting , the direct optical band gap of the a-TiO2 : Ti3+ nanoparticles is determined to be 3.04 eV at the intercept of the linear part of the curve with (αhν)2 = 0 , as shown in the inset in Fig. 1(b) .
+The cluster centroid pattern is: optical (bandgap__specifier) of the (compound__names) : Ti3+ nanoparticles is determined to be (bandgap__raw_value) <Blank> (bandgap__raw_units) at with confidence score 1.0
+Cluster 13 contains 1 phrases
+	 Since the optical band gap of the a-TiO2 : Ti3+ is 3.04 eV , the CBM should be at 0.61 eV .
+The cluster centroid pattern is: optical (bandgap__specifier) of the (compound__names) : Ti3+ is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 14 contains 2 phrases
+	 The band gap of BTS is calculated to be about 0.2 eV .
+	 The band gap of MgIn2S4 is estimated to be about 2.00 eV .
+The cluster centroid pattern is: The (bandgap__specifier) of (compound__names) is estimated to be about (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 15 contains 6 phrases
+	 According to our computational results , stanane is semiconducting with a direct band gap of 1.00 eV , which can be flexibly tuned by applying an external strain .
+	 Our computations revealed that stanane is semiconducting with a direct band gap of 1.00 eV .
+	 Computed at the HSE06 level of theory , stanane is semiconducting with a direct band gap of 1.22 eV with the valence band maximum ( VBM ) and conduction band minimum ( CBM ) both located at the Γ point ( Fig. 2a ) .
+	 ZnO with a direct band gap of 3.37 eV and a large free exciton binding energy of 60 meV has been of a great importance because of its high catalytic activity , low poisonous entity , low price , numerous morphologies , and high quantum yield .
+	 Among nanosized photocatalysis materials , ZnO with a direct band gap of 3.37 eV has been widely used because of its high quantum efficiency , thermal , and chemical stability as well as its nontoxicity .
+	 The results show that Pbnm orthorhombic SrHfO3 is an insulator with a direct band gap of 3.9 eV and 4.0 eV within the calculations using local density approximation ( LDA ) and generalized gradient approximation ( GGA ) , respectively .
+The cluster centroid pattern is: , (compound__names) is semiconducting with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 16 contains 1 phrases
+	 For example , MoS2 bulk is a well - known semiconductor with an indirect band gap of ∼ 1.29 eV whereas its monolayer structure has a direct band gap of ∼ 1.80 eV .
+The cluster centroid pattern is: , (compound__names) bulk is a well - known semiconductor with an indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) whereas its monolayer structure has a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 17 contains 1 phrases
+	 The band gap of stanane is much lower than those of graphane ( 4.47 eV ) , silicane ( 3.51 eV ) , and germanane ( 1.55 eV ) computed at the same theoretical level .
+The cluster centroid pattern is: The (bandgap__specifier) of stanane is much lower than those of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , and (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) computed with confidence score 1.0
+Cluster 18 contains 1 phrases
+	 Especially , when the spin – orbital coupling ( SOC ) effect is taken into account in the band structure computation , the band gap of stanane is significantly lowered to be 1.00 eV , implying that the SOC effect may play an important role in the electronic properties of stanane .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) is significantly lowered to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 19 contains 1 phrases
+	 The band gap of stanane can be decreased to be 0.37 eV under a biaxial tensile strain of 5 % or increased to be 1.43 eV under a biaxial compressive strain of 3 % .
+The cluster centroid pattern is: The (bandgap__specifier) of (compound__names) can be decreased to be (bandgap__raw_value) <Blank> (bandgap__raw_units) under a biaxial tensile strain of 5 % or increased to be (bandgap__raw_value) <Blank> (bandgap__raw_units) under with confidence score 1.0
+Cluster 20 contains 1 phrases
+	 Porous CeO2 hollow spheres degraded 92 % of gas phase acetaldehyde within 24 h , four times better than in the case of CeO2 nanoparticles , despite the fact that the latter had a smaller band gap ( 2.88 eV as compared to 3.01 eV for hollow CeO2 spheres ) and better crystallinity .
+The cluster centroid pattern is: smaller (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) as compared to (bandgap__raw_value) <Blank> (bandgap__raw_units) for hollow (compound__names) spheres with confidence score 1.0
+Cluster 21 contains 9 phrases
+	 However , the large band gap of TiO2 ( 3.2 eV ) limits its utilization of visible light and many dyes failed to inject electrons into the conduction band of TiO2 owing to insufficient electron injection driving force .
+	 In Fig. 5 , a broad absorption peak attributed to the intrinsic band gap of TiO2 ( ≈ 3.2 eV ) is observed in the region of 300 – 400 nm , which was associated with the electronic excitation of the valence band O 2p electron to the conduction band Ti 3d level .
+	 The band gaps for all the samples were reduced when compared to the band gap of bulk SnO2 ( 3.6 eV ) which can be attributed to the reduced coordination number in the interfacial sites .
+	 Recently , our group incorporated ZrO2 into the PI matrices26 , and demonstrated that the obtained PI / zirconia films exhibited higher Vd and optical transparency in the visible light region because that the energy band gap of ZrO2 ( 5.0 – 5.85 eV ) is much larger than that of TiO2 ( 3.2 eV)26 , 27 .
+	 Contrarily , the S-OH / ZrO2 hybrid films shown in Fig. 1e could keep higher transparency and colorless in the visible light due to the larger energy band gap of zirconium dioxide ( 5.0 – 5.85 eV ) than the respective S-OH / TiO2 system , .
+	 The heterogeneous photocatalysis systems are based on the absorption of photons with energy greater than the band gap of TiO2 ( 3.2 eV ) to initiate the excitation of electrons to the conduction band ( CB ) and holes resides on the valence band ( VB ) .
+	 Due to formation of the nanoclusters blue shift of the bulk band gap of ITO ( 3.65 eV ) was observed .
+	 The energy gap size between the Γ2 point and the VBM in the majority spin is comparable to the band gap size of Cr2CF2 ( 1.105 eV ) .
+	 An absorbance at wavelengths less than 400 nm was observed for CeO2 / Al2O3 , which could be assigned to the intrinsic band gap absorption of CeO2 ( 3.2 eV ) .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 22 contains 13 phrases
+	 The band gap of bulk CuO is 1.2 eV which correspond to near infrared region .
+	 The bandgap of α-Fe2O3 is 2.2 eV which absorbs visible light , thereby becoming a promising photocatalyst .
+	 The bandgap of CsGeI3 is 1.63 eV , which is very close to the conventional Pb - based perovskites .
+	 The bandgap of CsGeI3 is 1.63 eV , which is very close to the conventional Pb - based perovskites .
+	 The optical band gap of polycrystalline zinc alumina is 3.8 eV .
+	 However , the band gap of K2Ti4O9 is ca. 3.2 – 3.4 eV , which can not be excited under visible light , that is K2Ti4O9 can hardly exhibit photocatalytic activity under visible light irradiation .
+	 The band gap of PbS is only 0.41 eV , so PbS shows good absorption for visible light .
+	 The energy bandgap of BWO is 2.96 eV , and its CB and VB energy levels are located at about 0.29 eV and 3.25 eV ( vs .
+	 The bandgap of CdTe is 1.5 eV and it has very s high absorption coefficient ( > 104 cmâˆ’1 ) [8].There are several methods which have been used for the fabrication of CdTe layers , for example close - spaced sublimation , electro deposition , * Corresponding author .
+	 The average Eg of CIGS is 1.25 eV determined from the derivative EQE curve ( the inset of b ) .
+	 Since the band gap of SrTiO3 is 3.2 eV , its photoactivity is limited to the UV region of the solar spectrum .
+	 Bandgap of pure SnO2 is 3.1 eV which is reduced to 3 eV for 0.1 mol % Eu3+ hence doping is responsible for bandgap narrowing .
+	 Because the band gap of AgCl is within 3.1 - 3.3 eV , corresponding to a wavelength of 375-400 nm , the precipitation process must be performed under yellow light to prevent a photolysis reaction .
+The cluster centroid pattern is: The (bandgap__specifier) of (compound__names) is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 23 contains 1 phrases
+	 The band gap for bare , PVP capped and TPPO capped CuO were determined to be 2.59 eV , 2.71 eV and 2.86 eV , which were larger than that of the bulk CuO ( 1.2 eV ) .
+The cluster centroid pattern is: The (bandgap__specifier) for bare , PVP capped and TPPO capped (compound__names) were determined to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , which were larger than that of the bulk (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) ) with confidence score 1.0
+Cluster 24 contains 1 phrases
+	 Different from MoS2 and other TMDCs , PbI2 is known to be a direct bandgap ( 2.28 – 2.5 eV ) material in bulk form , but first - principles calculations of the band structure of PbI2 show that monolayer PbI2 has an indirect bandgap of 3.72 eV .
+The cluster centroid pattern is: , (compound__names) is known to be a direct (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) material in bulk form , but first - principles calculations of the band structure of PbI2 show that monolayer (compound__names) has an indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 25 contains 1 phrases
+	 A band gap of 4.9 eV was determined , which is consistent with previous reports in the literature for gallium oxide thin films .
+The cluster centroid pattern is: A (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) was determined , which is consistent with previous reports in the literature for (compound__names) thin with confidence score 1.0
+Cluster 26 contains 1 phrases
+	 The results indicate that Cs2AgSbCl6 exhibits indirect bandgap semiconductor characteristics with a shallow absorption edge at 2.54 eV followed by an increase in absorption at an edge value of 2.79 eV ( Fig. 3 ) .
+The cluster centroid pattern is: that (compound__names) exhibits indirect (bandgap__specifier) semiconductor characteristics with a shallow absorption edge at (bandgap__raw_value) <Blank> (bandgap__raw_units) followed with confidence score 1.0
+Cluster 27 contains 1 phrases
+	 The indirect bandgap of Cs2AgSb0.5In0.5Cl6 can be approximated as 2.81 eV .
+The cluster centroid pattern is: indirect (bandgap__specifier) of (compound__names) can be approximated as (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 28 contains 1 phrases
+	 The optical band gap of CICS thin films deposited on ITO substrates at 350 °C was estimated from transmittance and reflectance spectra in the incident photon energy ( hν ) lie between 0.8 eV and 2 eV .
+The cluster centroid pattern is: optical (bandgap__specifier) of (compound__names) thin films deposited on ITO substrates (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) was estimated from transmittance and reflectance spectra in the incident photon energy ( hν ) lie between (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 29 contains 1 phrases
+	 In particular , when x = 0.1 the optical band gap of the CuIn0.9Ce0.1S2 compound is about 1.26 eV which considered an appropriate absorber layer for thin film solar cells .
+The cluster centroid pattern is: optical (bandgap__specifier) of the (compound__names) compound is about (bandgap__raw_value) <Blank> (bandgap__raw_units) which with confidence score 1.0
+Cluster 30 contains 1 phrases
+	 The band structure of K11RbB28O48 is shown in Fig. 3a in the ESI , which indicates that it exhibits an indirect band gap of 4.41 eV .
+The cluster centroid pattern is: of (compound__names) is shown in Fig. 3a in the ESI , which indicates that it exhibits an indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 31 contains 1 phrases
+	 Zinc oxide is a suitable semiconductor because of its promising application in photodetectors , light - emitting diodes ( LED ) , and solar cells on account of its wide bandgap ( 3.37 eV ) and high electron mobility at 300 K .
+The cluster centroid pattern is: <Blank> (compound__names) is a suitable semiconductor because of its promising application in photodetectors , light - emitting diodes ( LED ) , and solar cells on account of its wide (bandgap__specifier) ( (temperature__raw_value) <Blank> (bandgap__raw_units) and high electron mobility (temperature__specifier) <Blank> (bandgap__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 32 contains 1 phrases
+	 Among them , the B - doped diamond film ( bandgap 5.47 eV ) is appropriate as a high - temperature p - type conductive material .
+The cluster centroid pattern is: doped (compound__names) film ( (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) is with confidence score 1.0
+Cluster 33 contains 1 phrases
+	 The Eg values are estimated to be 3.20 eV and 3.23 eV for ZnO NWs and NRs , respectively , by extrapolating the linear portion to the photon energy axis .
+The cluster centroid pattern is: The (bandgap__specifier) values are estimated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) NWs with confidence score 1.0
+Cluster 34 contains 1 phrases
+	 The Eg of undoped WO3 is found to be ∼ 1.31 eV , which is much lower than that attained from the experiment ( ∼ 2.69 eV ; Fig. S1 ) .
+The cluster centroid pattern is: The (bandgap__specifier) of undoped (compound__names) is found to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , which is much lower than that attained from the experiment ( (bandgap__raw_value) <Blank> (bandgap__raw_units) ; with confidence score 1.0
+Cluster 35 contains 10 phrases
+	 However , CsPb2Br5 has a bandgap of 2.98 eV , which will not yield green emission theoretically .
+	 In the presence of visible light , Ag2CO3 , which has a band gap of 2.3 eV , is capable of forming electron – hole pairs , which results in dye degradation .
+	 Monolayer MoS2 has a direct band gap of 1.8 eV .
+	 Theoretical studies as well as experimental results have shown that Bi2Se3 has a large band gap of 0.3 eV , and only a single Dirac cone is present at the surface of the momentum zero point in k space associated with the surface state which is topologically protected due to time - reversal symmetry .
+	 This phase of TiO2 has a band gap of 3.2 eV , corresponding to a UV wavelength of 385 nm , showing an adsorptive affinity for organic compounds higher than the one of rutile .
+	 In addition , ZnO has a wide band gap of 3.37 eV , which inevitably restricts its practical application in visible light or sunlight , attributed to the fact that visible light accounts for 45 % of solar energy , whereas only around 5 % of it comprises UV light .
+	 However , TiO2 has a wide band gap of 3.2 eV which limits its application under visible light .
+	 Monolayer GeC has a direct band gap of 2.11 eV at the K point .
+	 Single - layer GeC has a direct band gap of 2.19 eV at the K point .
+	 Pure TiO2 has a band gap of ∼ 3.2 eV and on loading CoOx , the band gap shifted to the visible region , as shown in Table 1 .
+The cluster centroid pattern is: , (compound__names) has a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 36 contains 1 phrases
+	 On the other hand , Manna and co-workers concluded that Cs4PbBr6 NCs ( 9 – 37 nm ) did not produce any emission within the visible spectral region owing to their large band gap ( > 3.4 eV ) but showed strong absorption in the ultraviolet ( UV ) region .
+The cluster centroid pattern is: that (compound__names) NCs ( 9 – 37 nm ) did not produce any emission within the visible spectral region owing to their large (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) but with confidence score 1.0
+Cluster 37 contains 1 phrases
+	 The band gaps for MAPbCl3 , MAPbBr3 and MAPbI3 NWs are 2.91 , 2.25 and 1.53 eV , yielding the emissions located at 425 , 542 and 775 nm respectively .
+The cluster centroid pattern is: The (bandgap__specifier) for (compound__names) , (compound__names) and (compound__names) NWs are (bandgap__raw_value) , (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 38 contains 5 phrases
+	 Structural and spectroscopic characterization proved that Cs3Sb2Br9 was a trigonal phase with a direct band gap of 2.36 eV .
+	 ZnO with a direct band gap of 3.37 eV and a large free exciton binding energy of 60 meV has been of a great importance because of its high catalytic activity , low poisonous entity , low price , numerous morphologies , and high quantum yield .
+	 Among nanosized photocatalysis materials , ZnO with a direct band gap of 3.37 eV has been widely used because of its high quantum efficiency , thermal , and chemical stability as well as its nontoxicity .
+	 The results show that Pbnm orthorhombic SrHfO3 is an insulator with a direct band gap of 3.9 eV and 4.0 eV within the calculations using local density approximation ( LDA ) and generalized gradient approximation ( GGA ) , respectively .
+	 For example , Bianco et al.25 found that the hydrogenation of germanene can produce the germanane ( GeH ) with a direct band gap of 1.55 eV , which has great potential for optoelectronic and sensing applications .
+The cluster centroid pattern is: the (compound__names) with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 39 contains 1 phrases
+	 Meanwhile , our results show that monolayer C68 - graphyne is a semiconductor with a direct band gap of 1.0 eV , which can be tuned by strain - engineering , and the calculated carrier mobility is as high as 1.81 × 105 to 2.97 × 105 cm2 V−1 s−1 at 300 K .
+The cluster centroid pattern is: monolayer (compound__names) - graphyne is a semiconductor with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , which can be tuned by strain - engineering , and the calculated carrier mobility is as high as 1.81 × 105 to 2.97 × 105 cm2 V−1 s−1 (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 40 contains 1 phrases
+	 For example , the acetylenic linkages in γ-GY and GDY endow them with significant band gaps ( 0.47 eV and 0.52 eV , respectively ) .
+The cluster centroid pattern is: and (compound__names) endow them with significant (bandgap__specifier) ( 0.47 eV and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 41 contains 1 phrases
+	 Owing to the large insulator band gap of insulating nature ( ∼ 3.96 eV ) , theoretically , 0-D rhombohedral phase Cs4PbBr6 PeNCs should be non-luminescent in the visible spectral region .
+The cluster centroid pattern is: insulator (bandgap__specifier) of insulating nature ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , theoretically , 0-D rhombohedral phase (compound__names) PeNCs with confidence score 1.0
+Cluster 42 contains 2 phrases
+	 Very recently , we have proposed a simple but valid Sn-doping strategy to tailor the insulator bandgap ( ∼ 3.96 eV ) of Cs4PbBr6 PeNCs to the blue spectral region by changing the local coordination environment of the isolated [PbBr6]4− octahedra in Cs4PbBr6 crystal .
+	 The Cs2ReBr6 has high electrical conductivity than Cs2ReCl6 because of a smaller bandgap ( 2.75 eV ) of Cs2ReBr6 which requires less energy to move electrons from valence band to conduction band .
+The cluster centroid pattern is: smaller (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) of (compound__names) which with confidence score 1.0
+Cluster 43 contains 1 phrases
+	 The band gaps of these compounds are 0.389 , 0.313 , 0.160 , 0.00 and 0.00 eV for Ca2AuAs , Ca2AuSb , Ca2AuBi , Ca2HgSn and Ca2HgPb , respectively .
+The cluster centroid pattern is: The (bandgap__specifier) of these compounds are (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) , (compound__names) , (compound__names) , (compound__names) and (compound__names) , with confidence score 1.0
+Cluster 44 contains 1 phrases
+	 Furthermore , the Kubelka – Munk method was used to evaluate the energy band gap of the abovementioned samples , and the results are shown in Fig. 7 ( c and d ) , which display that the band gaps of bare g-C3N4 , CuI , and GD are 2.92 eV , 2.86 eV , and 1.09 eV , respectively .
+The cluster centroid pattern is: the (bandgap__specifier) of bare (compound__names) , (compound__names) , and GD are (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 45 contains 1 phrases
+	 The electronic band structure of α-Bi2Sn2O7 in Fig. 4 indicates an indirect fundamental band gap of 3.47 eV and a direct gap of 3.51 eV .
+The cluster centroid pattern is: of (compound__names) in Fig. 4 indicates an indirect fundamental (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and a direct gap of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 46 contains 1 phrases
+	 YMO film exhibits p - type semi-conductivity with a band gap of 1.5 eV .
+The cluster centroid pattern is: <Blank> (compound__names) film exhibits p - type semi-conductivity with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 47 contains 1 phrases
+	 The bipolar contribution is not considered here because the intrinsic activation of electrons from valence bands to conduction bands is unlikely to happen in AgCrSe2 considering the reported wide band gap of AgCrSe2 ∼ 0.49 eV at 300 K .
+The cluster centroid pattern is: wide (bandgap__specifier) of (compound__names) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 48 contains 1 phrases
+	 Photoluminescence ( PL ) spectroscopy confirms that the as-grown CdSe is a direct band gap semiconductor and has a strong emission peak at 1.72 eV .
+The cluster centroid pattern is: as-grown (compound__names) is a direct (bandgap__specifier) semiconductor and has a strong emission peak at (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 49 contains 1 phrases
+	 Among different metal oxide semiconductors , tungsten trioxide ( WO3 ) has received much attention due to its band gap of 2.7 eV within the visible - light region , the relatively long diffusion length ( 150 nm ) of its hole carriers , and its excellent stability in acidic conditions .
+The cluster centroid pattern is: , (compound__names) ( (compound__names) ) has received much attention due to its (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) within with confidence score 1.0
+Cluster 50 contains 1 phrases
+	 Tauc plot based on IPCE spectra at 1 V vs. Ag / AgCl shows estimated band gaps of about 2.7 eV for all three photoanodes ( Fig. 6b ) .
+The cluster centroid pattern is: vs. (compound__names) shows estimated (bandgap__specifier) of about (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 51 contains 1 phrases
+	 For the Li – Sb system , the calculated results show that the Sb phase exhibits a metallic band structure , whereas the Li3Sb phase displays a band structure corresponding to a semiconducting material ; the conduction and valence bands of the Li3Sb phase are separated by a band gap of ∼ 1.34 eV .
+The cluster centroid pattern is: the (compound__names) phase are separated by a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 52 contains 1 phrases
+	 Moreover , the band gap between the highest occupied molecular orbital and lowest unoccupied molecular orbital of FH2O2 ( 4.20 eV ) was less than that of the band gap of 1 ( 3.59 eV ; Fig. 2 ) .
+The cluster centroid pattern is: the (bandgap__specifier) between the highest occupied molecular orbital and lowest unoccupied molecular orbital of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) was with confidence score 1.0
+Cluster 53 contains 1 phrases
+	 The (αhν)2 – hν plots , depicted in Fig. S7b , are used to calculate the band gap , which is 1.7 eV for the 3D Fe3O4-HCNPs .
+The cluster centroid pattern is: the (bandgap__specifier) , which is (bandgap__raw_value) <Blank> (bandgap__raw_units) for the 3D (compound__names) . with confidence score 1.0
+Cluster 54 contains 1 phrases
+	 Graphite carbon nitride ( g-C3N4 ) , a classical low - cost visible light photocatalyst with a band gap of 2.7 eV , was employed as the support .
+The cluster centroid pattern is: ( (compound__names) ) , a classical low - cost visible light photocatalyst with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 55 contains 1 phrases
+	 A photoluminescence peak from the MoSe2 monolayer is detected at about 804 nm , illustrating an intrinsic energy bandgap of 1.54 eV .
+The cluster centroid pattern is: the (compound__names) monolayer is detected at about 804 nm , illustrating an intrinsic energy (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 56 contains 1 phrases
+	 The energy bandgap of MoS2 ( MoSe2 ) varies from an indirect bandgap of 1.2 eV ( 1.1 eV ) to a direct bandgap of 1.9 eV ( 1.54 eV ) from bulk to monolayer .
+The cluster centroid pattern is: of (compound__names) ( (compound__names) ) varies from an indirect (bandgap__specifier) of (bandgap__raw_value) eV ( (bandgap__raw_value) <Blank> (bandgap__raw_units) to a direct (bandgap__specifier) of (bandgap__raw_value) eV ( (bandgap__raw_value) <Blank> (bandgap__raw_units) from with confidence score 1.0
+Cluster 57 contains 1 phrases
+	 The energy bandgap is slightly larger than 1.54 eV , which may come from lattice imperfections existing in monolayer MoSe2 .
+The cluster centroid pattern is: energy (bandgap__specifier) is slightly larger than (bandgap__raw_value) <Blank> (bandgap__raw_units) , which may come from lattice imperfections existing in monolayer (compound__names) . with confidence score 1.0
+Cluster 58 contains 1 phrases
+	 The optical band gap of Azo-Por-Bpy-POP was estimated from the Tauc plot , ca. 2.33 eV , Fig. 4D .
+The cluster centroid pattern is: optical (bandgap__specifier) of (compound__names) was estimated from the Tauc plot , ca. (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 59 contains 1 phrases
+	 Due to the d – d transition at the Cr3+ site , the CuCrO2 exhibits a relatively small bandgap of 2.95 – 3.30 eV .
+The cluster centroid pattern is: the (compound__names) exhibits a relatively small (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 60 contains 1 phrases
+	 For example , the CuScO2 has a hole mobility of 2.0 × 10 − 1 cm2 V−1 s−1 and a wide optical bandgap of around 3.3 – 3.7 eV .
+The cluster centroid pattern is: the (compound__names) has a hole mobility of 2.0 × 10 − 1 cm2 V−1 s−1 and a wide optical (bandgap__specifier) of around (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 61 contains 1 phrases
+	 ZnO has a large band gap ( ∼ 3.2 eV ) , a very high electron mobility and is an electron acceptor .
+The cluster centroid pattern is: <Blank> (compound__names) has a large (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 62 contains 1 phrases
+	 The optical band gap of n-ZnO has been calculated as 3.29 eV .
+The cluster centroid pattern is: optical (bandgap__specifier) of (compound__names) has been calculated as (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 63 contains 1 phrases
+	 In this regard , zinc oxide ( ZnO ) is seen as a good candidate for ITO because it has a significant advantages , including wide direct band gap energy ( ~ 3.3 eV ) and large exciton binding energy ( 60 meV ) .
+The cluster centroid pattern is: , (compound__names) ( (compound__names) ) is seen as a good candidate for ITO because it has a significant advantages , including wide direct (bandgap__specifier) energy ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 64 contains 1 phrases
+	 Owing to the tunable emission in the visible range , CdSe being one of the group II – VI semiconductors with a direct band gap of 1.74 eV has been studied a lot and many approaches of synthesis have been reported on them .
+The cluster centroid pattern is: , (compound__names) being one of the group II – VI semiconductors with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) has with confidence score 1.0
+Cluster 65 contains 1 phrases
+	 The estimated band gap values were 3.27 , 3.04 , 2.90 , 2.82 and 2.79 eV for CdSe NRrs grown using 4 , 6 , 8 , 10 and 12 mL of Se in the precursor solution .
+The cluster centroid pattern is: estimated (bandgap__specifier) values were (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) NRrs with confidence score 1.0
+Cluster 66 contains 1 phrases
+	 These values are greater than the reported bulk band gap 1.74 eV because of the quantum confinement effects ( the confinement of electron – hole in small region ) observed from the as-grown CdSe NRs .
+The cluster centroid pattern is: bulk (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) because of the quantum confinement effects ( the confinement of electron – hole in small region ) observed from the as-grown (compound__names) NRs with confidence score 1.0
+Cluster 67 contains 1 phrases
+	 Zinc oxide ( ZnO ) is a metal oxide semiconductor with wide direct band gap of 3.37 eV at 300 K and exhibits high electrochemical stability , strong adsorption ability , and superior electron mobility .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) is a metal oxide semiconductor with wide direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) and with confidence score 1.0
+Cluster 68 contains 1 phrases
+	 Nevertheless , TiO2 presents some inherent disadvantages , such as fast electron – hole recombination rate , low charge separation efficiency , and most importantly , its wide band gap ( 3.2 eV ) , which requires ultraviolet light ( 5 % of the solar radiation spectrum ) activation .
+The cluster centroid pattern is: , (compound__names) presents some inherent disadvantages , such as fast electron – hole recombination rate , low charge separation efficiency , and most importantly , its wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 69 contains 1 phrases
+	 From Fig. 5b , the direct band gap of Cot - AgBr and Cot-Ag @ AgBr are 2.64 eV and 2.2 eV , respectively , implying the introduction of Ag atom results in a narrower band gap .
+The cluster centroid pattern is: direct (bandgap__specifier) of Cot - (compound__names) and Cot-Ag @ (compound__names) are (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 70 contains 1 phrases
+	 This behavior gives an evidence for the effect of the Ga dopant concentrations on the ZnO and the optical band gap varies in the range 3.27 – 3.30 eV .
+The cluster centroid pattern is: the (compound__names) and the optical (bandgap__specifier) varies in the range (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 71 contains 1 phrases
+	 Despite these advantages , the TiO2 catalysts limit the widespread use in visible light due to the fast electron - hole recombination caused by a wide band gap energy of 3.2 eV .
+The cluster centroid pattern is: the (compound__names) catalysts limit the widespread use in visible light due to the fast electron - hole recombination caused by a wide (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 72 contains 1 phrases
+	 Our previous studies reported that the band gap energy of Al - TiO2 thin film decreased from 3.20 to 2.07 eV when the Al / Ti molar ratio was 0.38 .
+The cluster centroid pattern is: the (bandgap__specifier) energy of (compound__names) thin film decreased from (bandgap__raw_value) <Blank> (bandgap__raw_units) when with confidence score 1.0
+Cluster 73 contains 1 phrases
+	 E1s1s = Eg + π2 aB a Ry∗ − 1.786aB a Ry∗ −0.248Ry∗ ( 1 ) where E1s1s denotes the ground state energy level of Ge nanocrystals ; Eg is the energy band gap of bulk Ge ( 0.66 eV ) , aB , Ry ∗ and a is the exciton Bohr radius , Rydberg energy and the radius of Ge nanocrystals , respectively .
+The cluster centroid pattern is: ; (bandgap__specifier) is the energy (bandgap__specifier) of bulk (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 74 contains 1 phrases
+	 Inversely , Combining the energy difference E values 185.07 , 73.6 and 36.52 meV with the energy band gap 0.66 eV of bulk Ge , the PL peaks of 1 , 2 and 3 mins samples in Fig. 2 should located at 0.845 , 0.734 and 0.732 eV .
+The cluster centroid pattern is: energy (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) of bulk (compound__names) , with confidence score 1.0
+Cluster 75 contains 1 phrases
+	 The elementary Se and Te can deposit onto TiO2 lattice and shift the absorbance of the Se – TiO2 composite to the visible region due to Se have narrow band gap 2.0 eV .
+The cluster centroid pattern is: to (compound__names) have narrow (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 76 contains 1 phrases
+	 Tellurium is a narrow band gap p - type semiconductor with a band gap of Ebg = 0.32 eV .
+The cluster centroid pattern is: <Blank> (compound__names) is a narrow band gap p - type semiconductor with a (bandgap__specifier) of Ebg = (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 77 contains 2 phrases
+	 The bandgap of the wurtzite - CuInxGa1−xS2 increased with Ga substitution : from 1.49 eV for CIS to 2.0 eV for CGS .
+	 The bandgap of the CIGS increased with Ga substitution from 1.49 eV for CIS to 2.0 eV for CGS .
+The cluster centroid pattern is: The (bandgap__specifier) of the (compound__names) increased with Ga substitution from (bandgap__raw_value) <Blank> (bandgap__raw_units) for CIS to (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 78 contains 1 phrases
+	 The CIGS is a popular photovoltaic absorber material due to its tunable bandgap of ~ 1.04 eV for CuInSe2 ( x = 0 ) to ~ 2.0 eV for CuGaSe2 ( x = 1 ) and high absorption coefficient ( 1 × 105 cm−1 ) .
+The cluster centroid pattern is: The (compound__names) is a popular photovoltaic absorber material due to its tunable (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) for CuInSe2 ( (compound__labels) ) with confidence score 1.0
+Cluster 79 contains 1 phrases
+	 Wang et al. synthesized wz - CuInxGa1−xS2 ( x = 0 – 1 ) with the bandgap varying from 1.53 eV for CIS to 2.48 eV for CGS .
+The cluster centroid pattern is: wz (compound__names) ( (compound__labels) – 1 ) with the (bandgap__specifier) varying from (bandgap__raw_value) <Blank> (bandgap__raw_units) for CIS to (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 80 contains 1 phrases
+	 The optical band gap of m-plane GaN based LED was also investigated by measuring the absorption spectrum , which was calculated to be 3.419 eV .
+The cluster centroid pattern is: optical (bandgap__specifier) of m-plane (compound__names) based LED was also investigated by measuring the absorption spectrum , which was calculated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 81 contains 1 phrases
+	 The band gap of GaN was calculated to be 3.419 eV .
+The cluster centroid pattern is: The (bandgap__specifier) of (compound__names) was calculated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 82 contains 1 phrases
+	 The measuring band gap of the obtained m-plane GaN - based LED was calculated to be 3.419 eV .
+The cluster centroid pattern is: measuring (bandgap__specifier) of the obtained m-plane (compound__names) - based LED was calculated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 83 contains 1 phrases
+	 Pure CdSe powder samples exhibited a band gap of 1.75 eV , whereas Cu ( 4 at. % ) and Cu ( 8 at. % ) showed 1.77 , 1.79 eV , respectively .
+The cluster centroid pattern is: Pure (compound__names) powder samples exhibited a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 84 contains 1 phrases
+	 Zinc oxide ( ZnO ) is a low cost , non-toxic , environmental - friendly , biocompatible , and a biodegradable II – VI semiconducting material with a direct band gap of 3.37 eV .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) is a low cost , non-toxic , environmental - friendly , biocompatible , and a biodegradable II – VI semiconducting material with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 85 contains 2 phrases
+	 ZnO is an n - type wide band gap semiconductor material having a band gap of 3.37 eV and 60 meV exciton binding energy .
+	 Zinc oxide is a promising n - type semiconductor , having a wide band gap of 3.37 eV and a high exciton binding energy of 60 meV [] .
+The cluster centroid pattern is: <Blank> (compound__names) is a promising n - type semiconductor , having a wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 86 contains 1 phrases
+	 Structural , morphological and optical properties of CZTS nanoparticles were characterized and it reveals that the synthesized powder has kesterite crystal structure with agglomerated morphology and shows a band gap of 1.53 eV leading to good potential to degrade methylene blue dye .
+The cluster centroid pattern is: of (compound__names) nanoparticles were characterized and it reveals that the synthesized powder has kesterite crystal structure with agglomerated morphology and shows a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) leading with confidence score 1.0
+Cluster 87 contains 1 phrases
+	 UV – Vis spectroscopic study gives optical band gap of 1.53 eV suggesting CZTS as a good visible light absorber material .
+The cluster centroid pattern is: optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) suggesting (compound__names) as with confidence score 1.0
+Cluster 88 contains 1 phrases
+	 An average Eg value of 2.37 eV was obtained for both films , similar values are reported in the literature for Cu2O films with small crystallite size .
+The cluster centroid pattern is: average (bandgap__specifier) value of (bandgap__raw_value) <Blank> (bandgap__raw_units) was obtained for both films , similar values are reported in the literature for (compound__names) films with confidence score 1.0
+Cluster 89 contains 1 phrases
+	 The optical absorption studies in the wavelength range of 200 – 800 nm showed that the band gap energy of ZnS has decreased from 3.69 – 3.36 eV , as thiourea varied from 0.2 – 0.8 M .
+The cluster centroid pattern is: the (bandgap__specifier) energy of (compound__names) has decreased from (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 90 contains 1 phrases
+	 Zinc oxide ( ZnO ) due to its excellent properties such as wide band gap of 3.3 eV , large exciton binding energy of 60 meV , high piezoelectric constant , high optical transitivity , and high conductivity is one of the most significant , extensively and promising material .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) due to its excellent properties such as wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 91 contains 1 phrases
+	 Among them , BiOI has the smallest band gap ( 1.85 eV ) , which can maximize the use of sunlight .
+The cluster centroid pattern is: , (compound__names) has the smallest (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 92 contains 1 phrases
+	 From the Fig. 5b , it was notable that the band gaps of g-C3N4 and BiOI were 2.74 eV and 1.94 eV , respectively , which were similar to the results of previous reports .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) and (compound__names) were (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 93 contains 2 phrases
+	 According to the results of DRS , the band gap of BiOI was 1.94 eV ( Vs NHE ) , its valence band ( VB ) position was 2.68 eV , and its conduction band ( CB ) position was 0.74 eV .
+	 The bandgap of g-C3N4 was 2.74 eV ( Vs NHE ) , its VB position was 1.59 eV , and its CB position was -1.15 eV .
+The cluster centroid pattern is: The (bandgap__specifier) of (compound__names) was (bandgap__raw_value) <Blank> (bandgap__raw_units) ( with confidence score 1.0
+Cluster 94 contains 1 phrases
+	 The results show optical band gaps of ITO films increased from 3.77 to 3.88 eV as base pressure decreased .
+The cluster centroid pattern is: optical (bandgap__specifier) of (compound__names) films increased from (bandgap__raw_value) <Blank> (bandgap__raw_units) as with confidence score 1.0
+Cluster 95 contains 1 phrases
+	 A direct optical band gap of 3.23 eV was estimated for MgO nanobelts from the graph of (αhυ)2 as a function of hυ , in the Fig. 5b , and show the lower band gap compared to bulk MgO .
+The cluster centroid pattern is: optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) was estimated for (compound__names) nanobelts with confidence score 1.0
+Cluster 96 contains 1 phrases
+	 It has been proved that cadmiumsulfide ( CdS ) is an important II – VI semiconductor with a narrow band gap of 2.42 eV .
+The cluster centroid pattern is: that (compound__names) ( (compound__names) ) is an important II – VI semiconductor with a narrow (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 97 contains 1 phrases
+	 The band gaps of the PS @ CdS samples were estimated to be 2.15 eV , which was lower than that of CdS ( 2.16 eV ) .
+The cluster centroid pattern is: The (bandgap__specifier) of the PS @ (compound__names) samples were estimated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , which was lower than that of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 98 contains 1 phrases
+	 WO3 has a narrow band gap ( 2.7 – 2.8 eV ) and has been applied for photocatalysts due to its outstanding properties .
+The cluster centroid pattern is: <Blank> (compound__names) has a narrow (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 99 contains 1 phrases
+	 The α-Fe2O3 possess excellent band gap ( 2.2 eV ) which leads to better photocatalytic degradation .
+The cluster centroid pattern is: The (compound__names) possess excellent (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) which with confidence score 1.0
+Cluster 100 contains 1 phrases
+	 For the optical analysis , the zinc chloride precursor showed high optical transmittance of about 90 % in the visible range with a band gap value 3.15 eV .
+The cluster centroid pattern is: the (compound__names) precursor showed high optical transmittance of about 90 % in the visible range with a (bandgap__specifier) value (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 101 contains 1 phrases
+	 Cu2ZnSnS4 ( CZTS ) as a promising light - absorber material has been extensively applied in photovoltaic solar cells due to its huge absorption coefficient ( ∼ 104 cm-1 ) and optimal bandgap ( ∼ 1.5 eV ).
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) as a promising light - absorber material has been extensively applied in photovoltaic solar cells due to its huge absorption coefficient ( ∼ 104 cm-1 ) and optimal (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) ). with confidence score 1.0
+Cluster 102 contains 1 phrases
+	 By applying this wavelength in equation ( 1 ) , the band gap value 1.59 eV is obtained located in the range of perovskite band gap.1λ(nm) = Cν = hChν = 1240hν(eV) Moreover , the PL spectrum of the perovskite CH3 NH3 PbI3 also shows an emission peak at ∼ 780 nm ( figure 5c ) .
+The cluster centroid pattern is: the (bandgap__specifier) value (bandgap__raw_value) <Blank> (bandgap__raw_units) is obtained located in the range of (compound__names) band with confidence score 1.0
+Cluster 103 contains 1 phrases
+	 Although , pure perovskite ( MAPbI3 ) has a peak at 800 nm and 1.55 eV band gap , in our study , both PL and UV – Vis results demonstrate that optimized SA5 perovskite layer has 1.59 eV band gap .
+The cluster centroid pattern is: pure (compound__names) ( MAPbI3 ) has a peak at 800 nm and (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (bandgap__specifier) , with confidence score 1.0
+Cluster 104 contains 1 phrases
+	 From the plot , it is found that the band gap energy of ZnO is 3.15 ± 0.03 eV and 3.18 ± 0.02 eV for ZnO(h) .
+The cluster centroid pattern is: the (bandgap__specifier) energy of (compound__names) is (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) . with confidence score 1.0
+Cluster 105 contains 1 phrases
+	 Similarly , the band gap energy of GN - ZnO and GN - ZnO(h) was found to be 3.16 ± 0.02 eV and 3.20 ± 0.02 eV , respectively .
+The cluster centroid pattern is: the (bandgap__specifier) energy of GN - (compound__names) and GN - (compound__names) was found to be (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 106 contains 1 phrases
+	 Moreover , the energy band gap of the non-metal - doped TiO2 prepared by Gao et al. ( 2011 ) , Shao et al. ( 2015 ) , Yan et al. ( 2014 ) , Mazierski et al. ( 2016 ) , Szkoda et al. ( 2016 ) , and Wang et al. ( 2016 ) was found at 2.89 , 2.88 , 2.00 eV , 2.94 eV , 2.87 eV , and 2.64 eV , respectively .
+The cluster centroid pattern is: energy (bandgap__specifier) of the non-metal - doped (compound__names) prepared by Gao et al. ( 2011 ) , Shao et al. ( 2015 ) , Yan et al. ( 2014 ) , Mazierski et al. ( 2016 ) , Szkoda et al. ( 2016 ) , and Wang et al. ( 2016 ) was found at (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) eV , (bandgap__raw_value) eV , (bandgap__raw_value) eV , and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 107 contains 1 phrases
+	 PbSe / PbS core – shell QDs have an absorption edge at 960 nm ( Eg ∼ 1.29 eV ). 49 The PbS shell covering the PbSe core acted as surface passivation to protect the PbSe core , thus improving the chemical stability of the QD film .
+The cluster centroid pattern is: <Blank> (compound__names) core – shell QDs have an absorption edge at 960 nm ( (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) ). with confidence score 1.0
+Cluster 108 contains 1 phrases
+	 The Sb2S3 nanocrystals can absorb light up to 750 nm with an optical band gap of ∼ 1.65 eV .
+The cluster centroid pattern is: The (compound__names) nanocrystals can absorb light up to 750 nm with an optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 109 contains 1 phrases
+	 To further extend the optical absorption into the near - infrared region , we must consider semiconductors with smaller band gaps , Eg < 1.3 eV , such as Sb2Se3 .
+The cluster centroid pattern is: , (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) , such as (compound__names) . with confidence score 1.0
+Cluster 110 contains 4 phrases
+	 This insulating Al2O3 has a wide band gap Eg of 7 – 9 eV and acts purely as a mesoporous scaffold for the perovskite ( CH3NH3PbI2Cl ) to be deposited .
+	 In addition , ZnO has a wide band gap of 3.37 eV , which inevitably restricts its practical application in visible light or sunlight , attributed to the fact that visible light accounts for 45 % of solar energy , whereas only around 5 % of it comprises UV light .
+	 However , TiO2 has a wide band gap of 3.2 eV which limits its application under visible light .
+	 Pure TiO2 has a band gap of ∼ 3.2 eV and on loading CoOx , the band gap shifted to the visible region , as shown in Table 1 .
+The cluster centroid pattern is: , (compound__names) has a wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 111 contains 1 phrases
+	 Electronic band structure and corresponding densities of states ( Fig. 1c,d ) of phosphorene reveals a direct band gap of 1 eV at Γ point .
+The cluster centroid pattern is: of (compound__names) reveals a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) at with confidence score 1.0
+Cluster 112 contains 1 phrases
+	 Thus , the Eg value of the Li2CaSiO4:0.03Eu2+ / Eu3+ phosphors was demonstrated to be 4.54 eV through extrapolating the linear fitted region to [hvF(R)]2 = 0 , as displayed in Fig. S3b .
+The cluster centroid pattern is: the (bandgap__specifier) value of the (compound__names) phosphors was demonstrated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) through with confidence score 1.0
+Cluster 113 contains 1 phrases
+	 The estimated value of Eg for the tin oxide film deposited on ALD-Al2O3 was found to be ~ 2.7 eV , which is well consistent with the reported optical band gap of tin monoxide (SnO)18,20 .
+The cluster centroid pattern is: of (bandgap__specifier) for the (compound__names) film deposited on ALD-Al2O3 was found to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 114 contains 1 phrases
+	 Interestingly , the value of Eg for the tin oxide film deposited on SD-Al2O3 was found to be ~ 3.2 eV , which is close to the optical band gap ( ~ 3.6 eV ) of tin dioxide (SnO2)22 .
+The cluster centroid pattern is: of (bandgap__specifier) for the (compound__names) film deposited on SD-Al2O3 was found to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , which is close to the optical (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) of (compound__names) (SnO2)22 with confidence score 1.0
+Cluster 115 contains 1 phrases
+	 ZnO is a very important II – VI semiconductor with a wide band gap of 3.37 eV and a large exciton binding energy of 60 meV at 300 K .
+The cluster centroid pattern is: <Blank> (compound__names) is a very important II – VI semiconductor with a wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and a large exciton binding energy of 60 meV (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 116 contains 1 phrases
+	 It is found that , in contrast to Sr2SnMnO6 ( a ferromagnetic semiconductor ) and Sr2SnCoO6 ( a ferromagnetic metal ) , Sr2SnFeO6 perovskite is a ferromagnetic semimetal : its electronic spectrum has a band gap ( ∼ 0.7 eV ) for the low - spin subsystem and is metal - type for the high - spin subsystem .
+The cluster centroid pattern is: , (compound__names) is a ferromagnetic semimetal : its electronic spectrum has a (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 117 contains 1 phrases
+	 The PL peak from the InGaAs reference sample is observed at 0.772 eV , which has a blueshift of ~ 31 meV from the well - recognized InGaAs bandgap ( ~ 0.803 eV ) at 10 K .
+The cluster centroid pattern is: recognized (compound__names) <Blank> (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) ) (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 118 contains 1 phrases
+	 Kubelka – Munk method - driven transformed reflectance spectra were attained to measure energy band ( Eg ) of ZnAlLa-500CLDH and CM - CLDH10 ; Eg values were 3.37 eV and 3.21 eV , and involvement of carbonaceous material narrowed band gap , which could improve photocatalytic activity .
+The cluster centroid pattern is: of (compound__names) and CM - CLDH10 ; (bandgap__specifier) values were (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 119 contains 1 phrases
+	 ZnTe compound is a typical example of the II – VI group semiconductors , and the direct bandgap of it is 2.26 eV , meanwhile it can be used in plenty of devices , for example green light - emitting diodes and switching devices .
+The cluster centroid pattern is: <Blank> (compound__names) compound is a typical example of the II – VI group semiconductors , and the direct (bandgap__specifier) of it is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 120 contains 1 phrases
+	 The spin-up and spin - down band structures of the ZnTe compound shown in Fig. 3a with a 1.328 eV bandgap located at Γ point are identical , hence the semi-conductive feature can be found .
+The cluster centroid pattern is: the (compound__names) compound shown in Fig. 3a with a (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (bandgap__specifier) located with confidence score 1.0
+Cluster 121 contains 1 phrases
+	 The direct spin - down bandgap of 1.368 eV is also located at Γ point , just like the ZnTe compound case .
+The cluster centroid pattern is: down (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) is also located at Γ point , just like the (compound__names) compound with confidence score 1.0
+Cluster 122 contains 1 phrases
+	 In case of ( PEDOT ) , which is one of the most stable conducting polymers available at present , combining a low monomer oxidation potential and moderate band gap ( approximately 1.6 – 1.7 eV ) as well as the high electrical conductivity ( higher than 102 S cm−1 ) .
+The cluster centroid pattern is: ( (compound__names) ) , which is one of the most stable conducting polymers available at present , combining a low monomer oxidation potential and moderate (bandgap__specifier) ( approximately (bandgap__raw_value) <Blank> (bandgap__raw_units) as with confidence score 1.0
+Cluster 123 contains 1 phrases
+	 La2O3 is considered as one of the most promising candidate with a wide band gap ( Eg = 5.6 eV ) and a relatively high dielectric constant ( εLa2O3 = 23.4 ) for high dielectrics .
+The cluster centroid pattern is: <Blank> (compound__names) is considered as one of the most promising candidate with a wide (bandgap__specifier) ( (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 124 contains 1 phrases
+	 Indium oxide , an important n - type semiconductor with a direct band gap of 3.55 – 3.75 eV , holds promising applications in various areas , including nonlinear optics research , liquid - crystal displays , biosensors and ultrasensitive gas sensors for detection of O3 , CO , NOX , C2H5OH and Cl2 .
+The cluster centroid pattern is: <Blank> (compound__names) , an important n - type semiconductor with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 125 contains 2 phrases
+	 PbS is a IV – VI semiconductor with narrow band gap of 0.41 eV in the bulk state .
+	 Density of states ( DOS ) analysis shows that pure defect - free SnO2 is a semiconductor with a band gap of 1.26 eV , being in reasonable agreement with existing theoretical studies on the same level of theory9,10,11 .
+The cluster centroid pattern is: free (compound__names) is a semiconductor with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 126 contains 1 phrases
+	 The magnitudes of these band gaps are in line with the findings of D Kumar et al. who have manufactured the PbS nanocrystallites by CBD method with average size of 40 nm and direct band gap of 2.0 ± 0.1 eV .
+The cluster centroid pattern is: the (compound__names) nanocrystallites by CBD method with average size of 40 nm and direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 127 contains 1 phrases
+	 The band gap of 0.2 , 0.4 and 0.8 % Ru – TiO2 was found to be 3.10 , 3.04 and 2.96 eV respectively .
+The cluster centroid pattern is: The (bandgap__specifier) of 0.2 , 0.4 and 0.8 % (compound__names) was found to be (bandgap__raw_value) , (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) respectively with confidence score 1.0
+Cluster 128 contains 1 phrases
+	 However , in the literature it is reported that the pure anatase TiO2 nanoparticles shows the band gap 3.2 eV .
+The cluster centroid pattern is: anatase (compound__names) nanoparticles shows the (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 129 contains 1 phrases
+	 have reported band gap energy of neat PVP to be Eg = 4.90 eV .
+The cluster centroid pattern is: reported (bandgap__specifier) energy of neat (compound__names) to be (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 130 contains 1 phrases
+	 In the present work , it is found that the band gap energy of PVP is decreased up to 4.5 – 4.3 eV for samples at optimum reaction time i.e. S1 - 360 , S2 - 330 , S3 - 270 .
+The cluster centroid pattern is: the (bandgap__specifier) energy of (compound__names) is decreased up to (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 131 contains 1 phrases
+	 The band gap of CIGS semiconductor material can be changed from 1.02 to 1.68 eV depending on the ratio of the constituent elements doped in the structure .
+The cluster centroid pattern is: The (bandgap__specifier) of (compound__names) semiconductor material can be changed from (bandgap__raw_value) <Blank> (bandgap__raw_units) depending with confidence score 1.0
+Cluster 132 contains 1 phrases
+	 The optical band gap obtained by extrapolating the absorption edge of the film is 1.61 eV .
+The cluster centroid pattern is: optical (bandgap__specifier) obtained by extrapolating the absorption edge of the film is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 133 contains 2 phrases
+	 The band gap energies of the Cu2O nanostructures were estimated and the values were located between 1.5 and 2.08 eV .
+	 The band gaps of the Cu2O nanostructures were estimated and the values located between 1.5 and 2.08 eV .
+The cluster centroid pattern is: The (bandgap__specifier) of the (compound__names) nanostructures were estimated and the values were located between (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 134 contains 1 phrases
+	 Cuprous oxide Cu2O is a crucial p - type semiconductor with band gap energy of 2.0 – 2.2 eV .
+The cluster centroid pattern is: <Blank> (compound__names) <Blank> (compound__names) is a crucial p - type semiconductor with (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 135 contains 1 phrases
+	 The band gap energies of the Cu2O prepared from 0.5 , 1.0 , 2.0 , 3.0 and 4.0 M were estimated to be 1.99 , 2.02 eV , 1.70 eV , 1.59 eV and 1.70 eV , respectively .
+The cluster centroid pattern is: The (bandgap__specifier) energies of the (compound__names) prepared from 0.5 , 1.0 , 2.0 , 3.0 and 4.0 M were estimated to be (bandgap__raw_value) , (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 136 contains 1 phrases
+	 Lead - free perovskite of methylammonium tin iodide as the light - absorbing material was fabricated by solution - processed solid - state photovoltaic devices , which feature a lower optical bandgap of 1.3 eV than the 1.55 eV achieved with CH3NH3PbI3 .
+The cluster centroid pattern is: of (compound__names) as the light - absorbing material was fabricated by solution - processed solid - state photovoltaic devices , which feature a lower optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) than the (bandgap__raw_value) <Blank> (bandgap__raw_units) achieved with (compound__names) . with confidence score 1.0
+Cluster 137 contains 1 phrases
+	 Recently , Koh et al. reported the use of formamidinium tin iodide ( FASnI3 ) as a light absorber with a bandgap of 1.41 eV at a broader temperature range up to 200 °C .
+The cluster centroid pattern is: of (compound__names) ( (compound__names) ) as a light absorber with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) a broader temperature range up to (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 138 contains 1 phrases
+	 The Tauc plot of formamidinium tin iodide shows an energy bandgap of 1.41 eV .
+The cluster centroid pattern is: of (compound__names) shows an energy (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 139 contains 1 phrases
+	 The bandgap of formamidinium tin iodide is less than those of conventional perovskite CH3NH3PbI3 and formamidinium lead iodide ( FAPbI3 ) , which are 1.5 eV and 1.47 eV , respectively .
+The cluster centroid pattern is: The (bandgap__specifier) of formamidinium tin iodide is less than those of conventional (compound__names) CH3NH3PbI3 and (compound__names) ( (compound__names) ) , which are (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 140 contains 1 phrases
+	 Theoretically , among them , CsInSbCl6 and Cs2InBiCl6 with Eg 1.0 eV show high PCE comparable to CH3NH3PbI3 .
+The cluster centroid pattern is: , (compound__names) and (compound__names) with (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) show with confidence score 1.0
+Cluster 141 contains 1 phrases
+	 BiI3 has caught the attention of many researchers recently for PV applications because of its tunable bandgap of 1.8 eV .
+The cluster centroid pattern is: <Blank> (compound__names) has caught the attention of many researchers recently for PV applications because of its tunable (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 142 contains 1 phrases
+	 CdO is an n type semiconductor , with a well - established direct band gap at approximately 2.5 eV , and has found various applications such as its use in solar cells , as transparent electrodes , as photodiodes , and in sensors .
+The cluster centroid pattern is: <Blank> (compound__names) is an n type semiconductor , with a well - established direct (bandgap__specifier) at approximately (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 143 contains 1 phrases
+	 The absorption edge of K2Ti4O9 was observed at approximately 350 nm , corresponding to a band gap of 3.54 eV .
+The cluster centroid pattern is: of (compound__names) was observed at approximately 350 nm , corresponding to a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 144 contains 1 phrases
+	 It is owing to the band gap of PbS being 0.41 eV , so PbS could absorb a majority of visible light .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) being (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 145 contains 1 phrases
+	 Semiconductor K2Ti4O9 has no ability to absorb visible light due to its band gap of 3.54 eV , and is only responsive to UV light .
+The cluster centroid pattern is: Semiconductor (compound__names) has no ability to absorb visible light due to its (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 146 contains 1 phrases
+	 The pure TiO2 had a band gap energy of 3.05 eV and N – TiO2 showed a slight red - shift , giving a band gap of 3.02 eV .
+The cluster centroid pattern is: pure (compound__names) had a (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) and N – (compound__names) showed a slight red - shift , giving a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 147 contains 1 phrases
+	 Pt – TiO2 has a very low band gap energy of 2.57 eV .
+The cluster centroid pattern is: <Blank> (compound__names) has a very low (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 148 contains 1 phrases
+	 In terms of nitrogen and metal codoping , the band gap energies were 2.88 , 2.68 , 2.98 , and 2.58 eV for N – Fe , N – Ni , N – Ag and N – Pt codoped TiO2 , respectively .
+The cluster centroid pattern is: the (bandgap__specifier) energies were (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) , and (bandgap__raw_value) <Blank> (bandgap__raw_units) for N – Fe , N – Ni , N – Ag and N – Pt codoped (compound__names) , with confidence score 1.0
+Cluster 149 contains 1 phrases
+	 However , pure TiO2 and various MTiO3 photocatalysts ( where M = a metal ) with band gaps of 3.0 – 3.5 eV are ineffective because hydrogen production is limited by the rapid recombination of holes and electrons results in the formation of water .
+The cluster centroid pattern is: pure (compound__names) and various (compound__names) photocatalysts ( where M = a metal ) with (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) are with confidence score 1.0
+Cluster 150 contains 1 phrases
+	 Tin dioxide is a reducible oxide ( n - type semiconductor ) with a wide band gap ( 3.6 eV ) and rutile bulk structure .
+The cluster centroid pattern is: <Blank> (compound__names) is a reducible oxide ( n - type semiconductor ) with a wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 151 contains 1 phrases
+	 Hence , the bandgap of the Bi2WO6 was computed to be 2.61 eV .
+The cluster centroid pattern is: the (bandgap__specifier) of the (compound__names) was computed to be (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 152 contains 1 phrases
+	 Since , the energy band gap ( Eg ) of prepared Bi2WO6 is 2.61 eV , it can simply be accelerated by visible light irradiation .
+The cluster centroid pattern is: energy (bandgap__specifier) ( (bandgap__specifier) ) of prepared (compound__names) is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 153 contains 1 phrases
+	 The photocatalytic degradation of MO was also achieved by lowering the band gap of TiO2 nanoparticles from 3.2 to 2.8 eV with the help of graphene capping .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) nanoparticles from (bandgap__raw_value) <Blank> (bandgap__raw_units) with with confidence score 1.0
+Cluster 154 contains 1 phrases
+	 Under the visible light illumination , ZnO with a band gap of 3.37 eV and AgCl with a band gap of 3.25 eV could not be excited .
+The cluster centroid pattern is: , (compound__names) with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and (compound__names) with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) could with confidence score 1.0
+Cluster 155 contains 1 phrases
+	 The direct band gap energy of bare TiO2 , TiO2 @ PDA and CPO - TiO2 @ PDA was estimated from a plot of (αhν)2 versus photon energy ( hν ) according to the Kubelka - Munk function , which was 3.2 eV , 3.07 eV and 3.0 eV respectively .
+The cluster centroid pattern is: direct (bandgap__specifier) energy of bare (compound__names) , (compound__names) and CPO - (compound__names) was estimated from a plot of (αhν)2 versus photon energy ( hν ) according to the Kubelka - Munk function , which was (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) respectively with confidence score 1.0
+Cluster 156 contains 1 phrases
+	 Consequently , the band gap of pristine TiO2 , TiO2 / rGO , TiO2−x and TiO2−x / rGO can be calculated as 3.15 eV , 3.07 eV , 3.00 eV and 2.86 eV , respectively .
+The cluster centroid pattern is: the (bandgap__specifier) of pristine (compound__names) , (compound__names) / rGO , (compound__names) and (compound__names) / rGO can be calculated as (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 157 contains 1 phrases
+	 As considerably known that pure TiO2 is the most researched photocatalyst so far , which is awarded a wide band gap ( 3.2 eV ) merely corresponding to ultraviolet assimilation .
+The cluster centroid pattern is: pure (compound__names) is the most researched photocatalyst so far , which is awarded a wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) merely with confidence score 1.0
+Cluster 158 contains 1 phrases
+	 On the other side , as one of the important Aurivillius oxides , Bi2WO6 ( BWO ) , with a narrow band gap of about 2.8 eV , has been demonstrated to be a promising visible - light - driven photocatalyst for oxygen ( O2 ) evolution .
+The cluster centroid pattern is: , (compound__names) ( (compound__names) ) , with a narrow (bandgap__specifier) of about (bandgap__raw_value) <Blank> (bandgap__raw_units) , has been demonstrated to be a promising visible - light - driven photocatalyst for oxygen ( (compound__labels) ) with confidence score 1.0
+Cluster 159 contains 1 phrases
+	 The Tauc plots of the as-prepared bare BWO and CCO samples are shown in the inset of a and b , which reveal the corresponding band gap energies of about 2.96 eV and 2.95 eV , respectively .
+The cluster centroid pattern is: bare (compound__names) and CCO samples are shown in the inset of a and b , which reveal the corresponding (bandgap__specifier) energies of about (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 160 contains 1 phrases
+	 Although TiO2 is the most widely investigated semiconductor , its wide band gap of 3.2 eV allows it to be excited by ultraviolet light with only 3 % to 5 % of the solar energy distribution , which severely narrows its application scope .
+The cluster centroid pattern is: Although (compound__names) is the most widely investigated semiconductor , its wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) allows with confidence score 1.0
+Cluster 161 contains 1 phrases
+	 Among various visible - light - induced semiconductors , bismuth vanadate ( BiVO4 ) with a band gap of 2.4 – 2.5 eV has great potential for water oxidation and organic degradation due to its well - defined electronic structure and controllable crystal facet .
+The cluster centroid pattern is: , (compound__names) ( (compound__names) ) with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) has with confidence score 1.0
+Cluster 162 contains 1 phrases
+	 The bandgap energy of BiVO4 is determined to be 2.39 eV , which is consistent with the previous report ( b ) .
+The cluster centroid pattern is: The (bandgap__specifier) energy of (compound__names) is determined to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 163 contains 1 phrases
+	 In addition , Bi2MoO6 is composed of alternating perovskite (MoO4)2− and [Bi2O2]2+ layers , which allows it to possess an adjustable morphology and an appropriate Eg ( ~ 2.7 eV ) for capturing visible light .
+The cluster centroid pattern is: , (compound__names) is composed of alternating perovskite (MoO4)2− and [Bi2O2]2+ layers , which allows it to possess an adjustable morphology and an appropriate (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 164 contains 1 phrases
+	 Among these alternatives , Sn is a particularly ideal candidate owing to the suitable band gap ( 1.2 - 1.4 eV ) , small exciton binding energy ( 18 meV ) , and high carrier mobility in the Sn based perovskite .
+The cluster centroid pattern is: , (compound__names) is a particularly ideal candidate owing to the suitable (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 165 contains 1 phrases
+	 From PL curves , the bandgap values of EAxMA(0.98-x)2D / 3D perovskite films were determined to be 1.30 , 1.39 , 1.44 , 1.53 and 1.68 eV for x = 0.0 , 0.2 , 0.4 , 0.6 and 0.8 , respectively .
+The cluster centroid pattern is: the (bandgap__specifier) values of EAxMA(0.98-x)2D / 3D (compound__names) films were determined to be (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 166 contains 1 phrases
+	 The widest band gap of 3.25 eV was observed in the brookite B-50 sample , while the narrowest was 3.02 eV in Rutile R-50 .
+The cluster centroid pattern is: widest (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) was observed in the (compound__names) B-50 with confidence score 1.0
+Cluster 167 contains 1 phrases
+	 Considering band alignment , brookite had a wider band gap ( 3.51 eV by a theoretical calculation ) than anatase ( 3.36 eV ) , and rutile ( 3.10 eV ) , as well as the deepest valence band edge and shallowest conduction band edge , potentially affording the strongest electrochemical reactivity .
+The cluster centroid pattern is: , (compound__names) had a wider (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) by with confidence score 1.0
+Cluster 168 contains 1 phrases
+	 Indeed , the band gaps of our samples , brookite ( 3.32 eV ) , anatase ( 3.25 eV ) , and rutile ( 3.02 eV ) ( see ) , accord with the trend of the previous experimental data and the theoretical calculation .
+The cluster centroid pattern is: the (bandgap__specifier) of our samples , (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 169 contains 1 phrases
+	 SrTiO3 ( ST ) is one of the important high band gap photoctalysts ( band gap = 3.2 eV ) .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) is one of the important high band gap photoctalysts ( (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 170 contains 1 phrases
+	 The band gap value of Ga doped SrTi0.7Fe0.3O3 ( x = 0.01 sample ) is 1.53 eV .
+The cluster centroid pattern is: The (bandgap__specifier) value of (compound__names) ( (compound__labels) sample ) is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 171 contains 1 phrases
+	 As the concentration of Ga2O3 increases , the band gap increases to be 1.88 and 2.22 eV for x = 0.05 and x = 0.1 samples respectively .
+The cluster centroid pattern is: of (compound__names) increases , the (bandgap__specifier) increases to be (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 172 contains 1 phrases
+	 1 mol % Ga doped SrTiO3 has nearly equal band gap like that of SrTiO3 ( 3.2 eV ) .
+The cluster centroid pattern is: equal (bandgap__specifier) like that of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 173 contains 1 phrases
+	 SrTi0.7Fe0.3O3 has lower band gap value ( 2.38 eV ) than that of SrTiO3 or 1 mol % Ga doped SrTiO3 .
+The cluster centroid pattern is: <Blank> (compound__names) has lower (bandgap__specifier) value ( (bandgap__raw_value) <Blank> (bandgap__raw_units) than with confidence score 1.0
+Cluster 174 contains 1 phrases
+	 Doping of SrTi0.7Fe0.3O3 by 1 mol % Ga decreased the band gap value to 1.53 eV .
+The cluster centroid pattern is: of (compound__names) by 1 mol % Ga decreased the (bandgap__specifier) value to (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 175 contains 1 phrases
+	 Moreover , the band gap energies of TiO2 and different wt % rGO ( 1 , 2 , 3 , 4 wt % ) loaded photocatalysts are calculated to be 3.1 , 3.0 , 2.9 , 2.6 and 2.8 eV , respectively .
+The cluster centroid pattern is: the (bandgap__specifier) energies of (compound__names) and different wt % rGO ( 1 , 2 , 3 , 4 wt % ) loaded photocatalysts are calculated to be (bandgap__raw_value) , 3.0 , 2.9 , 2.6 and 2.8 (bandgap__raw_units) , with confidence score 1.0
+Cluster 176 contains 2 phrases
+	 ZnO is a versatile semiconductor with a wide direct band gap ( 3.37 eV ) and a large exciton binding energy ( 60 meV ) at 300 K has a wide range of applications in solar cells , optical and electrical fields , gas and chemical sensing , biomedical applications and also in catalysis and photocatalysis .
+	 ZnO is a versatile semiconductor material with a direct wide band gap ( 3.37 eV ) and large exciton binding energy ( 60 meV ) at 300 K and has been extensively studied as light - emitting diodes , solar cells , lasers , and sensors due to its unique physics and chemistry properties .
+The cluster centroid pattern is: <Blank> (compound__names) is a versatile semiconductor with a wide direct (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and large exciton binding energy ( 60 meV ) (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) and with confidence score 1.0
+Cluster 177 contains 1 phrases
+	 The results of photocatalytic studies revealed that the ZnO NPs calcined at 400 °C were the best for CR degradation due to its perfect band gap ( 3.42 eV ) matching .
+The cluster centroid pattern is: the (compound__names) NPs calcined (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) were the best for CR degradation due to its perfect (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) matching with confidence score 1.0
+Cluster 178 contains 1 phrases
+	 The bandgap energies of the titanium - based perovskites range between 2 – 4.5 eV , covering that of the visible light region .
+The cluster centroid pattern is: The (bandgap__specifier) energies of the titanium - based (compound__names) range between (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 179 contains 1 phrases
+	 The band gap energies of NLTO , ALTO , and CLTO solids were calculated to be 3.12 eV , 2.52 eV and 2.84 eV , respectively .
+The cluster centroid pattern is: The (bandgap__specifier) energies of NLTO , ALTO , and (compound__names) solids were calculated to be 3.12 eV , 2.52 eV and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 180 contains 1 phrases
+	 Due to the wide band gap energy of ZnO nanotriangles ( Eg = 3.33 eV ) , it can not absorb the visible light directly from sunlight .
+The cluster centroid pattern is: wide (bandgap__specifier) energy of (compound__names) nanotriangles ( (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 181 contains 1 phrases
+	 The band gap energy of ZnO nanotriangles ( 3.33 eV ) showed a blue shift due to quantum effect .
+The cluster centroid pattern is: The (bandgap__specifier) energy of (compound__names) nanotriangles ( (bandgap__raw_value) <Blank> (bandgap__raw_units) showed with confidence score 1.0
+Cluster 182 contains 1 phrases
+	 As such the merits in connection with SrTiO3 are having a cubic perovskite structure with a band gap of 3.2 eV , catalytically active and possesses superior chemical stability [,] and its conduction band ( CB ) edge is 200 meV more negative than TiO2 .
+The cluster centroid pattern is: with (compound__names) are having a cubic perovskite structure with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 183 contains 1 phrases
+	 The nano composite Ti90 - Sr10 prepared in presence of 10 wt % of GS having crystallite size 24.49 nm and band gap of 2.75 eV .
+The cluster centroid pattern is: composite (compound__names) - Sr10 prepared in presence of 10 wt % of GS having crystallite size 24.49 nm and (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 184 contains 1 phrases
+	 However , the commercial application of TiO2 photocatalysts is limited by thewide band gap of 3.2 eV , which implies that TiO2 can only be excited by UV light , i.e. by a wavelength shorter than 388 nm , whose proportion in the light solar spectrum is 3 – 5 % .
+The cluster centroid pattern is: of (compound__names) photocatalysts is limited by thewide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 185 contains 1 phrases
+	 ZnO as a photocatalyst , possesses superior electrical and optical properties , besides it has a bandgap of 3.3 eV making it a UV active photocatalyst .
+The cluster centroid pattern is: <Blank> (compound__names) as a photocatalyst , possesses superior electrical and optical properties , besides it has a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) making with confidence score 1.0
+Cluster 186 contains 1 phrases
+	 Besides , the calculated bandgap of ZnO samples was 3.13 , 3.14 , 3.15 , and 3.21 eV for Zn300 , Zn350 , Zn400 , and C , respectively as illustrated in b .
+The cluster centroid pattern is: calculated (bandgap__specifier) of (compound__names) samples was (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) , and (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 187 contains 1 phrases
+	 Moreover , TiO2 possesses large band gap of 3.2 eV and 3.0 eV for anatase and rutile phase respectively .
+The cluster centroid pattern is: , (compound__names) possesses large (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 188 contains 1 phrases
+	 By extrapolating the linear portion of the plot (ahv)n vs ( hv ) to the X-axis as presented in ( b ) , Jiang group obtained the band gap potentials as 3.00 , 2.69 and 2.60 eV for TiO2 , CNNS / TiO2 heterojunction and CNNS respectively [] .
+The cluster centroid pattern is: the (bandgap__specifier) potentials as (bandgap__raw_value) , (bandgap__raw_value) and 2.60 (bandgap__raw_units) for (compound__names) , CNNS / (compound__names) heterojunction with confidence score 1.0
+Cluster 189 contains 1 phrases
+	 311 O. Kryvchenkova et al. / Materials Today : Proceedings 2 ( 2015 ) 309 â € “ 314 The following material parameters were used for ZnO[18] : band gap ( E g ) 3.37 eV , electron affinity ( Ï ‡ ) 4.5 eV , and n - type doping of 10 18 cm -3 assuming a gold work function ( Ï• m ) of 5.1 eV .
+The cluster centroid pattern is: for (compound__names) : (bandgap__specifier) ( E g ) (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 190 contains 1 phrases
+	 Introduction Among diluted magnetic semiconductors , transition metal - doped zinc oxide has attracted a lot of scientific interest because of its wide band gap ( 3.37 eV ) and exciton binding energy ( 60 meV ) at 300 K [1] .
+The cluster centroid pattern is: doped (compound__names) has attracted a lot of scientific interest because of its wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 191 contains 2 phrases
+	 Optical band gap of iron oxide nano-particles annealed at 1000 ËšC is found to be 2.72 eV .
+	 Optical band gap of iron oxide nano-particles annealed at 1000 ˚C is found to be 2.72 eV .
+The cluster centroid pattern is: Optical (bandgap__specifier) of (compound__names) nano-particles annealed at 1000 ˚C is found to be (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 192 contains 1 phrases
+	 This band gap value is greater than reported value of 2.5 eV for hematite which shows that at 1000 ËšC phase formation of hematite is completed .
+The cluster centroid pattern is: This (bandgap__specifier) value is greater than reported value of (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) which with confidence score 1.0
+Cluster 193 contains 1 phrases
+	 Introduction : its ZnO opt ma *Co E-mZinc oxide ( ZnO ) is an important semiconducting material used for variety of technological applications due to wide band gap ( 3.37 eV ) and high excitonic energy ( 60 MeV ) , environmentally friendly and low cost material .
+The cluster centroid pattern is: ( (compound__names) ) is an important semiconducting material used for variety of technological applications due to wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 194 contains 1 phrases
+	 The band gap of deposited ZnO thin film was found 3.24 eV .
+The cluster centroid pattern is: The (bandgap__specifier) of deposited (compound__names) thin film was found (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 195 contains 1 phrases
+	 CoFe2O4 is an n - type semiconductor material that worn photo - fenton application in visible light region due to its smaller bandgap of 1.92 eV .
+The cluster centroid pattern is: <Blank> (compound__names) is an n - type semiconductor material that worn photo - fenton application in visible light region due to its smaller (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 196 contains 1 phrases
+	 Many semiconducting oxides , ZnO should be an alternative material for photocatalysts due to its injection eï¬ƒciency , band gap ( 3.37 eV ) , and electronic properties similar to TiO2 .
+The cluster centroid pattern is: , (compound__names) should be an alternative material for photocatalysts due to its injection eï¬ƒciency , (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 197 contains 1 phrases
+	 The obtained band gap energy values of NiWO4 , NiWO4 - NRGO and NiWO4-ZnO- NRGO are 3.10 eV , 2.42 eV and 2.27 eV , respectively .
+The cluster centroid pattern is: obtained (bandgap__specifier) energy values of (compound__names) , (compound__names) and (compound__names) are (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 198 contains 1 phrases
+	 Among these inorganic materials TiO2 is the most preferred wide band gap ( 3.2 eV ) semiconductor metal oxide due to its fascinating properties like non toxicity , chemical inertness , stability and its relatively favourable disposition of band edges [4] .
+The cluster centroid pattern is: materials (compound__names) is the most preferred wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) semiconductor with confidence score 1.0
+Cluster 199 contains 1 phrases
+	 However , ZnO has great advantages for applying in catalytic reaction processes such as wide band gap ( ~ 3.37 eV ) , large surface area , high catalytic activity , environmental safety and low cost .
+The cluster centroid pattern is: , (compound__names) has great advantages for applying in catalytic reaction processes such as wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 200 contains 1 phrases
+	 Thus , ZnO band gap ( ~ 3.2 eV ) is slightly lower than that of ZnS [18] .
+The cluster centroid pattern is: , (compound__names) <Blank> (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) is with confidence score 1.0
+Cluster 201 contains 1 phrases
+	 The transmittance curve of KNN thin film in the UV- Visible wavelength range was studied to evaluate its optical band gap energy to be ~ 3.75 eV .
+The cluster centroid pattern is: of (compound__names) thin film in the UV- Visible wavelength range was studied to evaluate its optical (bandgap__specifier) energy to be (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 202 contains 1 phrases
+	 Tin Selenide another prominent material in this class presents high absorption coefficient ( ∼ 104 cm−1 ) with low bandgap value of 0.9 eV .
+The cluster centroid pattern is: <Blank> (compound__names) another prominent material in this class presents high absorption coefficient ( ∼ 104 cm−1 ) with low (bandgap__specifier) value of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 203 contains 1 phrases
+	 The investigated p - type copper oxide ( Cu2O ) thin film is with the donor of the hole is a photo cathode which is a strong semiconductor used to prepare the photovoltaic batteries with the band gap energy of 2 eV .
+The cluster centroid pattern is: type (compound__names) thin film is with the donor of the hole is a photo cathode which is a strong semiconductor used to prepare the photovoltaic batteries with the (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 204 contains 1 phrases
+	 Similarly the reduction in band gap value of deposit Ag-Cu2O films at 200 °C ( 2.26 eV ) is also described and this may be due to the mixed oxide arrangements only .
+The cluster centroid pattern is: in (bandgap__specifier) value of deposit (compound__names) films at 200 °C ( (bandgap__raw_value) <Blank> (bandgap__raw_units) is with confidence score 1.0
+Cluster 205 contains 1 phrases
+	 The optical band gaps Eg of La2O3 / SiO2 nano composite was calculated to be equal to 2.2 eV which is less than the band gap of pure La2O3 ( 5.8 eV ) .
+The cluster centroid pattern is: optical (bandgap__specifier) <Blank> (bandgap__specifier) of (compound__names) nano composite was calculated to be equal to (bandgap__raw_value) <Blank> (bandgap__raw_units) which is less than the (bandgap__specifier) of pure (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 206 contains 1 phrases
+	 Tungsten ( VI ) trioxide ( WO3 ) is a semiconductor having approximate energy band gap ( Eg ) in the range of 2.5 – 2.8 eV .
+The cluster centroid pattern is: ( (compound__names) ) is a semiconductor having approximate energy (bandgap__specifier) ( (bandgap__specifier) ) in the range of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 207 contains 1 phrases
+	 Bandgap of 1.5 eV is obtained which is consistent with other reports of CH3NH3PbI3 layer on mTiO2 .
+The cluster centroid pattern is: <Blank> (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) is obtained which is consistent with other reports of (compound__names) layer with confidence score 1.0
+Cluster 208 contains 1 phrases
+	 The optical energy band gap values for the thin film samples varied with the substrates and were reported to be 3.55 eV for corning glass , 3.59 eV for ITO glass and 3.79 eV for Quartz .
+The cluster centroid pattern is: energy (bandgap__specifier) values for the thin film samples varied with the substrates and were reported to be 3.55 eV for corning glass , (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) glass and (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) . with confidence score 1.0
+Cluster 209 contains 2 phrases
+	 CuO is p - type semiconductor with a direct band gap of 1.2 eV and high optical absorption coefficient .
+	 Density of states ( DOS ) analysis shows that pure defect - free SnO2 is a semiconductor with a band gap of 1.26 eV , being in reasonable agreement with existing theoretical studies on the same level of theory9,10,11 .
+The cluster centroid pattern is: free (compound__names) is a semiconductor with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 210 contains 1 phrases
+	 CaIn2O4 is a semiconducting compound having band gap of 3.9 eV .
+The cluster centroid pattern is: <Blank> (compound__names) is a semiconducting compound having (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 211 contains 2 phrases
+	 Compared to Eg = 3.35 eV for pure ZnO film , almost all the samples exhibit a blue - shift of Eg .
+	 But the addition of 10 % of Li2S decreases the specific conductivity of Sb2S3 pure almost 2 orders of magnitude that could be explained on the terms of increasing of the band gap ( Eg = 1.63 eV for pure Sb2S3 crystalline ) .
+The cluster centroid pattern is: ( (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) for pure (compound__names) crystalline with confidence score 1.0
+Cluster 212 contains 1 phrases
+	 In addition , presence of another band gap around 3.5 eV is equivalent to the bulk band gap of ITO as mentioned above .
+The cluster centroid pattern is: around (bandgap__raw_value) <Blank> (bandgap__raw_units) is equivalent to the bulk (bandgap__specifier) of (compound__names) as with confidence score 1.0
+Cluster 213 contains 1 phrases
+	 The present results show a considerable improvement to an earlier theoretical GGA approach , where a largely underestimated Eg value ( 4.5 eV ) was reported for SrAl2O4 .
+The cluster centroid pattern is: underestimated (bandgap__specifier) value ( (bandgap__raw_value) <Blank> (bandgap__raw_units) was reported for (compound__names) . with confidence score 1.0
+Cluster 214 contains 1 phrases
+	 Manganese sulfide ( MnS ) is a wide band gap semiconductor with a bulk band gap of 3.1 eV .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) is a wide band gap semiconductor with a bulk (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 215 contains 1 phrases
+	 Just like manganese sulfide , manganese selenide in bulk form is a wide band gap semiconductor with a band gap of 2.65 eV .
+The cluster centroid pattern is: , (compound__names) in bulk form is a wide band gap semiconductor with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 216 contains 1 phrases
+	 Semiconductor NPs such as CdS have many practical applications because of their quantum confinement effect and optical band gap lying in the visible region ( Eg = 2.4 eV ) of the electromagnetic radiation .
+The cluster centroid pattern is: as (compound__names) have many practical applications because of their quantum confinement effect and optical band gap lying in the visible region ( (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) of with confidence score 1.0
+Cluster 217 contains 1 phrases
+	 The precursor Cu2SnSe3 ( CTSe ) and Cu2ZnSnSe4 ( CZTSe ) are emerging absorbers for thin - film solar cells that contains earth abundant elements , with a near optimum direct band gap energy in the range 0.74 – 1.5 eV and a large absorption coefficient > 104 cm−1 .
+The cluster centroid pattern is: precursor (compound__names) ( CTSe ) and (compound__names) ( CZTSe ) are emerging absorbers for thin - film solar cells that contains earth abundant elements , with a near optimum direct (bandgap__specifier) energy in the range (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 218 contains 1 phrases
+	 The estimated value for Cu2SnSe3 is Eg = 0.94 eV , which is in good agreement with the reported values in the literature .
+The cluster centroid pattern is: for (compound__names) is (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 219 contains 1 phrases
+	 The optical measurements show that Cu2SnSe3 material has a high optical absorption , and the evaluated energy band gap is 0.94 eV .
+The cluster centroid pattern is: that (compound__names) material has a high optical absorption , and the evaluated energy (bandgap__specifier) is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 220 contains 1 phrases
+	 Based on the UV – visible diffuse reflection spectrum of the tungstate host in this figure and the Kubelka – Munk equation , the optical band gap value of NaGd(WO4)2 was estimated to be 4.13 eV , which is higher than 3.9 eV of the Pr3+ - doped NaGdTiO4 .
+The cluster centroid pattern is: optical (bandgap__specifier) value of (compound__names) was estimated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , which is higher than (bandgap__raw_value) <Blank> (bandgap__raw_units) of the (compound__names) . with confidence score 1.0
+Cluster 221 contains 2 phrases
+	 At 1.06 μm wavelength , the energy of a photon is far below the GaAs band gap of 1.42 eV .
+	 Figure 1 shows PL emission of a ZnO nanoparticle thin film excited with 4.13 eV light ( 300 nm ) , that is , light with an energy exceeding the ZnO band gap of approximately 3.25 eV ( see Supplementary Fig. 1 ) .
+The cluster centroid pattern is: the (compound__names) <Blank> (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) ( with confidence score 1.0
+Cluster 222 contains 1 phrases
+	 In case of CdS the bulk band gap energy is 2.42 eV .
+The cluster centroid pattern is: of (compound__names) the bulk (bandgap__specifier) energy is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 223 contains 1 phrases
+	 The absorption spectra shows a well defined absorption onset that is blue shifted as compared to the absorption onset for bulk CdS ( 512 nm , Eg = 2.42 eV ) .
+The cluster centroid pattern is: bulk (compound__names) ( 512 nm , (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 224 contains 1 phrases
+	 A narrowing of the band gap energy from 3.28 eV , for ZnO / SiO2 , to 2.25 eV , for Au / ZnO / SiO2 , was observed (
+The cluster centroid pattern is: the (bandgap__specifier) energy from (bandgap__raw_value) <Blank> (bandgap__raw_units) , for (compound__names) , to (bandgap__raw_value) <Blank> (bandgap__raw_units) , for Au / (compound__names) , with confidence score 1.0
+Cluster 225 contains 1 phrases
+	 This observation is also available for NiO / ZnO / SiO2 as it has also reduced band gap energy ( 2.50 eV ) .
+The cluster centroid pattern is: for (compound__names) as it has also reduced (bandgap__specifier) energy ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 226 contains 1 phrases
+	 The bandgap width cited in literature for ZrO2 monocrystals stabilized with 9.5 % Y2O3 is 4.23 eV , which corresponds to a transmission cutoff at 293 nm , a value close to the results shown in the present paper .
+The cluster centroid pattern is: The (bandgap__specifier) width cited in literature for (compound__names) monocrystals stabilized with 9.5 % Y2O3 is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 227 contains 1 phrases
+	 The band - edge absorption of the ZnSSe nanorods exhibited a gradual red shift toward longer wavelength while increasing Se composition , which is due to a narrower band gap of ZnS0.3Se0.7 ( 3.35 eV ) than that of ZnS0.7Se0.3 ( 3.51 eV ) , which might results from lattice distance effects .
+The cluster centroid pattern is: narrower (bandgap__specifier) of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) than that of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 228 contains 1 phrases
+	 Optical band gap energy of 1.0 mol % NdF3 - doped TeO2-WO3-GeO2-NdF3 glass is ∼ 3.66 eV .
+The cluster centroid pattern is: Optical (bandgap__specifier) energy of 1.0 mol % (compound__names) glass is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 229 contains 2 phrases
+	 The direct band gap values of pure and La doped SnO2 thin films are varying between 4.15 and 3.95 eV .
+	 The direct band gap values of pure and La doped SnO2 thin films are varying between 4.15 and 3.95 eV .
+The cluster centroid pattern is: direct (bandgap__specifier) values of pure and La doped (compound__names) thin films are varying between (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 230 contains 1 phrases
+	 In particular , the PL band at 1.469 eV is attributed to a free - electron to neutral-carbon transition ( e , C ) on the grounds of its behavior with laser power and temperature , the band at 1.482 eV is due to the exciton recombination from the GaAs1−yNy band gap , hereafter called E− .
+The cluster centroid pattern is: at (bandgap__raw_value) <Blank> (bandgap__raw_units) is due to the exciton recombination from the (compound__names) <Blank> (bandgap__specifier) , with confidence score 1.0
+Cluster 231 contains 1 phrases
+	 The explicit inclusion of Ge 3d states as valence opens the band gap at the Γ point to 0.08 eV .
+The cluster centroid pattern is: of (compound__names) 3d states as valence opens the (bandgap__specifier) at the Γ point to (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 232 contains 1 phrases
+	 From absorption spectroscopy it was also found that before and after SHI irradiation the ZnO / PMMA nanocomposite films lead to sharp absorption band at about 340 – 345 nm corresponding to the band gap ≈ 3.6 eV , which is higher than that of bulk ZnO .
+The cluster centroid pattern is: the (compound__names) nanocomposite films lead to sharp absorption band at about 340 – 345 nm corresponding to the (bandgap__specifier) ≈ (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 233 contains 1 phrases
+	 Our calculated value of the indirect band gap is ∼ 2.1eV ( FLAPW ) for KTaO3 where the experimental band gap is 3.8 eV .
+The cluster centroid pattern is: for (compound__names) where the experimental (bandgap__specifier) is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 234 contains 1 phrases
+	 Particularly , as a promising and suitable TCO material , ZnO is a promising material for short wavelength optoelectronic devices , especially for ultraviolet ( UV ) light - emitting diodes ( LEDs ) and laser diodes ( LDs ) , with a direct band gap around 3.37 eV and high free - exciton binding energy of 60 meV .
+The cluster centroid pattern is: , (compound__names) is a promising material for short wavelength optoelectronic devices , especially for ultraviolet ( UV ) light - emitting diodes ( LEDs ) and laser diodes ( LDs ) , with a direct (bandgap__specifier) around (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 235 contains 1 phrases
+	 Therefore , it is expected that the band gap would be less than that for pure single crystalline ZnO material ( 3.37 eV ) .
+The cluster centroid pattern is: the (bandgap__specifier) would be less than that for pure single crystalline (compound__names) material ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 236 contains 1 phrases
+	 Obtaining thin films with negligible amount of the uncompensated zinc atoms would yield a band gap of about the known band gap for the crystalline ZnO ( around 3.37 eV ) .
+The cluster centroid pattern is: known (bandgap__specifier) for the crystalline (compound__names) ( around (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 237 contains 1 phrases
+	 Given its wide band gap of approximately 3.6 eV in stable tetragonal rutile structure , SnO2 eliminates the energy back transfer process that enables light emission from Er3+ ions at 300 K .
+The cluster centroid pattern is: wide (bandgap__specifier) of approximately (bandgap__raw_value) <Blank> (bandgap__raw_units) in stable tetragonal rutile structure , (compound__names) eliminates the energy back transfer process that enables light emission from Er3+ ions (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 238 contains 1 phrases
+	 And CdS has attracted much interest over the past several decades , primarily due to its wide direct band gap ( about 2.4 eV ) which suitable for optoelectronic solar cell material [] .
+The cluster centroid pattern is: And (compound__names) has attracted much interest over the past several decades , primarily due to its wide direct (bandgap__specifier) ( about (bandgap__raw_value) <Blank> (bandgap__raw_units) which with confidence score 1.0
+Cluster 239 contains 1 phrases
+	 The band gap of pure MgO has been found to 3.92 eV and it is shifted to 3.84 eV for 3 % Al doped MgO .
+The cluster centroid pattern is: The (bandgap__specifier) of pure (compound__names) has been found to (bandgap__raw_value) <Blank> (bandgap__raw_units) and it is shifted to (bandgap__raw_value) <Blank> (bandgap__raw_units) for 3 % Al doped (compound__names) . with confidence score 1.0
+Cluster 240 contains 1 phrases
+	 It is well known that ZnO is a direct band gap semiconductor with a hexagonal wurtzite crystal structure , and has a wide band gap of 3.37 eV and a large exciton binding energy of 60 MeV .
+The cluster centroid pattern is: that (compound__names) is a direct band gap semiconductor with a hexagonal wurtzite crystal structure , and has a wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 241 contains 1 phrases
+	 The obtained results indicated that the energy band gap of ZnO Nanorods thin film , prepared by sol – gel technique and ACG is ∼ 3.666 and 3.708 eV for thin film heated at 250 and 300 °C , respectively .
+The cluster centroid pattern is: energy (bandgap__specifier) of (compound__names) Nanorods thin film , prepared by sol – gel technique and ACG is (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for thin film heated (temperature__specifier) <Blank> (temperature__raw_value) and (temperature__raw_value) <Blank> (temperature__raw_units) , with confidence score 1.0
+Cluster 242 contains 1 phrases
+	 Nanoscale ZnSe is garnering much attention as it is a potential material for optoelectronic devices , including blue laser diodes , light - emitting diodes ( LEDs ) , and photo - detectors , because of its wide direct bandgap ( 2.67 eV ) and large exciton binding energy ( 21 meV ) .
+The cluster centroid pattern is: Nanoscale (compound__names) is garnering much attention as it is a potential material for optoelectronic devices , including blue laser diodes , light - emitting diodes ( LEDs ) , and photo - detectors , because of its wide direct (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 243 contains 1 phrases
+	 The reflectance spectra of ZnSe nanoparticles showed that the bandgap decreased from 4.24 eV at 450 °C to 3.95 eV at 700 °C .
+The cluster centroid pattern is: of (compound__names) nanoparticles showed that the (bandgap__specifier) decreased from (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) to (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 244 contains 1 phrases
+	 Copper indium sulfide ( CuInS2 ) has the highest conversion efficiency among the chalcopyrite CIS-based solar cells due to its direct band gap of 1.55 eV and high absorption coefficient ( 105 cm−1 ) .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) has the highest conversion efficiency among the chalcopyrite CIS-based solar cells due to its direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 245 contains 1 phrases
+	 The value of band gap was calculated 1.5 eV for In2S3 and a negligible value for CuInS2 compound .
+The cluster centroid pattern is: of (bandgap__specifier) was calculated (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) and with confidence score 1.0
+Cluster 246 contains 1 phrases
+	 Cadmium oxide ( CdO ) with band gap ( Eg ∼ 2.3 eV ) , low resistivity and optical transmittance in the visible region of the solar spectrum .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) with (bandgap__specifier) ( Eg (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 247 contains 1 phrases
+	 In comparison to Zinc oxide ( ZnO ) having band gap ( Eg ∼ 3.36 eV ) with a large exciton binding energy of ∼ 60 meV and high resistivity .
+The cluster centroid pattern is: to (compound__names) ( (compound__names) ) having (bandgap__specifier) ( Eg (bandgap__raw_value) <Blank> (bandgap__raw_units) with with confidence score 1.0
+Cluster 248 contains 1 phrases
+	 The UV – Vis Spectroscopy ( UV – VIS ) results revealed that the energy band gap of modified TiO2 / G nanocomposite decreases to 2.90 eV compared with the commercial TiO2 , 3.06 eV .
+The cluster centroid pattern is: energy (bandgap__specifier) of modified (compound__names) / G nanocomposite decreases to (bandgap__raw_value) <Blank> (bandgap__raw_units) compared with the commercial (compound__names) , (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 249 contains 1 phrases
+	 As an important luminescence material , the band gap of ZnS crystal is up to 3.72 eV .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) crystal is up to (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 250 contains 1 phrases
+	 The decrease in the short wavelength range ( b ) is due to the CdS absorption due to its 2.34 eV band gap determined from the derivative EQE curve ( the inset of b ) .
+The cluster centroid pattern is: the (compound__names) absorption due to its (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (bandgap__specifier) determined with confidence score 1.0
+Cluster 251 contains 1 phrases
+	 The calculated average band gap of the CIGS here is about 1.26 eV , consistent with the value obtained from the EQE result .
+The cluster centroid pattern is: average (bandgap__specifier) of the (compound__names) here is about (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 252 contains 1 phrases
+	 In this regard , Ponnar et al. demonstrate the synthesis of Ce doped CuO nanostructures and found microstructural changes from spherical to rod like structure with optical band gap variation from 3.63 to 3.13 eV .
+The cluster centroid pattern is: the (compound__roles) Ce doped (compound__names) nanostructures and found microstructural changes from spherical to rod like structure with optical (bandgap__specifier) variation from (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 253 contains 1 phrases
+	 Thangamani et al. reported the synthesis of pure and Ni doped CuO and found variation in lattice parameter of spherical shaped nanostructures with optical band gap in the range 3.21 to 3.10 eV .
+The cluster centroid pattern is: doped (compound__names) and found variation in lattice parameter of spherical shaped nanostructures with optical (bandgap__specifier) in the range (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 254 contains 1 phrases
+	 The estimated band gap energy for pure CuO nanoparticles is 1.34 eV and for 5 % , 10 % , 15 % , 20 % , 25 % Al doped CuO nanoparticles is 1.38 , 1.51 , 1.6 , 1.74 eV and 1.96 eV respectively .
+The cluster centroid pattern is: estimated (bandgap__specifier) energy for pure (compound__names) nanoparticles is (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 255 contains 1 phrases
+	 Thus , the NaAlP2O7 crystal is a direct - gap insulator , and the calculated direct band gap is 5.28 eV .
+The cluster centroid pattern is: the (compound__names) crystal is a direct - gap insulator , and the calculated direct (bandgap__specifier) is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 256 contains 1 phrases
+	 On the basis of the absorption cutoff edge at 305 nm , the energy band gap is evaluated to be 4.07 eV that is about 1 eV smaller than the calculated direct band gap 5.28 eV of crystal NaAlP2O7 , as shown in .
+The cluster centroid pattern is: direct (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) of crystal (compound__names) , with confidence score 1.0
+Cluster 257 contains 2 phrases
+	 Among other polymer composites the highest Eg 2.50 eV was found in TiO2 nanoparticles dispersed nanocomposites .
+	 On the other hand , the lowest Eg 2.35 eV was found in NiFe2O4 nanoparticles dispersed nanocomposites .
+The cluster centroid pattern is: lowest (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) was found in (compound__names) nanoparticles with confidence score 1.0
+Cluster 258 contains 2 phrases
+	 Single - layer GeC possesses a direct band gap of 2.11 eV at the K point .
+	 Hidetoshi Miyazaki et al. confirmed that CaMgSi possesses a band gap of 0.26 eV with a semiconductor - like electronic structure .
+The cluster centroid pattern is: that (compound__names) possesses a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) with with confidence score 1.0
+Cluster 259 contains 1 phrases
+	 Using first - principles calculations , Sahin et al. reported that 2D-GeC has a stable planar honeycomb structure with a direct band gap of 2.09 eV .
+The cluster centroid pattern is: that (compound__names) has a stable planar honeycomb structure with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 260 contains 1 phrases
+	 From the band structures , the α-TeO2 structure is found to be a semiconductor with an indirect band gap ( ( Γ-M ) of 2.89 eV predicted with GGA approximation , in agreement with the obtained value of 2.78 eV by Yanlu Li et al. , but it is much smaller than the experimental value ( 3.50 eV ) .
+The cluster centroid pattern is: the (compound__names) structure is found to be a semiconductor with an indirect (bandgap__specifier) ( ( Γ-M ) of (bandgap__raw_value) <Blank> (bandgap__raw_units) predicted with GGA approximation , in agreement with the obtained value of (bandgap__raw_value) <Blank> (bandgap__raw_units) by Yanlu Li et al. , but it is much smaller than the experimental value ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 261 contains 1 phrases
+	 The gap in the β-TeO2 phase turns out to be a direct band gap semiconductor with a band gap value of 2.2 eV obtained by GGA approximation .
+The cluster centroid pattern is: the (compound__names) phase turns out to be a direct band gap semiconductor with a (bandgap__specifier) value of (bandgap__raw_value) <Blank> (bandgap__raw_units) obtained with confidence score 1.0
+Cluster 262 contains 1 phrases
+	 For the γ-TeO2 structure , it was shown that TeO2 has an indirect band gap , and the band gap value is 3.08 eV obtained by the TB - mBJ .
+The cluster centroid pattern is: that (compound__names) has an indirect band gap , and the (bandgap__specifier) value is (bandgap__raw_value) <Blank> (bandgap__raw_units) obtained with confidence score 1.0
+Cluster 263 contains 1 phrases
+	 Qian et al. have performed the electronic structure calculation based on the Density Functional Theory ( DFT ) method for CsPbBr3 and reported that the bandgap energy for this perovskite with a cubic crystal structure is 1.75 eV .
+The cluster centroid pattern is: for (compound__names) and reported that the (bandgap__specifier) energy for this perovskite with a cubic crystal structure is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 264 contains 1 phrases
+	 From the calculation results for CsPbBr3 , Qian et al. reported that the bandgap energy for this perovskite is 1.75 eV , while Castelli et al. reported 1.63 eV .
+The cluster centroid pattern is: for (compound__names) , Qian et al. reported that the (bandgap__specifier) energy for this perovskite is (bandgap__raw_value) <Blank> (bandgap__raw_units) , while Castelli et al. reported (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 265 contains 1 phrases
+	 Experimentally , however , Stoumpos et al. reported 2.25 eV for the bandgap energy of CsPbBr3 , whereas Kulbak et al. reported 2.32 eV .
+The cluster centroid pattern is: reported (bandgap__raw_value) <Blank> (bandgap__raw_units) for the (bandgap__specifier) energy of (compound__names) , whereas Kulbak et al. reported (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 266 contains 1 phrases
+	 The band gap of the as-prepared CuSe NPs were found to increase between 1.80 eV and 2.10 eV .
+The cluster centroid pattern is: The (bandgap__specifier) of the as-prepared (compound__names) NPs were found to increase between (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 267 contains 1 phrases
+	 The optical band gap of as-synthesized CuSe nanoparticle was found to be 2.07 eV .
+The cluster centroid pattern is: optical (bandgap__specifier) of as-synthesized (compound__names) nanoparticle was found to be (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 268 contains 1 phrases
+	 Optical properties of CdTe were also investigated and the band gap of CdTe films were found as 1.54 eV for hexagonal phase and ∼ 1.6 eV for cubic phase .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) films were found as (bandgap__raw_value) <Blank> (bandgap__raw_units) for hexagonal phase and (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 269 contains 1 phrases
+	 It is clear from the graph [ (αhν)2 vs. hν ] that the band gap for the hexagonal CdTe is ∼ 1.54 eV , while for the cubic CdTe is ∼ 1.6 eV .
+The cluster centroid pattern is: the (bandgap__specifier) for the hexagonal (compound__names) is (bandgap__raw_value) <Blank> (bandgap__raw_units) , while for the cubic (compound__names) is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 270 contains 1 phrases
+	 It should be noted that the band gap of cubic CdTe bulk is 1.5 eV at 300 K .
+The cluster centroid pattern is: the (bandgap__specifier) of cubic (compound__names) bulk is (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 271 contains 1 phrases
+	 Stoichometric STO is a perovskite structured and optically transparent insulating material with a band gap of 3.2 eV .
+The cluster centroid pattern is: Stoichometric (compound__names) is a perovskite structured and optically transparent insulating material with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 272 contains 1 phrases
+	 The bandgap of Cd2SnO4 was determined to be approximately 2.97 eV , which is within the range of values reported in the literature surveyed ( 2.7 – 3.0 eV ) .
+The cluster centroid pattern is: The (bandgap__specifier) of (compound__names) was determined to be approximately (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 273 contains 1 phrases
+	 The analogous sulfur compound CuInS2 has been predicted theoretically to have the highest conversion efficiency among chalcopyrite solar cells primarily due to its direct band gap of 1.5 eV and its high absorption coefficient of almost 105 cm− 1 .
+The cluster centroid pattern is: compound (compound__names) has been predicted theoretically to have the highest conversion efficiency among chalcopyrite solar cells primarily due to its direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 274 contains 1 phrases
+	 The spectrum of oxidized ZnA multilayer clearly shows an absorption edge at ∼ 3.2 eV , close to the bulk band gap of ZnO which confirms the formation of ZnO .
+The cluster centroid pattern is: at (bandgap__raw_value) <Blank> (bandgap__raw_units) , close to the bulk (bandgap__specifier) of (compound__names) which with confidence score 1.0
+Cluster 275 contains 1 phrases
+	 The value of the energy band gap estimated from the plots for film deposited at 523 K is 1.080 eV while annealing of the film at 573 K reduces the band gap to 1.025 eV , which is in good agreement with the reported values by many earlier workers on CuInSe2 thin films .
+The cluster centroid pattern is: energy (bandgap__specifier) estimated from the plots for film deposited (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) is (bandgap__raw_value) <Blank> (bandgap__raw_units) while annealing of the film at 573 K reduces the band gap to 1.025 eV , which is in good agreement with the reported values by many earlier workers on (compound__names) thin with confidence score 1.0
+Cluster 276 contains 1 phrases
+	 The value of the energy band gap estimated from the plots for film deposited at 523 K is 1.080 eV while annealing of the film at 573 K reduces the band gap to 1.025 eV , which is in good agreement with the reported values by many earlier workers on CuInSe2 thin films .
+The cluster centroid pattern is: energy (bandgap__specifier) estimated from the plots for film deposited (temperature__specifier) <Blank> (bandgap__raw_value) <Blank> (temperature__raw_units) is (temperature__raw_value) <Blank> (bandgap__raw_units) while annealing of the film (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) reduces the band gap to (bandgap__raw_value) <Blank> (bandgap__raw_units) , which is in good agreement with the reported values by many earlier workers on (compound__names) thin with confidence score 1.0
+Cluster 277 contains 1 phrases
+	 Analysis of optical transmission measurements of CuInSe2 film deposited at 523 K revealed that the film has high absorption coefficient ( 104 cm− 1 ) and energy band gap value of 1.080 eV .
+The cluster centroid pattern is: of (compound__names) film deposited (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) revealed that the film has high absorption coefficient ( 104 cm− 1 ) and energy (bandgap__specifier) value of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 278 contains 1 phrases
+	 ZrNxOy films with mainly a Zr2ON2 phase exhibited the band gap of 1.96 – 2.26 eV , while the m-ZrO2 films with slight nitrogen incorporation had a band gap of 2.32 eV , evaluated from transmittance spectra .
+The cluster centroid pattern is: a (compound__names) phase exhibited the (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 279 contains 1 phrases
+	 The Eg - values increased from 1.96 to 2.26 eV for the films with the Zr2ON2 phase to 2.32 eV for those with the m-ZrO2(N) structure as the air / Ar ratio changed from 0.18 to 0.30 .
+The cluster centroid pattern is: The (bandgap__specifier) - values increased from (bandgap__raw_value) <Blank> (bandgap__raw_units) for the films with the (compound__names) phase to (bandgap__raw_value) <Blank> (bandgap__raw_units) for those with the (compound__names) structure with confidence score 1.0
+Cluster 280 contains 1 phrases
+	 The values are all lower than those reported in the literature for either ZrO2 ( Eg = 5.0 eV ) or Zr2ON2 ( Eg = 2.6 eV ) , which is possibly due to the high nitrogen incorporation in the films .
+The cluster centroid pattern is: either (compound__names) ( (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) or (compound__names) ( (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 281 contains 1 phrases
+	 The optical band gaps of the films with the Zr2ON2 phase are in the range of 1.96 – 2.26 eV while that with the m-ZrO2(N) structure is 2.32 eV , implying that the films have great potentials in many photocatalytic and optoelectronic applications .
+The cluster centroid pattern is: optical (bandgap__specifier) of the films with the (compound__names) phase are in the range of (bandgap__raw_value) <Blank> (bandgap__raw_units) while that with the (compound__names) structure is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 282 contains 1 phrases
+	 The optical band gap of 2.44 eV is close to that of single crystal CdS .
+The cluster centroid pattern is: optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) is close to that of single crystal (compound__names) . with confidence score 1.0
+Cluster 283 contains 1 phrases
+	 Raman measurements were performed with the 325 nm line of a He – Cd laser as light excitation source , since the energy of the light 514.5 nm ( 2.41 eV ) is very close to the bandgap of CdS , and this could induce resonant Raman effect and consequently increase the background fluorescence .
+The cluster centroid pattern is: ( (bandgap__raw_value) <Blank> (bandgap__raw_units) is very close to the (bandgap__specifier) of (compound__names) , with confidence score 1.0
+Cluster 284 contains 1 phrases
+	 Among these REOs , La2O3 is considered one of the most attractive materials due to its high k ( ~ 30 ) , large band gap ( 5 – 6 eV ) and high conduction band offset ( 2.3 eV ) from the Si conduction band .
+The cluster centroid pattern is: , (compound__names) is considered one of the most attractive materials due to its high k ( ~ 30 ) , large (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 285 contains 1 phrases
+	 Due to spin orbit interaction and the crystal field splitting , the valence band of CuGaSe2 is split into three sublevels , leading to three direct band gaps at Eg ( A ) = 1.68 eV , Eg ( B ) = 1.75 eV and Eg ( C ) = 1.96 eV .
+The cluster centroid pattern is: of (compound__names) is split into three sublevels , leading to three direct band gaps at (bandgap__specifier) ( A ) = (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__specifier) ( B ) = (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__specifier) ( C ) = (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 286 contains 1 phrases
+	 The fundamental energy Eg(1) band gap of the CuGaSe2 device is 1.68 eV and Eg(2) was found to be 1.75 eV .
+The cluster centroid pattern is: Eg(1) (bandgap__specifier) of the (compound__names) device is (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 287 contains 1 phrases
+	 According to literature , silver – copper - oxides are narrow band gap ( 0.3 eV ) p - type semiconductors , which could potentially be used as emitters or absorber materials for future generation photovoltaic devices .
+The cluster centroid pattern is: , (compound__names) are narrow (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) p with confidence score 1.0
+Cluster 288 contains 1 phrases
+	 This disagrees with the above-mentioned results , which are more in line with the direct band gap measurement of 2.5 eV reported for the structurally similar paramelaconite ( Cu4O3 ) .
+The cluster centroid pattern is: direct (bandgap__specifier) measurement of (bandgap__raw_value) <Blank> (bandgap__raw_units) reported for the structurally similar paramelaconite ( (compound__names) ) with confidence score 1.0
+Cluster 289 contains 1 phrases
+	 GaAs material parameters were taken from , the energy band gap of the GaAsBi layer was assumed to be 0.93 eV , the strain effects were not taken into account .
+The cluster centroid pattern is: <Blank> (compound__names) material parameters were taken from , the energy (bandgap__specifier) of the GaAsBi layer was assumed to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 290 contains 1 phrases
+	 It is reported that pure ZnO film has an optical band gap of 3.28 – 3.30 eV .
+The cluster centroid pattern is: pure (compound__names) film has an optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 291 contains 1 phrases
+	 CuS is p - type semiconductors with a direct band gap energy ranging from 0.6 to 2.35 eV depending on crystal structure and stoichiometry .
+The cluster centroid pattern is: <Blank> (compound__names) is p - type semiconductors with a direct (bandgap__specifier) energy ranging from (bandgap__raw_value) <Blank> (bandgap__raw_units) depending with confidence score 1.0
+Cluster 292 contains 1 phrases
+	 The band structure indicates that Cr2CF(OH) is a semiconductor with a Γ ( conduction band minimum , CBM ) to M ( valence band maximum , VBM ) indirect band gap of 0.383 eV .
+The cluster centroid pattern is: that (compound__names) is a semiconductor with a Γ ( conduction band minimum , CBM ) to M ( valence band maximum , VBM ) indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 293 contains 1 phrases
+	 As mentioned above , because Cr2CF(OH) has distinct spin states , the band structures of the majority and minority spin have different configurations ( ( b ) ) , with band gap sizes of 0.520 and 0.383 eV , respectively .
+The cluster centroid pattern is: because (compound__names) has distinct spin states , the band structures of the majority and minority spin have different configurations ( ( b ) ) , with (bandgap__specifier) sizes of (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 294 contains 1 phrases
+	 In addition , like the minority spin of Cr2CF(OH) , the CBM and VBM of Cr2C(OH)2 are primarily composed of O and Cr atoms , respectively , and the band gap of Cr2C(OH)2 ( 0.396 eV ) is similar to that of the minority spin band in Cr2CF(OH) ( 0.383 eV ) .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) is similar to that of the minority spin band in (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 295 contains 1 phrases
+	 The Cr2CF(OH) system exhibits ferrimagnetic and semiconducting characteristics with a Γ to M indirect band gap of 0.383 eV .
+The cluster centroid pattern is: The (compound__names) system exhibits ferrimagnetic and semiconducting characteristics with a Γ to M indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 296 contains 1 phrases
+	 Aluminum nitride possesses a unique combination of highly useful properties , including wide band gap ( 6.2 eV ) , ability of n- and p - doping [] , good piezoelectric and dielectric characteristics [] , high heat conductivity [] , thermal and chemical stability .
+The cluster centroid pattern is: <Blank> (compound__names) possesses a unique combination of highly useful properties , including wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 297 contains 1 phrases
+	 For GaN ( InN ) , the bulk lattice parameters in our calculations are a = 3.18 ( 3.58 ) Å , c = 5.18 ( 5.77 ) Å , and u0 = 0.38 ( 0.39 ) , and the calculated band gaps are 2.58 ( 0.22 ) eV , in good agreement with the reported results .
+The cluster centroid pattern is: For (compound__names) ( InN ) , the bulk lattice parameters in our calculations are a = 3.18 ( 3.58 ) Å , c = 5.18 ( 5.77 ) Å , and u0 = 0.38 ( 0.39 ) , and the calculated (bandgap__specifier) are (bandgap__raw_value) ( 0.22 ) (bandgap__raw_units) , with confidence score 1.0
+Cluster 298 contains 1 phrases
+	 The electronic properties calculation of the proposed monolayer illustrates that Sb2C monolayer is a semiconductor compound with an indirect band gap of 0.90 eV ( 1.45 eV ) calculated by PBE ( HSE06 ) level of theory can be engineered by applying biaxial stress and strain .
+The cluster centroid pattern is: that (compound__names) monolayer is a semiconductor compound with an indirect (bandgap__specifier) of (bandgap__raw_value) eV ( (bandgap__raw_value) <Blank> (bandgap__raw_units) calculated with confidence score 1.0
+Cluster 299 contains 1 phrases
+	 Un-doped ZnO thin films showed a relatively high resistivity ( 10 − 2 Ω cm ) and optical band gap energy ( 3.3 eV ) .
+The cluster centroid pattern is: Un-doped (compound__names) thin films showed a relatively high resistivity ( 10 − 2 Ω cm ) and optical (bandgap__specifier) energy ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 300 contains 1 phrases
+	 Recently , Mg and Ga co-doped ZnO ( MGZO ) thin films that maintain a low electrical resistivity of less than 10 − 4 Ω cm and wide band gap energy of over 3.75 eV were reported .
+The cluster centroid pattern is: co-doped (compound__names) ( (compound__names) ) thin films that maintain a low electrical resistivity of less than 10 − 4 Ω cm and wide (bandgap__specifier) energy of over (bandgap__raw_value) <Blank> (bandgap__raw_units) were with confidence score 1.0
+Cluster 301 contains 1 phrases
+	 A low electrical resistivity of 5.3 × 10 − 3 Ω cm and wide band gap energy of 3.91 eV can be developed in the ZnO - based thin films by introducing Mg and Ga to the ZnO structure .
+The cluster centroid pattern is: wide (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) can be developed in the (compound__names) - with confidence score 1.0
+Cluster 302 contains 1 phrases
+	 Zinc oxide ( ZnO ) is known to be as n - type semiconductor and a transparent conductive oxide with excellent optoelectronic properties like wide band gap ( 3.37 eV ) , high dielectric constant , high exciton binding energy ( 60 meV ) , and high thermal stability ( ) .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) is known to be as n - type semiconductor and a transparent conductive oxide with excellent optoelectronic properties like wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 303 contains 1 phrases
+	 The calculated band gap increased from 3.18 to 3.31 eV corresponding to the energies of ZnO and GZO NPs as shown in ( b ) .
+The cluster centroid pattern is: calculated (bandgap__specifier) increased from (bandgap__raw_value) <Blank> (bandgap__raw_units) corresponding to the energies of (compound__names) and with confidence score 1.0
+Cluster 304 contains 1 phrases
+	 In2O3 is a n - type semiconductor with a wide direct band gap Eg of about 3.5 – 3.7 eV at 300 Ks .
+The cluster centroid pattern is: <Blank> (compound__names) is a n - type semiconductor with a wide direct (bandgap__specifier) <Blank> (bandgap__specifier) of about (bandgap__raw_value) <Blank> (bandgap__raw_units) at with confidence score 1.0
+Cluster 305 contains 1 phrases
+	 Suzuki et al. reported a remarkable expansion of the band gap of In2O3 quantum dots from 2.75 to 3.91 eV by decreasing the size of the In2O3 quantum dots .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) quantum dots from (bandgap__raw_value) <Blank> (bandgap__raw_units) by with confidence score 1.0
+Cluster 306 contains 2 phrases
+	 Na2C is a Dirac half - metal material with a band gap of 0.7 eV in the up - spin channel .
+	 Acquired results show that Na2C is a Dirac half - metal ( DHM ) with a band gap of 0.7 eV .
+The cluster centroid pattern is: that (compound__names) is a Dirac half - metal ( DHM ) with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 307 contains 1 phrases
+	 We found that Na2C , is a DHM with band gap of 0.7 eV in the up - spin channel and has 2 μB magnetic moment per unit cell .
+The cluster centroid pattern is: that (compound__names) , is a DHM with (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) in with confidence score 1.0
+Cluster 308 contains 1 phrases
+	 Er3+ / Yb3+ doped Y2O3 and ZrO2 present favorable physical properties , such as a wide band gap between 5.6 and 7.0 eV , and ease of synthesis in the nanometer regime .
+The cluster centroid pattern is: doped (compound__names) and (compound__names) present favorable physical properties , such as a wide (bandgap__specifier) between (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 309 contains 1 phrases
+	 Yttrium oxide Y2O3 , and zirconium oxide ZrO2 are two ceramic oxides with band gaps in the 5 – 7 eV range , depending on the synthesis process .
+The cluster centroid pattern is: <Blank> (compound__names) , and (compound__names) are two ceramic oxides with (bandgap__specifier) in the (bandgap__raw_value) <Blank> (bandgap__raw_units) range with confidence score 1.0
+Cluster 310 contains 1 phrases
+	 Nanostructured CdS thin film may also be applied in photovoltaic devices due to its larger band gap than that of the bulk material ( 2.42 eV ) .
+The cluster centroid pattern is: Nanostructured (compound__names) thin film may also be applied in photovoltaic devices due to its larger (bandgap__specifier) than that of the bulk material ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 311 contains 1 phrases
+	 provides the estimated band gaps of ~ 3.91 eV and 3.64 eV for PbWO4 and PbWO4 : 2 at % Tb3 + respectively .
+The cluster centroid pattern is: estimated (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) and (compound__names) : with confidence score 1.0
+Cluster 312 contains 1 phrases
+	 The calculated band gaps for 5 , 7 , 10 and 15 at % Tb3 + doped PbWO4 samples are shown in Fig. S1 and found to be approximately 3.78 eV , 3.64 eV , 3.52 eV and 3.66 eV respectively .
+The cluster centroid pattern is: calculated (bandgap__specifier) for 5 , 7 , 10 and 15 at % (compound__names) samples are shown in Fig. S1 and found to be approximately (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) , (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) respectively with confidence score 1.0
+Cluster 313 contains 1 phrases
+	 The optical band gap reported in the literature for PbWO4 was 3.77 eV .
+The cluster centroid pattern is: optical (bandgap__specifier) reported in the literature for (compound__names) was (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 314 contains 1 phrases
+	 Zinc oxide is a transparent ( usually n - type ) semiconductor with a large band gap energy , which is between 3.2 and 3.4 eV at 300 K .
+The cluster centroid pattern is: <Blank> (compound__names) is a transparent ( usually n - type ) semiconductor with a large (bandgap__specifier) energy , which is between (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 315 contains 1 phrases
+	 Moreover this edge is close to 375 nm ( ∼ 3.3 eV ) , which corresponds with ZnO band gap energy .
+The cluster centroid pattern is: ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , which corresponds with (compound__names) <Blank> (bandgap__specifier) energy with confidence score 1.0
+Cluster 316 contains 1 phrases
+	 ZnO is a direct band gap semiconductor with band gap of 3.37 eV and a large exciton binding energy of 60 MeV .
+The cluster centroid pattern is: <Blank> (compound__names) is a direct (bandgap__specifier) semiconductor with band gap of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 317 contains 1 phrases
+	 The great interest into these materials is mainly driven by their wide band gap energy ( Eg ∼ 3.3 – 3.4 eV for ZnO and Eg ∼ 3.4 – 3.8 eV for ZnS ) , meaning a high transparency in visible and near-UV range .
+The cluster centroid pattern is: ( (bandgap__specifier) <Blank> (bandgap__raw_value) – 3.4 (bandgap__raw_units) for (compound__names) and (bandgap__specifier) <Blank> (bandgap__raw_value) – 3.8 (bandgap__raw_units) for (compound__names) ) with confidence score 1.0
+Cluster 318 contains 1 phrases
+	 where EgZnS and EgZnO are band gap energy of binary compounds at 300 K ( 3.62 eV and 3.30 eV , respectively ) , а b is the bowing parameter .
+The cluster centroid pattern is: and (compound__names) are (bandgap__specifier) energy of binary compounds at 300 K ( 3.62 eV and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 319 contains 1 phrases
+	 Bandgap energy of ZnHgSSe can be varied approximately from 1.6 to 2.8 eV while keeping lattice match with GaAs ( Fig. 1 ) .
+The cluster centroid pattern is: <Blank> (bandgap__specifier) energy of (compound__names) can be varied approximately from (bandgap__raw_value) <Blank> (bandgap__raw_units) while with confidence score 1.0
+Cluster 320 contains 1 phrases
+	 Although NiO is a wide - band gap semiconductor ( Eg ≈ 3.7 eV ) , reported NiO thin film materials have rarely exhibited a visible - region transmittance as high as that predicted solely by the bulk band gap value .
+The cluster centroid pattern is: Although (compound__names) is a wide - band gap semiconductor ( (bandgap__specifier) ≈ (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 321 contains 1 phrases
+	 The Eg value is estimated as 1.37 eV from the intersection of the extrapolated linear portion with the x-axis ( photon energy ) , being consistent with the reported values of Cu2ZnSnSe4 in the literature .
+The cluster centroid pattern is: The (bandgap__specifier) value is estimated as (bandgap__raw_value) <Blank> (bandgap__raw_units) from the intersection of the extrapolated linear portion with the x-axis ( photon energy ) , being consistent with the reported values of (compound__names) in with confidence score 1.0
+Cluster 322 contains 1 phrases
+	 UV - Vis optical investigation shows that the band gap of the as-prepared Cu2ZnSnSe4nanosheets is 1.37 eV , disclosing their suitability for the photovoltaic application .
+The cluster centroid pattern is: the (bandgap__specifier) of the as-prepared (compound__names) is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 323 contains 1 phrases
+	 Among the metal sulfides investigated , CdS with a narrow band gap of 2.4 eV and a suitable band structure is one of the most frequently studied materials for hydrogen production from aqueous solution containing sacrificial reagents under visible light irradiation .
+The cluster centroid pattern is: , (compound__names) with a narrow (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 324 contains 1 phrases
+	 ZnS with a wide band gap ( 3.5 eV ) is another widely investigated metal sulfide photocatalyst .
+The cluster centroid pattern is: <Blank> (compound__names) with a wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) is with confidence score 1.0
+Cluster 325 contains 1 phrases
+	 The band gap energies of the binary Zn – Cd sulfide samples estimated from the onset of the absorption edge are in a close range of 2.43 – 2.49 eV as listed in Table 1 .
+The cluster centroid pattern is: The (bandgap__specifier) energies of the binary (compound__names) samples estimated from the onset of the absorption edge are in a close range of (bandgap__raw_value) <Blank> (bandgap__raw_units) as with confidence score 1.0
+Cluster 326 contains 1 phrases
+	 No hydrogen gas was produced when the pure ZnS sample was used as the photocatalyst as this wide band gaped sample ( Eg = 3.39 eV ) only absorbs UV light .
+The cluster centroid pattern is: pure (compound__names) sample was used as the photocatalyst as this wide band gaped sample ( (bandgap__specifier) = (bandgap__raw_value) <Blank> (bandgap__raw_units) only with confidence score 1.0
+Cluster 327 contains 1 phrases
+	 PBDFNTDO possesses a broad absorption band at 300 – 750 nm with an optical bandgap of 1.65 eV .
+The cluster centroid pattern is: <Blank> (compound__names) possesses a broad absorption band at 300 – 750 nm with an optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 328 contains 1 phrases
+	 PBDFNTDO film shows a broad absorption edge at 750 nm with an optical band - gap ( Eg ) of 1.65 eV .
+The cluster centroid pattern is: <Blank> (compound__names) film shows a broad absorption edge at 750 nm with an optical band - gap ( (bandgap__specifier) ) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 329 contains 1 phrases
+	 The optical band gap ( Eg ) of the PBDFNTDO film calculated from the absorption band edge is ca. 1.65 eV .
+The cluster centroid pattern is: optical (bandgap__specifier) ( (bandgap__specifier) ) of the (compound__names) film calculated from the absorption band edge is ca. (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 330 contains 1 phrases
+	 TiO2-NS show typical UV - visdiffuse reflectance spectra of anatase with a cut - off wavelength at ∼ 400 nm , corresponding to its band gap of 3.2 eV .
+The cluster centroid pattern is: <Blank> (compound__names) show typical UV - visdiffuse reflectance spectra of anatase with a cut - off wavelength at ∼ 400 nm , corresponding to its (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 331 contains 1 phrases
+	 Since Cu2O is a semiconductor with a narrow band gap ( ∼ 2.0 eV ) as compared to anatase TiO2 , Cu2O can be excited by visible light , leading to absorption at 500 – 700 nm .
+The cluster centroid pattern is: Since (compound__names) is a semiconductor with a narrow (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) as with confidence score 1.0
+Cluster 332 contains 1 phrases
+	 As we know , anatase TiO2 is an n - type semiconductor ( band gap ≈ 3.2 eV ) , while Cu2O is a p - type semiconductor ( band gap ≈ 2.0 eV ) , which overlaps with that of anatase .
+The cluster centroid pattern is: anatase (compound__names) is an n - type semiconductor ( (bandgap__specifier) ≈ (bandgap__raw_value) <Blank> (bandgap__raw_units) , while (compound__names) is a p - type semiconductor ( (bandgap__specifier) ≈ (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 333 contains 1 phrases
+	 The CuO nanochains have a band gap of 2.7 eV and upon 340 nm irradiation exhibit a characteristic fluorescence spectrum peaking at 410 nm along with two shoulders at higher ( 390 nm , 3.2 eV ) and lower energies ( 440 nm , 2.8 eV ) .
+The cluster centroid pattern is: The (compound__names) nanochains have a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 334 contains 1 phrases
+	 From this spectrum the band gap of these nanostructures , worked out by making a plot between (αhν)2vs. hν , comes out to be about 2.7 eV , which is much larger than the band gap of the bulk CuO ( 1.2 eV ) .
+The cluster centroid pattern is: the (bandgap__specifier) of the bulk (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 335 contains 1 phrases
+	 This is also indicated by an increase in the band gap to 2.7 eV as compared to 1.68 eV for previously reported CuO nanowires with a diameter of 15 nm .
+The cluster centroid pattern is: the (bandgap__specifier) to 2.7 eV as compared to (bandgap__raw_value) <Blank> (bandgap__raw_units) for previously reported (compound__names) nanowires with confidence score 1.0
+Cluster 336 contains 1 phrases
+	 As our continued work is on open framework borates , our research efforts have led to a hybrid borate Zn(1,3-DAP)[B4O7] ( denoted 1 ) with a wide band gap ( 4.92 eV ) and an ultraviolet emission spectrum ( 385 nm ) .
+The cluster centroid pattern is: borate (compound__names) ( denoted 1 ) with a wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 337 contains 1 phrases
+	 The UV - vis absorption of the Ba - TaON semiconductor with the indirect band gap of 2.4 eV has a clear edge around 500 – 600 nm , which is in good agreement with the previous report .
+The cluster centroid pattern is: the (compound__names) semiconductor with the indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) has with confidence score 1.0
+Cluster 338 contains 1 phrases
+	 The calculated band gap ( 3.19 eV ) for SrTiO3 with the Heyd , Scuseria , and Ernzerhof hybrid functional is found to be very close to the experimentally observed value of 3.2 eV .
+The cluster centroid pattern is: calculated (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) ) for (compound__names) with the Heyd , Scuseria , and Ernzerhof hybrid functional is found to be very close to the experimentally observed value of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 339 contains 1 phrases
+	 The absorption curve for the ( Sb , N ) - codoped SrTiO3 is found to shift towards the visible region due to reduction in band gap to 2.66 eV .
+The cluster centroid pattern is: codoped (compound__names) is found to shift towards the visible region due to reduction in (bandgap__specifier) to (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 340 contains 1 phrases
+	 Consequently , the band gap ( energy difference between the occupied impurity states and the conduction band ) is reduced to 2.31 eV , which is responsible for the visible light absorption of N - doped SrTiO3 .
+The cluster centroid pattern is: the (bandgap__specifier) ( energy difference between the occupied impurity states and the conduction band ) is reduced to (bandgap__raw_value) <Blank> (bandgap__raw_units) , which is responsible for the visible light absorption of (compound__names) . with confidence score 1.0
+Cluster 341 contains 1 phrases
+	 The Fe3O4 nanopowder shows high PL intensities , which indicates high recombination rates of the excited electrons and holes due to narrow band gap value ( 1.4 eV ) .
+The cluster centroid pattern is: The (compound__names) nanopowder shows high PL intensities , which indicates high recombination rates of the excited electrons and holes due to narrow (bandgap__specifier) value ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 342 contains 1 phrases
+	 Due to indirect band gap ( 1.4 eV ) present in the Fe3O4 , it can not absorb sunlight directly .
+The cluster centroid pattern is: indirect (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) present in the (compound__names) , with confidence score 1.0
+Cluster 343 contains 1 phrases
+	 An increase in the amount of Ta(V) yielded a small blue shift of the bandgap size from ∼ 1.89 eV to ∼ 1.97 eV for CuNb1−xTaxO3 from x = 0 to 0.25 .
+The cluster centroid pattern is: the (bandgap__specifier) size from (bandgap__raw_value) <Blank> (bandgap__raw_units) to (bandgap__raw_value) <Blank> (bandgap__raw_units) for (compound__names) from with confidence score 1.0
+Cluster 344 contains 1 phrases
+	 The mixed - metal CuNb1−xTaxO3 solid solutions were selected owing to the previously reported stable photocurrent response and visible - light band gap of ∼ 1.95 eV for the parent p - type semiconductor CuNbO3 .
+The cluster centroid pattern is: light (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) for the parent p - type semiconductor (compound__names) . with confidence score 1.0
+Cluster 345 contains 1 phrases
+	 The band gap of CuNbO3 is favorable because it is close to an ideal ∼ 1.7 – 2.0 eV for maximum efficiency according to the estimated overpotentials in combination with the Shockley – Queisser limit .
+The cluster centroid pattern is: The (bandgap__specifier) of (compound__names) is favorable because it is close to an ideal (bandgap__raw_value) – 2.0 (bandgap__raw_units) for with confidence score 1.0
+Cluster 346 contains 1 phrases
+	 The indirect band gap of polycrystalline CuNbO3 films was previously reported to be ∼ 1.95 eV , which enables a large fraction of the solar spectrum to be absorbed .
+The cluster centroid pattern is: indirect (bandgap__specifier) of polycrystalline (compound__names) films was previously reported to be (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 347 contains 1 phrases
+	 The average Eg of the KNNMx films is 4.41 eV .
+The cluster centroid pattern is: average (bandgap__specifier) of the (compound__names) films is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 348 contains 1 phrases
+	 The band gap of KNN - based film prepared by Yao et al. is determined to be ∼ 4.5 eV .
+The cluster centroid pattern is: The (bandgap__specifier) of KNN - based film prepared by Yao et al. is determined to be (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 349 contains 1 phrases
+	 It can be seen that blank Cd0.8Zn0.2S can only absorb visible light below the wavelength of 550 nm , corresponding to the band gap of 2.26 eV .
+The cluster centroid pattern is: blank (compound__names) can only absorb visible light below the wavelength of 550 nm , corresponding to the (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 350 contains 1 phrases
+	 Tantalum nitride is intrinsically an n - type semiconductor with an optical band gap of 2.1 eV that theoretically corresponds to a maximum photocurrent density of 12.5 mA cm−2 .
+The cluster centroid pattern is: <Blank> (compound__names) is intrinsically an n - type semiconductor with an optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) that with confidence score 1.0
+Cluster 351 contains 2 phrases
+	 On the other hand , the TaOxNy - derived film is orange with a take - off transmittance at ∼ 590 nm which corresponds to the known band gap of Ta3N5 , i.e. 2.1 eV , discussed above .
+	 Unfortunately , the wide band gap of TiO2 , 3.2 eV , places a limit on the conversion efficiency of the solar energy because only the ultraviolet ( UV ) part of sunlight can be absorbed .
+The cluster centroid pattern is: wide (bandgap__specifier) of (compound__names) , (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 352 contains 1 phrases
+	 Based on the above computational parameters , the calculated band gap of pure Ta3N5 is 2.2 eV , which is close to the experimental band gap of Ta3N5 ( about 2.1 eV ) .
+The cluster centroid pattern is: calculated (bandgap__specifier) of pure (compound__names) is (bandgap__raw_value) <Blank> (bandgap__raw_units) , which is close to the experimental (bandgap__specifier) of (compound__names) ( about (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 353 contains 1 phrases
+	 The DOS calculated for the fully inverse CFO shows a band gap of 0.603 eV , as shown in Fig. 4(a) , which shows semiconducting feature .
+The cluster centroid pattern is: inverse (compound__names) shows a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 354 contains 1 phrases
+	 As GGA scheme typically underestimates band gap of transition elements oxides , the calculated value of 0.603 eV is reasonable when compared with the expected band gap for CFO reported in the literatures .
+The cluster centroid pattern is: of (bandgap__raw_value) <Blank> (bandgap__raw_units) is reasonable when compared with the expected (bandgap__specifier) for (compound__names) reported with confidence score 1.0
+Cluster 355 contains 1 phrases
+	 Furthermore , the spectrum of CuO / Cu2O-3 exhibits an absorption edge at 729 nm , which embodies the characteristic absorption of CuO with an indirect band gap , and the band gap of CuO has been estimated to be 1.7 eV according to the previously reported formula Eg = 1290 / λmax .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) has been estimated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) according with confidence score 1.0
+Cluster 356 contains 1 phrases
+	 Group 12 chalcogenides are classed as direct wide band - gap semiconductors , whilst tin(II) sulfide has a band gap ( 1.3 eV ) between that of silicon ( 1.12 eV ) and gallium arsenide ( 1.43 eV ) .
+The cluster centroid pattern is: whilst (compound__names) has a (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) between that of (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 357 contains 1 phrases
+	 ZnO is a wide - direct band gap material for 3.37 eV semiconductors , and has been used in several ZnO structures as ARCs , including nanowires , nanorods , nanotubes , and nanobelts .
+The cluster centroid pattern is: <Blank> (compound__names) is a wide - direct (bandgap__specifier) material for (bandgap__raw_value) <Blank> (bandgap__raw_units) semiconductors with confidence score 1.0
+Cluster 358 contains 1 phrases
+	 CdTe with a direct band gap of 1.44 eV and a high absorption coefficient at 300 K has received attention for its potential in solar energy conversion devices , sensors and photonics , high - efficiency photovoltaic devices and light emitting diodes .
+The cluster centroid pattern is: <Blank> (compound__names) with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and a high absorption coefficient (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) has with confidence score 1.0
+Cluster 359 contains 1 phrases
+	 The optical band gap ( Eoptg ) value of DCA3T(T-BDT) is about 1.80 eV , which is deduced from the onset ( 690 nm ) of absorption in the thin film .
+The cluster centroid pattern is: optical (bandgap__specifier) ( Eoptg ) value of (compound__names) is about (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 360 contains 1 phrases
+	 The optical characterization reveals that α-Fe2O3 nanocubes show strong visible - light absorption with a band gap energy of ∼ 2.1 eV while the photoluminescence emission spectra depicts a mono-peak centered at ∼ 590 nm .
+The cluster centroid pattern is: that (compound__names) nanocubes show strong visible - light absorption with a (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) while with confidence score 1.0
+Cluster 361 contains 1 phrases
+	 Hematite ( α-Fe2O3 ) is among one of the most interesting n - type metal oxide semiconductors with an optical bandgap of 2.1 eV .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) is among one of the most interesting n - type metal oxide semiconductors with an optical (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 362 contains 1 phrases
+	 Monoclinic CuO , tenorite is a strongly size dependent , tunable direct band gap , p - type semiconductor ( Eg ∼ 1.85 eV ) and is a promising material for photo - catalysis , humidity and gas sensors , as a cathode in solar cells , electrode material for supercapacitors and lithium ion batteries , pigments,etc .
+The cluster centroid pattern is: Monoclinic (compound__names) , (compound__names) is a strongly size dependent , tunable direct band gap , p - type semiconductor ( (bandgap__specifier) <Blank> (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 363 contains 1 phrases
+	 It has been reported that the band gap Eg of the DKDP crystal is between 7.6 eV and 9.0 eV at 300 K .
+The cluster centroid pattern is: the (bandgap__specifier) <Blank> (bandgap__specifier) of the (compound__names) crystal is between (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 364 contains 1 phrases
+	 Cu2O has gained a lot of attention as an environmentally friendly p - type semiconductor with a band gap of 2.0 – 2.2 eV .
+The cluster centroid pattern is: <Blank> (compound__names) has gained a lot of attention as an environmentally friendly p - type semiconductor with a (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 365 contains 1 phrases
+	 The optical band gap ( Eg ) of TFAP was calculated to be 2.36 eV from the absorption onset wavelength .
+The cluster centroid pattern is: optical (bandgap__specifier) ( (bandgap__specifier) ) of (compound__names) was calculated to be (bandgap__raw_value) <Blank> (bandgap__raw_units) from with confidence score 1.0
+Cluster 366 contains 1 phrases
+	 Nickel oxide ( NiO ) is an important class of p - type semiconductor exhibiting a wide band gap of ∼ 3.6 eV .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) is an important class of p - type semiconductor exhibiting a wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 367 contains 1 phrases
+	 The RuOx deposition did not alter the bandgap absorption of Cu2O of approx. 2.2 eV .
+The cluster centroid pattern is: the (bandgap__specifier) absorption of (compound__names) of approx. (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 368 contains 1 phrases
+	 The electron density of the HOMO orbital of HPB-CN before photocyclization was mainly localized on the electron - donating phenyl rings , with a calculated band gap of 2.690 eV that became 2.775 eV after photocyclization .
+The cluster centroid pattern is: of (compound__names) before photocyclization was mainly localized on the electron - donating phenyl rings , with a calculated (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) that became (bandgap__raw_value) <Blank> (bandgap__raw_units) after with confidence score 1.0
+Cluster 369 contains 1 phrases
+	 The TNS films and FTO glass appear band gaps at around 3.17 eV and 3.70 eV , respectively .
+The cluster centroid pattern is: and (compound__names) glass appear (bandgap__specifier) at around 3.17 eV and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 370 contains 2 phrases
+	 In the case of Fe2MnAl ( Fig. 4a ) , the DOS shows metallic behavior in the α-spin , while a band gap of 0.4 eV is observed at the Fermi energy level in the β-spin .
+	 In the case of FeCoMnAl ( Fig. 4c ) , the DOS shows metallic behavior in the α-spin band , while an energy band gap of 0.6 eV is observed at the Fermi energy level in the β-spin band resulting in half metallicity due to 100 % spin polarization .
+The cluster centroid pattern is: of (compound__names) ( Fig. 4c ) , the DOS shows metallic behavior in the α-spin band , while an energy (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) is with confidence score 1.0
+Cluster 371 contains 1 phrases
+	 CdS is one of the important II – VI semiconductor with a direct band gap of 2.42 eV at 300 K .
+The cluster centroid pattern is: <Blank> (compound__names) is one of the important II – VI semiconductor with a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) <Blank> (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) . with confidence score 1.0
+Cluster 372 contains 1 phrases
+	 The band gap has been calculated and is found to be 3.93 , 3.89 , 3.84 and 3.76 eV for CdS , 1.82 at. % Gd , 4.26 at. % Gd , and 5.38 at. % Gd - doped CdS nanoparticles respectively .
+The cluster centroid pattern is: The (bandgap__specifier) has been calculated and is found to be (bandgap__raw_value) , (bandgap__raw_value) , (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for CdS , 1.82 at. % Gd , 4.26 at. % Gd , and 5.38 at. % Gd - doped (compound__names) nanoparticles with confidence score 1.0
+Cluster 373 contains 1 phrases
+	 The band gap of CdS and Gd - doped CdS nanoparticles are higher than that of bulk CdS ( 2.42 eV ) and this increase of band gap takes place because of the quantum confinement effect .
+The cluster centroid pattern is: The (bandgap__specifier) of CdS and Gd - doped CdS nanoparticles are higher than that of bulk (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 374 contains 1 phrases
+	 However , CeO2 photocatalytic application is also greatly limited by its wide band gap ( 3.2 eV ) and low efficiency of sunlight utilization because the maximum absorbance located in ultraviolet range only occupies 3 – 5 % of the sunlight .
+The cluster centroid pattern is: , (compound__names) photocatalytic application is also greatly limited by its wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 375 contains 1 phrases
+	 Among various low band gap semiconductors , Cu species ( 1.83 eV ) are one of the most viable candidates owing to its unique structural and electronic properties .
+The cluster centroid pattern is: low (bandgap__specifier) semiconductors , (compound__names) species ( (bandgap__raw_value) <Blank> (bandgap__raw_units) are with confidence score 1.0
+Cluster 376 contains 1 phrases
+	 As an important semiconductor material with wide band gap ( 3.37 eV ) and high exciton binding energy ( 60 meV ) , Zinc oxide has attracted intensive attention due to its excellent piezoelectric , conductive , transparent , optoelectronic and field emission properties .
+The cluster centroid pattern is: wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and high exciton binding energy ( 60 meV ) , (compound__names) has with confidence score 1.0
+Cluster 377 contains 1 phrases
+	 However , most of the ferroelectric perovskite oxides having Eg of above 3 eV .
+The cluster centroid pattern is: ferroelectric (compound__names) having (bandgap__specifier) of above (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 378 contains 1 phrases
+	 Quan et al. reported that the substitution of Li+ ions to Na+ ions in NBT system , which yield the reduced band gap energy ( from 2.99 to 2.84 eV ) .
+The cluster centroid pattern is: in (compound__names) system , which yield the reduced (bandgap__specifier) energy ( from (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 379 contains 1 phrases
+	 However , due to the wide band gap ( Eg ~ 3.4 eV ) and high coercive field ( Ec = 73 kV / cm ) of NBT , it can not be employed for optoelectronics applications , especially in the visible spectral region .
+The cluster centroid pattern is: wide (bandgap__specifier) ( Eg (bandgap__raw_value) <Blank> (bandgap__raw_units) and high coercive field ( Ec = 73 kV / cm ) of (compound__names) , with confidence score 1.0
+Cluster 380 contains 1 phrases
+	 We have tuned the band gap energy from ( 3.35 to 2.53 eV ) by varying the x concentration of BMO into NBT system .
+The cluster centroid pattern is: the (bandgap__specifier) energy from ( (bandgap__raw_value) <Blank> (bandgap__raw_units) by varying the x concentration of BMO into (compound__names) system with confidence score 1.0
+Cluster 381 contains 1 phrases
+	 As an II – VI compound semiconductor , ZnS has large and tunable bandgap ( 3.66 eV ) , thus can be used for the fabrication of photonic crystals as well as magnetic semiconductor devices .
+The cluster centroid pattern is: , (compound__names) has large and tunable (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 382 contains 1 phrases
+	 Among them , CuS is one of the significant transition metal sulfides that belong to the p - type semiconductor with a wide band gap of 1.2 – 2.0 eV .
+The cluster centroid pattern is: , (compound__names) is one of the significant transition metal sulfides that belong to the p - type semiconductor with a wide (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 383 contains 1 phrases
+	 SnO2 is a well - known wide bandgap ( 3.6 eV ) n - type semiconductor which has been extensively used for various applications like gas sensors , transparent conducting electrodes , photocatalyst , Li - ion battery anode materials , dye - based solar cells and optoelectronic devices .
+The cluster centroid pattern is: <Blank> (compound__names) is a well - known wide (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) n with confidence score 1.0
+Cluster 384 contains 1 phrases
+	 The band gap obtained are 3.1 , 3.08 and 3.0 eV for pure SnO2 , 0.075 and 0.1 mol % Eu doped SnO2 respectively .
+The cluster centroid pattern is: The (bandgap__specifier) obtained are (bandgap__raw_value) , (bandgap__raw_value) and (bandgap__raw_value) <Blank> (bandgap__raw_units) for pure (compound__names) , 0.075 and 0.1 mol % Eu doped (compound__names) respectively with confidence score 1.0
+Cluster 385 contains 1 phrases
+	 Among them , CdS has broadly been studied because of its band gap energy of 2.5 eV in the visible region and potential applications which their performances are highly dependent on size and shape of nanostructures .
+The cluster centroid pattern is: , (compound__names) has broadly been studied because of its (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) in with confidence score 1.0
+Cluster 386 contains 1 phrases
+	 In principal , the band gap energy for Fe / Zeolite HY composite was previously reported to equal 1.65 eV .
+The cluster centroid pattern is: the (bandgap__specifier) energy for (compound__names) HY composite was previously reported to equal (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 387 contains 1 phrases
+	 Accordingly , the measured band gap energy values for the polypyrrole polymer and its new ZHY / PPy composite are equal to 1.35 eV and 1.08 eV , respectively .
+The cluster centroid pattern is: measured (bandgap__specifier) energy values for the (compound__names) polymer and its new ZHY / PPy composite are equal to (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 388 contains 1 phrases
+	 The photocatalysts of semiconductive transition metal oxides have been paid more attention to solve the problem of chemical utilization of solar energy , such as Fe2O3 , the band gap is 2.2 eV .
+The cluster centroid pattern is: semiconductive (compound__names) have been paid more attention to solve the problem of chemical utilization of solar energy , such as Fe2O3 , the (bandgap__specifier) is (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 389 contains 1 phrases
+	 It is well known that the spinel ferrites ( MFe2O4 ) are the main semiconductive and magnetic materials , and the band gap is about 2.0 eV .
+The cluster centroid pattern is: ( (compound__names) ) are the main semiconductive and magnetic materials , and the (bandgap__specifier) is about (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 390 contains 1 phrases
+	 The band gap energy of pure TiO2 without graphene is 3.2 eV , and the band gap energy of TiO2 after adding graphene has a tendency to decrease .
+The cluster centroid pattern is: The (bandgap__specifier) energy of pure (compound__names) without graphene is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 391 contains 1 phrases
+	 For the as-deposited film fabricated using the 0.4(LiGaO2)1 / 2-0.6ZnO alloyed ceramic target , the energy band gap was 3.74 eV , and the electrical resistivity , carrier density and the Hall mobility at 300 K were 3.6 Ωcm , 3.4 × 1017 cm−3 and 5.6 cm2 V−1 s−1 , respectively .
+The cluster centroid pattern is: / (compound__names) alloyed ceramic target , the energy (bandgap__specifier) was (bandgap__raw_value) <Blank> (bandgap__raw_units) , and the electrical resistivity , carrier density and the Hall mobility (temperature__specifier) <Blank> (temperature__raw_value) <Blank> (temperature__raw_units) were with confidence score 1.0
+Cluster 392 contains 1 phrases
+	 Zinc oxide ( ZnO ) is believed to be an excellent candidate for UV optoelectronics including light emitting diodes ( LEDs ) , laser diodes , and UV photodetectors due to its direct wide - bandgap ( 3.4 eV ) and large free exciton binding energy ( 60 meV ) .
+The cluster centroid pattern is: <Blank> (compound__names) ( (compound__names) ) is believed to be an excellent candidate for UV optoelectronics including light emitting diodes ( LEDs ) , laser diodes , and UV photodetectors due to its direct wide - (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and with confidence score 1.0
+Cluster 393 contains 1 phrases
+	 However , the large band gap ( > 3.0 eV ) and fast electron / hole ( e− / h+ ) recombination rates are the ZnO photocatalyst disadvantages which limit its efficiency in the conversion of incident photons to appropriate charge carriers .
+The cluster centroid pattern is: large (bandgap__specifier) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) and fast electron / hole ( e− / h+ ) recombination rates are the (compound__names) photocatalyst with confidence score 1.0
+Cluster 394 contains 1 phrases
+	 This may be related to the lower bandgap energy of CuO compared with TiO2 ( ~ 1.7 eV vs ~ 3.2 eV , respectively ) , causing higher antibacterial activity for the former under dark condition .
+The cluster centroid pattern is: lower (bandgap__specifier) energy of (compound__names) compared with (compound__names) ( (bandgap__raw_value) <Blank> (bandgap__raw_units) vs (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 395 contains 1 phrases
+	 Absorption spectroscopy exhibits the direct band gap transition , and optical band gap is decreased from 3.21 to 2.41 eV in ZnO : CdO nanocomposite .
+The cluster centroid pattern is: optical (bandgap__specifier) is decreased from (bandgap__raw_value) <Blank> (bandgap__raw_units) in (compound__names) : with confidence score 1.0
+Cluster 396 contains 1 phrases
+	 Semiconducting molybdenum disulphide ( MoS2 ) , another 2D material , shows a transition from an indirect band gap of 1.3 eV in the bulk to a direct band gap of 1.8 eV for a monolayer6 .
+The cluster centroid pattern is: Semiconducting (compound__names) ( (compound__names) ) , another 2D material , shows a transition from an indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) in the bulk to a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) for with confidence score 1.0
+Cluster 397 contains 1 phrases
+	 This specific material system has been selected to provide operation at the infrared spectral range , using the high refractive index of the GaInAsP at low absorption , which for frequencies below the bandgap ( ħωg = 1.2 eV ) is less than 1 cm−1 ( ref. 21 ) .
+The cluster centroid pattern is: the (compound__names) at low absorption , which for frequencies below the (bandgap__specifier) ( ħωg = (bandgap__raw_value) <Blank> (bandgap__raw_units) is with confidence score 1.0
+Cluster 398 contains 1 phrases
+	 The band gap of the SiH / TiO2(101) heterojunction is 2.082 eV , which is an ideal material for the visible - light photoexcitation of electron - hole pairs .
+The cluster centroid pattern is: The (bandgap__specifier) of the SiH / (compound__names) heterojunction is (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 399 contains 1 phrases
+	 It is found that the monolayer silicane has an indirect band gap of 2.935 eV , the monolayer germanane has a direct band gap of 1.638 eV and the bulk anatase TiO2 has an indirect band gap of 3.26 eV .
+The cluster centroid pattern is: monolayer (compound__names) has an indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) , the monolayer (compound__names) has a direct (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) and the bulk anatase (compound__names) has an indirect (bandgap__specifier) of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 1.0
+Cluster 400 contains 1 phrases
+	 For germanane and anatase TiO2 , the HSE06 calculated band gaps are precisely consistent with the experimental values of 1.59 eV and 3.2 eV , respectively25 .
+The cluster centroid pattern is: For (compound__names) and anatase (compound__names) , the HSE06 calculated (bandgap__specifier) are precisely consistent with the experimental values of (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 401 contains 1 phrases
+	 After the formation of an interface , the band gaps of silicane and germanane reduced to 2.082 eV and 1.154 eV , respectively .
+The cluster centroid pattern is: the (bandgap__specifier) of (compound__names) and (compound__names) reduced to (bandgap__raw_value) <Blank> (bandgap__raw_units) and (bandgap__raw_value) <Blank> (bandgap__raw_units) , with confidence score 1.0
+Cluster 402 contains 1 phrases
+	 Cadmium oxide , CdO , is a known n - type semiconductor with the direct band gap energy of 2.5 eV .
+The cluster centroid pattern is: <Blank> (compound__names) , is a known n - type semiconductor with the direct (bandgap__specifier) energy of (bandgap__raw_value) <Blank> (bandgap__raw_units) . with confidence score 0.0
