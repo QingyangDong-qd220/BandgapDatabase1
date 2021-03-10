@@ -37,7 +37,7 @@ class BandGap(EnergyModel):
 
 
 '''load snowball model'''
-home_path = 'D:\Cambridge\PhD\Snowball_model'
+home_path = 'Snowball_model'
 folder = 'General'
 model_name =  'general'
 
@@ -57,7 +57,7 @@ print('tsim =', snowball.minimum_cluster_similarity_score)
 
 
 '''get list of training articles'''
-training_folder = r'D:\Cambridge\PhD\Web-scraping\evaluation'
+training_folder = r'Web-scraping\evaluation'
 file_list = os.listdir(training_folder)
 
 # get the list of articles that have been processed
