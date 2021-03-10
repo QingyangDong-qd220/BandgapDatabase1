@@ -261,7 +261,7 @@ def scrap_spr_meta(doi):
     output: response in JATS format (contains full text), and html file of article (wrong encoding!)
     '''
 
-    meta_api_key = 'e8f388b08874cace533df4e894818679'
+    meta_api_key = ''
     meta_url = 'http://api.springernature.com/meta/v2/json'
     spr_url = '{}?q=doi:{}&api_key={}'.format(meta_url, doi, meta_api_key)
 
