@@ -66,7 +66,7 @@ def download(metadata_path):
         text_2 = insert_eV(text)
 
         # the / in doi interfere with naming the file
-        file_name = r'D:\Cambridge\PhD\Web-scraping\RSC\articles\{}.html'.format(doi.replace('/', '_'))
+        file_name = r'Web-scraping\RSC\articles\{}.html'.format(doi.replace('/', '_'))
         with open(file_name, 'w', encoding='utf-8') as f:
             f.write(text_2)
         
