@@ -38,7 +38,7 @@ def download(result):
     doi = result['doi']
     
     # article location
-    file_path = r'D:\Cambridge\Project\Main\Codes\web_scrapping\Elsevier\articles\{}'.format(journal_name)
+    file_path = r''
     file_name = '{}\{}.xml'.format(file_path, doi.replace('/', '_'))
     
     request_url = 'https://api.elsevier.com/content/article/doi/{}?apiKey={}&httpAccept=text%2Fxml'.format(doi, api_key)
@@ -53,7 +53,7 @@ def download(result):
 
 
 # metadata location
-meta_dir = r'D:\Cambridge\Project\Main\Codes\web_scrapping\Elsevier\metadata\{}'.format(journal_name)
+meta_dir = r''
 meta_name = r'combined.sav'
 search_results = joblib.load('{}\{}'.format(meta_dir, meta_name))
 
