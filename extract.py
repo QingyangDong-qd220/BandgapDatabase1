@@ -14,7 +14,7 @@ from check_records import sentence_check, log_sentence, load_model
 # suppress Pandas FutureWarning
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-s = Sentence('The α-Fe2O3 possess excellent band gap (2.2 eV) which leads to better photocatalytic degradation . ')
+
 
 # define a nested model
 class Temperature(TemperatureModel):
@@ -34,7 +34,7 @@ class BandGap(EnergyModel):
 
 
 '''load snowball model'''
-home_path = 'D:\Cambridge\PhD\Snowball_model'
+home_path = 'Snowball_model'
 folder = 'General'
 model_name =  'general'
 
@@ -152,7 +152,7 @@ def run(file_path, article):
     
     
 # get list of articles
-folder = r'D:\Cambridge\PhD\Web-scraping\Springer\articles'
+folder = r'Web-scraping\Springer\articles'
 file_list = os.listdir(folder)
 
 # load already found records
