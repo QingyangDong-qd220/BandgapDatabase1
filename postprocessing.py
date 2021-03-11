@@ -201,6 +201,11 @@ for i in combined_records:
             if 'by {} {}'.format(i['Raw_value'], i['Raw_unit']) in i['Text']:
                 # print(i['Text'], '\n')
                 i['del'] = True
+        
+        for j in special:
+            if i['Name'] == j['BandGap']['compound']['Compound']['names'][0] and i['Raw_value'] == j['BandGap']['raw_value'] and i['Text'] == j['BandGap']['text']:
+                i['del'] = True
+                continue
 
 
 
