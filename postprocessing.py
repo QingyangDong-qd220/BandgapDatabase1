@@ -68,10 +68,11 @@ def count_names(key, records):
 
 
 '''load'''
-folder = r'D:\Cambridge\PhD\Results'
+folder = r'Results'
 file_list = os.listdir(folder)
-ru_db = joblib.load('D:\Cambridge\PhD\Results\BandGapDB.sav')
-print('num of russianDB records:', len(ru_db), '\n')
+ru_db = joblib.load('Results\BandGapDB.sav')
+special = joblib.load('Results\special.sav')
+# print('num of russianDB records:', len(ru_db), '\n')
 
 results = []
 for i in file_list:
