@@ -11,9 +11,7 @@ The updated Snowball algorithm can be patched by replacing the chemdataextractor
 
 **Usage**
 
-1. Document acquisition
-
-  Scientific documents can be obtained by running search.py and download.py in the web-scraping folder.
+1. Document acquisition. Journal articles can be obtained by running search.py and download.py in the web-scraping folder, after specifying the api keys and save directories. Alternatively, the user can provide the documents in XML and HTML formats. 
 
 2. Snowball model training
   something.
