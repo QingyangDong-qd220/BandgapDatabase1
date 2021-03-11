@@ -12,13 +12,14 @@ The updated Snowball algorithm can be patched by replacing the chemdataextractor
 **Usage**
 
 1. Document acquisition
-something.
+
+  Scientific documents can be obtained by running search.py and download.py in the web-scraping folder.
 
 2. Snowball model training
-something.
+  something.
 
 3. Data extraction
-something.
+  something.
 
 4. Post processing
-something.
+  something.
