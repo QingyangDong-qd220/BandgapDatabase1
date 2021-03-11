@@ -12,17 +12,13 @@ The updated Snowball algorithm can be patched by replacing the chemdataextractor
 **Usage**
 
 1. Document acquisition
-
 something.
 
 2. Snowball model training
-
 something.
 
 3. Data extraction
-
 something.
 
 4. Post processing
-
 something.
