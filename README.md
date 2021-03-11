@@ -1,5 +1,5 @@
 # BandgapDatabase1
-Codes to extract bandgap information from scientific documents and generate a database using ChemDataExtractor.
+Tools for extracting bandgap information from scientific documents and generating a database using ChemDataExtractor.
 
 **Installation Notes**
 
@@ -15,4 +15,4 @@ The updated Snowball algorithm can be patched by replacing the chemdataextractor
 
 3. Data extraction. The user can specify the article corpus then run extract.py to extract bandgap data. 
 
-4. Post processing. Simply run postprocessing.py to finalize the database. 
+4. Post processing. Simply run postprocessing.py to finalize the database. Please refer to the source code for details.
