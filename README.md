@@ -1,2 +1,2 @@
 # BandgapDatabase1
-Codes to generate a bandgap database using ChemDataExtractor.
+Codes to extract bandgap information from scientific documents and generate a database using ChemDataExtractor.
