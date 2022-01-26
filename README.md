@@ -15,4 +15,6 @@ The updated Snowball algorithm can be patched by replacing the chemdataextractor
 
 3. Data extraction. The user can specify the article corpus then run extract.py to extract bandgap data. 
 
-4. Post processing. Simply run postprocessing.py to finalize the database. Please refer to the source code for details.
+4. Post processing. Simply run postprocessing.py to finalize the database. Please refer to the source code for details. 
+
+5. Compound parsing (optional). run MaterialParser/example.py to parse chemical strings into individual compositions. 
