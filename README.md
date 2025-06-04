@@ -18,3 +18,4 @@ The updated Snowball algorithm can be patched by replacing the chemdataextractor
 4. Post processing. Simply run postprocessing.py to finalize the database. Please refer to the source code for details. 
 
 5. Compound parsing (optional). run MaterialParser/example.py to parse chemical strings into individual compositions. 
+[![DOI](https://zenodo.org/badge/340854913.svg)](https://doi.org/10.5281/zenodo.15589156)
